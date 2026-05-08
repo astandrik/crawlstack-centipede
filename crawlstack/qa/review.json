@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames",
+  "frames_root": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames",
   "errors": [],
   "warnings": [],
   "rows": [
@@ -15,7 +15,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/idle/00.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/idle/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22833,
@@ -30,7 +30,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/idle/01.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/idle/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22072,
@@ -45,7 +45,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/idle/02.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/idle/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22144,
@@ -60,7 +60,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/idle/03.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/idle/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22140,
@@ -75,7 +75,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/idle/04.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/idle/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22238,
@@ -90,7 +90,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/idle/05.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/idle/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22715,
@@ -116,123 +116,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-right/00.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-right/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25557,
+          "nontransparent_pixels": 21913,
           "bbox": [
             5,
-            10,
+            20,
             187,
-            197
+            187
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 346
+          "chroma_adjacent_pixels": 254
         },
         {
           "index": 1,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-right/01.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-right/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24579,
+          "nontransparent_pixels": 23115,
           "bbox": [
             5,
-            11,
+            19,
             187,
-            197
+            189
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 408
+          "chroma_adjacent_pixels": 343
         },
         {
           "index": 2,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-right/02.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-right/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24810,
+          "nontransparent_pixels": 23651,
           "bbox": [
             5,
-            11,
+            17,
             187,
-            196
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 391
+          "chroma_adjacent_pixels": 275
         },
         {
           "index": 3,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-right/03.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-right/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25661,
+          "nontransparent_pixels": 22433,
           "bbox": [
             5,
-            9,
+            20,
             187,
-            198
+            187
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 320
+          "chroma_adjacent_pixels": 313
         },
         {
           "index": 4,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-right/04.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-right/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25943,
+          "nontransparent_pixels": 23224,
           "bbox": [
             5,
-            7,
+            18,
             187,
-            200
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 300
+          "chroma_adjacent_pixels": 299
         },
         {
           "index": 5,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-right/05.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-right/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 26724,
+          "nontransparent_pixels": 23885,
           "bbox": [
             5,
-            7,
+            15,
             187,
-            201
+            192
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 441
+          "chroma_adjacent_pixels": 353
         },
         {
           "index": 6,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-right/06.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-right/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24868,
+          "nontransparent_pixels": 22356,
           "bbox": [
             5,
-            10,
+            18,
             187,
-            198
+            189
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 368
+          "chroma_adjacent_pixels": 316
         },
         {
           "index": 7,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-right/07.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-right/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25225,
+          "nontransparent_pixels": 22106,
           "bbox": [
             5,
-            10,
+            18,
             187,
-            197
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 336
+          "chroma_adjacent_pixels": 328
         }
       ]
     },
@@ -247,123 +247,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-left/00.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-left/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25225,
+          "nontransparent_pixels": 22106,
           "bbox": [
             5,
-            10,
+            18,
             187,
-            197
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 336
+          "chroma_adjacent_pixels": 328
         },
         {
           "index": 1,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-left/01.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-left/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24868,
+          "nontransparent_pixels": 22356,
           "bbox": [
             5,
-            10,
+            18,
             187,
-            198
+            189
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 368
+          "chroma_adjacent_pixels": 316
         },
         {
           "index": 2,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-left/02.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-left/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 26724,
+          "nontransparent_pixels": 23885,
           "bbox": [
             5,
-            7,
+            15,
             187,
-            201
+            192
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 441
+          "chroma_adjacent_pixels": 353
         },
         {
           "index": 3,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-left/03.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-left/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25943,
+          "nontransparent_pixels": 23224,
           "bbox": [
             5,
-            7,
+            18,
             187,
-            200
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 300
+          "chroma_adjacent_pixels": 299
         },
         {
           "index": 4,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-left/04.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-left/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25661,
+          "nontransparent_pixels": 22433,
           "bbox": [
             5,
-            9,
+            20,
             187,
-            198
+            187
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 320
+          "chroma_adjacent_pixels": 313
         },
         {
           "index": 5,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-left/05.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-left/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24810,
+          "nontransparent_pixels": 23651,
           "bbox": [
             5,
-            11,
+            17,
             187,
-            196
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 391
+          "chroma_adjacent_pixels": 275
         },
         {
           "index": 6,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-left/06.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-left/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24579,
+          "nontransparent_pixels": 23115,
           "bbox": [
             5,
-            11,
+            19,
             187,
-            197
+            189
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 408
+          "chroma_adjacent_pixels": 343
         },
         {
           "index": 7,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running-left/07.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running-left/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25557,
+          "nontransparent_pixels": 21913,
           "bbox": [
             5,
-            10,
+            20,
             187,
-            197
+            187
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 346
+          "chroma_adjacent_pixels": 254
         }
       ]
     },
@@ -378,10 +378,10 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waving/00.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waving/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19928,
+          "nontransparent_pixels": 19900,
           "bbox": [
             5,
             25,
@@ -389,52 +389,52 @@
             182
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 120
+          "chroma_adjacent_pixels": 143
         },
         {
           "index": 1,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waving/01.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waving/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18718,
+          "nontransparent_pixels": 18824,
           "bbox": [
             5,
-            28,
-            187,
-            179
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 101
-        },
-        {
-          "index": 2,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waving/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 19551,
-          "bbox": [
-            5,
-            26,
-            187,
-            181
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 89
-        },
-        {
-          "index": 3,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waving/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 19793,
-          "bbox": [
-            5,
-            26,
+            25,
             187,
             182
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 88
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 2,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20193,
+          "bbox": [
+            5,
+            21,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 3,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20515,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
         }
       ]
     },
@@ -449,78 +449,78 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/jumping/00.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/jumping/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17638,
+          "nontransparent_pixels": 18936,
           "bbox": [
             5,
-            39,
+            32,
             187,
-            169
+            175
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 135
+          "chroma_adjacent_pixels": 195
         },
         {
           "index": 1,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/jumping/01.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/jumping/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 21347,
+          "nontransparent_pixels": 22242,
           "bbox": [
             5,
-            22,
+            17,
             187,
-            185
+            190
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 154
+          "chroma_adjacent_pixels": 208
         },
         {
           "index": 2,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/jumping/02.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/jumping/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17741,
+          "nontransparent_pixels": 21902,
           "bbox": [
             5,
-            35,
-            187,
-            173
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 122
-        },
-        {
-          "index": 3,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/jumping/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 20955,
-          "bbox": [
-            5,
-            19,
+            20,
             187,
             188
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 172
+          "chroma_adjacent_pixels": 276
+        },
+        {
+          "index": 3,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20686,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
         },
         {
           "index": 4,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/jumping/04.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/jumping/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15845,
+          "nontransparent_pixels": 19112,
           "bbox": [
             5,
-            45,
+            32,
             187,
-            162
+            176
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 101
+          "chroma_adjacent_pixels": 186
         }
       ]
     },
@@ -535,55 +535,25 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/failed/00.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/failed/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18661,
+          "nontransparent_pixels": 20875,
           "bbox": [
             5,
-            31,
+            23,
             187,
-            177
+            184
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 175
+          "chroma_adjacent_pixels": 319
         },
         {
           "index": 1,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/failed/01.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/failed/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16539,
-          "bbox": [
-            5,
-            41,
-            187,
-            167
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 171
-        },
-        {
-          "index": 2,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/failed/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 18980,
-          "bbox": [
-            5,
-            29,
-            187,
-            179
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 212
-        },
-        {
-          "index": 3,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/failed/03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 18223,
+          "nontransparent_pixels": 18947,
           "bbox": [
             5,
             33,
@@ -591,67 +561,97 @@
             175
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 200
+          "chroma_adjacent_pixels": 293
+        },
+        {
+          "index": 2,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19040,
+          "bbox": [
+            5,
+            32,
+            187,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 308
+        },
+        {
+          "index": 3,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20291,
+          "bbox": [
+            5,
+            27,
+            187,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 317
         },
         {
           "index": 4,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/failed/04.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/failed/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16925,
+          "nontransparent_pixels": 21764,
           "bbox": [
             5,
-            40,
+            20,
             187,
-            168
+            188
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 179
+          "chroma_adjacent_pixels": 294
         },
         {
           "index": 5,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/failed/05.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/failed/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18047,
+          "nontransparent_pixels": 20259,
           "bbox": [
             5,
-            34,
+            29,
             187,
-            174
+            178
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 220
+          "chroma_adjacent_pixels": 323
         },
         {
           "index": 6,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/failed/06.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/failed/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17250,
+          "nontransparent_pixels": 18974,
           "bbox": [
             5,
-            38,
+            33,
             187,
-            169
+            175
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 182
+          "chroma_adjacent_pixels": 301
         },
         {
           "index": 7,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/failed/07.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/failed/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16290,
+          "nontransparent_pixels": 19203,
           "bbox": [
             5,
-            41,
+            31,
             187,
-            166
+            177
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 180
+          "chroma_adjacent_pixels": 308
         }
       ]
     },
@@ -666,93 +666,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waiting/00.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waiting/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19384,
+          "nontransparent_pixels": 20626,
           "bbox": [
             5,
-            27,
+            23,
             187,
-            180
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 207
-        },
-        {
-          "index": 1,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waiting/01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 19280,
-          "bbox": [
-            5,
-            28,
-            187,
-            180
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 173
-        },
-        {
-          "index": 2,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waiting/02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 18675,
-          "bbox": [
-            5,
-            29,
-            187,
-            178
+            184
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 197
         },
         {
-          "index": 3,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waiting/03.png",
+          "index": 1,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waiting/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18142,
+          "nontransparent_pixels": 20968,
           "bbox": [
             5,
-            30,
+            22,
             187,
-            178
+            185
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 208
+          "chroma_adjacent_pixels": 171
+        },
+        {
+          "index": 2,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20817,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 3,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21248,
+          "bbox": [
+            5,
+            20,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
         },
         {
           "index": 4,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waiting/04.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waiting/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18447,
+          "nontransparent_pixels": 21306,
           "bbox": [
             5,
-            31,
+            20,
             187,
-            176
+            188
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 189
+          "chroma_adjacent_pixels": 215
         },
         {
           "index": 5,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/waiting/05.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/waiting/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18980,
+          "nontransparent_pixels": 21041,
           "bbox": [
             5,
-            29,
+            21,
             187,
-            179
+            186
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 224
+          "chroma_adjacent_pixels": 215
         }
       ]
     },
@@ -767,93 +767,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running/00.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18316,
+          "nontransparent_pixels": 20247,
           "bbox": [
             5,
-            36,
+            25,
             187,
-            172
+            183
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 189
+          "chroma_adjacent_pixels": 235
         },
         {
           "index": 1,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running/01.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16853,
+          "nontransparent_pixels": 20709,
           "bbox": [
             5,
-            39,
+            24,
             187,
-            169
+            184
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 145
+          "chroma_adjacent_pixels": 194
         },
         {
           "index": 2,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running/02.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18457,
+          "nontransparent_pixels": 20557,
           "bbox": [
             5,
-            35,
+            24,
             187,
-            173
+            184
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 195
+          "chroma_adjacent_pixels": 201
         },
         {
           "index": 3,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running/03.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19636,
+          "nontransparent_pixels": 20767,
           "bbox": [
             5,
-            27,
+            23,
             187,
-            180
+            184
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 217
+          "chroma_adjacent_pixels": 250
         },
         {
           "index": 4,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running/04.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17754,
+          "nontransparent_pixels": 20415,
           "bbox": [
             5,
-            35,
+            24,
             187,
-            173
+            183
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 192
+          "chroma_adjacent_pixels": 218
         },
         {
           "index": 5,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/running/05.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/running/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16429,
+          "nontransparent_pixels": 20007,
           "bbox": [
             5,
-            38,
+            24,
             187,
-            169
+            184
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 160
+          "chroma_adjacent_pixels": 229
         }
       ]
     },
@@ -868,85 +868,55 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/review/00.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/review/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20462,
+          "nontransparent_pixels": 19989,
+          "bbox": [
+            5,
+            26,
+            187,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 211
+        },
+        {
+          "index": 1,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20747,
           "bbox": [
             5,
             23,
             187,
-            184
+            185
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 307
-        },
-        {
-          "index": 1,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/review/01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 18650,
-          "bbox": [
-            5,
-            32,
-            187,
-            175
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 250
+          "chroma_adjacent_pixels": 230
         },
         {
           "index": 2,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/review/02.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/review/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20986,
+          "nontransparent_pixels": 20808,
           "bbox": [
             5,
-            22,
+            23,
             187,
-            186
+            185
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 321
+          "chroma_adjacent_pixels": 238
         },
         {
           "index": 3,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/review/03.png",
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/review/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19303,
-          "bbox": [
-            5,
-            24,
-            187,
-            184
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 282
-        },
-        {
-          "index": 4,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/review/04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 21248,
-          "bbox": [
-            5,
-            21,
-            187,
-            187
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 330
-        },
-        {
-          "index": 5,
-          "file": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/frames/review/05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 20786,
+          "nontransparent_pixels": 21013,
           "bbox": [
             5,
             22,
@@ -954,7 +924,37 @@
             185
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 202
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 4,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20983,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        },
+        {
+          "index": 5,
+          "file": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21296,
+          "bbox": [
+            5,
+            21,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
         }
       ]
     }

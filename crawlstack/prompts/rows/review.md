@@ -58,3 +58,13 @@ Repair attempt 1:
 - Use the canonical base image and any original references listed in `imagegen-jobs.json` as grounding inputs.
 - Do not redesign the pet. Keep the exact same head shape, face design, markings, body proportions, palette, outline weight, materials, and props as the approved base pet.
 - If the contact sheet shows identity drift, repair only this row while preserving the canonical base identity.
+
+Repair attempt 2:
+- The previous `review` strip failed QA: Visual identity drift against references/canonical-base.png: regenerate the review row so it remains the same arched segmented mask-faced Crawlstack from the canonical base, avoiding a different perspective, body type, mascot interpretation, props, UI, symbols, or softened cartoon style.
+- Regenerate the entire row, not just one pose.
+- Fill every requested frame slot with one complete centered full-body pet pose.
+- Keep large gaps of pure chroma key only between slots; do not leave a requested slot empty.
+- Avoid pose overlap, clipping, edge slivers, extra partial sprites, and detached fragments from neighboring poses.
+- Use the canonical base image and any original references listed in `imagegen-jobs.json` as grounding inputs.
+- Do not redesign the pet. Keep the exact same head shape, face design, markings, body proportions, palette, outline weight, materials, and props as the approved base pet.
+- If the contact sheet shows identity drift, repair only this row while preserving the canonical base identity.

@@ -48,3 +48,13 @@ Layout requirements:
 - Keep every frame self-contained with safe padding. No pet body part should be clipped by the frame slot.
 - Avoid motion blur. Use clear pose changes readable at 192x208.
 - Preserve the same silhouette, face, proportions, palette, material, and props across every frame.
+
+Repair attempt 1:
+- The previous `running` strip failed QA: Visual identity drift against references/canonical-base.png: regenerate the non-directional in-progress/task-running row without literal locomotion, while preserving the canonical Crawlstack body type, front porcelain mask, teal eyes, embedded trailing masks, charcoal shell, tan markings, and gloomy pixel style.
+- Regenerate the entire row, not just one pose.
+- Fill every requested frame slot with one complete centered full-body pet pose.
+- Keep large gaps of pure chroma key only between slots; do not leave a requested slot empty.
+- Avoid pose overlap, clipping, edge slivers, extra partial sprites, and detached fragments from neighboring poses.
+- Use the canonical base image and any original references listed in `imagegen-jobs.json` as grounding inputs.
+- Do not redesign the pet. Keep the exact same head shape, face design, markings, body proportions, palette, outline weight, materials, and props as the approved base pet.
+- If the contact sheet shows identity drift, repair only this row while preserving the canonical base identity.

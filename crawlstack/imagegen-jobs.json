@@ -124,14 +124,22 @@
       ],
       "mirror_policy": {},
       "recording_owner": "parent",
-      "source_path": "/Users/astandrik/.codex/generated_images/019e0835-0beb-7d72-862a-40ce3bb181e9/ig_00c61002965002550169fe05be41ec81919c07d3b31dc26929.png",
+      "repair_attempt": 1,
+      "previous_outputs": [
+        {
+          "attempt": 1,
+          "path": "decoded/repair-archive/running-right-attempt-1-previous.png",
+          "archived_at": "2026-05-08T19:58:05.785207+00:00"
+        }
+      ],
+      "source_path": "/Users/astandrik/.codex/generated_images/019e0924-67d2-7e63-a028-259cbad52212/ig_0b95f6cca564b31d0169fe41f63fc481918fc85cc648562896.png",
       "source_provenance": "built-in-imagegen",
-      "source_sha256": "eb8a7ff0f1e8da5e4126c57e26e5e071da983a2222b63737b3203332ae8db6d6",
-      "output_sha256": "eb8a7ff0f1e8da5e4126c57e26e5e071da983a2222b63737b3203332ae8db6d6",
-      "completed_at": "2026-05-08T15:50:50.836367+00:00",
+      "source_sha256": "2f9a68a38f31dcb82da477e62c74ba1cb01da466aa7bb6690d426392c1b00913",
+      "output_sha256": "2f9a68a38f31dcb82da477e62c74ba1cb01da466aa7bb6690d426392c1b00913",
+      "completed_at": "2026-05-08T20:07:16.013615+00:00",
       "metadata": {
-        "width": 1774,
-        "height": 887,
+        "width": 1983,
+        "height": 793,
         "mode": "RGB",
         "format": "PNG"
       }
@@ -186,22 +194,30 @@
         "fallback_generation_skill": "$imagegen"
       },
       "recording_owner": "parent",
+      "repair_attempt": 1,
+      "previous_outputs": [
+        {
+          "attempt": 1,
+          "path": "decoded/repair-archive/running-left-attempt-1-previous.png",
+          "archived_at": "2026-05-08T20:15:11.197474+00:00"
+        }
+      ],
       "source_path": "decoded/running-right.png",
       "source_provenance": "deterministic-mirror",
-      "source_sha256": "eb8a7ff0f1e8da5e4126c57e26e5e071da983a2222b63737b3203332ae8db6d6",
-      "output_sha256": "01a67cd7a2fe37494297d8c2c9bbe36481ad214315c959d29cc9d5bb7860c1af",
-      "completed_at": "2026-05-08T15:51:47.338926+00:00",
+      "derived_from": "running-right",
+      "source_sha256": "2f9a68a38f31dcb82da477e62c74ba1cb01da466aa7bb6690d426392c1b00913",
+      "output_sha256": "e2eedfb2f95e7d3a9e6c5c5b6772c1d5f38174592b9067a19e24ed208fb2ea0b",
+      "completed_at": "2026-05-08T20:15:37.727238+00:00",
       "metadata": {
-        "width": 1774,
-        "height": 887,
+        "width": 1983,
+        "height": 793,
         "mode": "RGBA",
         "format": "PNG"
       },
-      "derived_from": "running-right",
       "mirror_decision": {
         "approved": true,
-        "approved_at": "2026-05-08T15:51:47.338926+00:00",
-        "note": "The corrected running-right strip is text-free and has no handed prop or side-specific accessory; mirroring preserves the broader heavy Crawlstack silhouette, mask faces, palette, and opposite-direction crawl semantics."
+        "approved_at": "2026-05-08T20:15:37.727238+00:00",
+        "note": "The repaired running-right strip is text-free and prop-free, with symmetric mask markings and no side-specific accessory; mirroring preserves the corrected Crawlstack identity, palette, shell mass, gait timing, and opposite-direction crawl semantics."
       }
     },
     {
@@ -243,14 +259,22 @@
       ],
       "mirror_policy": {},
       "recording_owner": "parent",
-      "source_path": "/Users/astandrik/.codex/generated_images/019e0801-9c28-77f2-acd5-8c375a35d06a/ig_09dc0df2734e36ce0169fdf443cfa48191a496d44a4f4cb106.png",
+      "repair_attempt": 1,
+      "previous_outputs": [
+        {
+          "attempt": 1,
+          "path": "decoded/repair-archive/waving-attempt-1-previous.png",
+          "archived_at": "2026-05-08T19:09:01.494938+00:00"
+        }
+      ],
+      "source_path": "/Users/astandrik/.codex/generated_images/019e08f9-045f-7da1-8e3a-8dc9e384f4f1/ig_0c16bc3003f588230169fe34f3ab008191be03a8088f5a9445.png",
       "source_provenance": "built-in-imagegen",
-      "source_sha256": "7066cdf3e782d9df9efd21a14c8915368086540c30b6f995cff90d09bf1add92",
-      "output_sha256": "7066cdf3e782d9df9efd21a14c8915368086540c30b6f995cff90d09bf1add92",
-      "completed_at": "2026-05-08T14:36:11.779426+00:00",
+      "source_sha256": "e0b80cdaf55822a2ff8e62a8dab3383ef8fbdf84f500427510d6c69bc2841241",
+      "output_sha256": "e0b80cdaf55822a2ff8e62a8dab3383ef8fbdf84f500427510d6c69bc2841241",
+      "completed_at": "2026-05-08T19:10:52.030860+00:00",
       "metadata": {
-        "width": 2172,
-        "height": 724,
+        "width": 1827,
+        "height": 861,
         "mode": "RGB",
         "format": "PNG"
       }
@@ -294,14 +318,22 @@
       ],
       "mirror_policy": {},
       "recording_owner": "parent",
-      "source_path": "/Users/astandrik/.codex/generated_images/019e0801-9cc3-7300-a57f-ab10f366b541/ig_02d1453bbe1637e50169fdf44e806c81959073702d8da64d3d.png",
+      "repair_attempt": 1,
+      "previous_outputs": [
+        {
+          "attempt": 1,
+          "path": "decoded/repair-archive/jumping-attempt-1-previous.png",
+          "archived_at": "2026-05-08T19:09:01.495745+00:00"
+        }
+      ],
+      "source_path": "/Users/astandrik/.codex/generated_images/019e08f9-045f-7da1-8e3a-8dc9e384f4f1/ig_0c16bc3003f588230169fe35fcebb081918ce34f85cbab9dc1.png",
       "source_provenance": "built-in-imagegen",
-      "source_sha256": "1270565b953ec2441db24e1177fd88ed82b893f06e15634072a2e6864ea1b9b3",
-      "output_sha256": "1270565b953ec2441db24e1177fd88ed82b893f06e15634072a2e6864ea1b9b3",
-      "completed_at": "2026-05-08T14:35:38.183521+00:00",
+      "source_sha256": "eb674e6dc9e61eb6c8c3982b6590d2896a0e4356c6edfbe4046a8d83e1fc79d3",
+      "output_sha256": "eb674e6dc9e61eb6c8c3982b6590d2896a0e4356c6edfbe4046a8d83e1fc79d3",
+      "completed_at": "2026-05-08T19:16:39.225383+00:00",
       "metadata": {
-        "width": 2172,
-        "height": 724,
+        "width": 1926,
+        "height": 817,
         "mode": "RGB",
         "format": "PNG"
       }
@@ -345,11 +377,19 @@
       ],
       "mirror_policy": {},
       "recording_owner": "parent",
-      "source_path": "/Users/astandrik/.codex/generated_images/019e0801-9d30-78d3-80db-78dc35669ad6/ig_0e43aefd51ec49910169fdf4afc1b08191818bc0e4f97480d3.png",
+      "repair_attempt": 1,
+      "previous_outputs": [
+        {
+          "attempt": 1,
+          "path": "decoded/repair-archive/failed-attempt-1-previous.png",
+          "archived_at": "2026-05-08T19:09:01.496317+00:00"
+        }
+      ],
+      "source_path": "/Users/astandrik/.codex/generated_images/019e08f9-045f-7da1-8e3a-8dc9e384f4f1/ig_0c16bc3003f588230169fe372cf1548191bff197fa16301494.png",
       "source_provenance": "built-in-imagegen",
-      "source_sha256": "eedb1ca73d1efc903e430b7497f7bfeb0237ad6b2d3823068075988970ac4664",
-      "output_sha256": "eedb1ca73d1efc903e430b7497f7bfeb0237ad6b2d3823068075988970ac4664",
-      "completed_at": "2026-05-08T14:37:17.173004+00:00",
+      "source_sha256": "d0874d9b578f219f30fe2a5536499a7b1a2ac2b04c0a9beccca28c88ff0523f2",
+      "output_sha256": "d0874d9b578f219f30fe2a5536499a7b1a2ac2b04c0a9beccca28c88ff0523f2",
+      "completed_at": "2026-05-08T19:27:23.047520+00:00",
       "metadata": {
         "width": 2172,
         "height": 724,
@@ -396,14 +436,22 @@
       ],
       "mirror_policy": {},
       "recording_owner": "parent",
-      "source_path": "/Users/astandrik/.codex/generated_images/019e0804-3bca-7552-8607-92a989120023/ig_08113d21d581b8820169fdf4ec77088191b2e7539834714c14.png",
+      "repair_attempt": 1,
+      "previous_outputs": [
+        {
+          "attempt": 1,
+          "path": "decoded/repair-archive/waiting-attempt-1-previous.png",
+          "archived_at": "2026-05-08T19:09:01.496730+00:00"
+        }
+      ],
+      "source_path": "/Users/astandrik/.codex/generated_images/019e08f9-045f-7da1-8e3a-8dc9e384f4f1/ig_0c16bc3003f588230169fe394ffc38819184e991b5d06a28c9.png",
       "source_provenance": "built-in-imagegen",
-      "source_sha256": "4c7952ef3062741d47080d88abc146382f390559415db2ca0a36ef32533c8767",
-      "output_sha256": "4c7952ef3062741d47080d88abc146382f390559415db2ca0a36ef32533c8767",
-      "completed_at": "2026-05-08T14:38:41.855073+00:00",
+      "source_sha256": "f6c5914b3a887583e3a77f16936f77d1bcd5054d3b6b268a9e5390ffa603231f",
+      "output_sha256": "f6c5914b3a887583e3a77f16936f77d1bcd5054d3b6b268a9e5390ffa603231f",
+      "completed_at": "2026-05-08T19:30:20.751086+00:00",
       "metadata": {
-        "width": 2172,
-        "height": 724,
+        "width": 2048,
+        "height": 768,
         "mode": "RGB",
         "format": "PNG"
       }
@@ -447,11 +495,19 @@
       ],
       "mirror_policy": {},
       "recording_owner": "parent",
-      "source_path": "/Users/astandrik/.codex/generated_images/019e0804-e126-7ec1-9c6c-48bcf3af316d/ig_0fc966206f5edbf20169fdf515200c81919a28469a620ffffb.png",
+      "repair_attempt": 1,
+      "previous_outputs": [
+        {
+          "attempt": 1,
+          "path": "decoded/repair-archive/running-attempt-1-previous.png",
+          "archived_at": "2026-05-08T19:09:01.497032+00:00"
+        }
+      ],
+      "source_path": "/Users/astandrik/.codex/generated_images/019e08f9-045f-7da1-8e3a-8dc9e384f4f1/ig_0c16bc3003f588230169fe3a550eb08191a01026e4fb43629b.png",
       "source_provenance": "built-in-imagegen",
-      "source_sha256": "9194be8bba4ffb1a5308df7c2e9a701be2929899e934f3fdf64f09531a2e7b07",
-      "output_sha256": "9194be8bba4ffb1a5308df7c2e9a701be2929899e934f3fdf64f09531a2e7b07",
-      "completed_at": "2026-05-08T14:39:14.614542+00:00",
+      "source_sha256": "d905568754c24f53274f048002d272db522dcef895222ea2b976847af5a086f4",
+      "output_sha256": "d905568754c24f53274f048002d272db522dcef895222ea2b976847af5a086f4",
+      "completed_at": "2026-05-08T19:34:36.474251+00:00",
       "metadata": {
         "width": 2172,
         "height": 724,
@@ -498,22 +554,27 @@
       ],
       "mirror_policy": {},
       "recording_owner": "parent",
-      "repair_attempt": 1,
+      "repair_attempt": 2,
       "previous_outputs": [
         {
           "attempt": 1,
           "path": "decoded/repair-archive/review-attempt-1-previous.png",
           "archived_at": "2026-05-08T14:42:30.487946+00:00"
+        },
+        {
+          "attempt": 2,
+          "path": "decoded/repair-archive/review-attempt-2-previous.png",
+          "archived_at": "2026-05-08T19:09:01.497285+00:00"
         }
       ],
-      "source_path": "/Users/astandrik/.codex/generated_images/019e080a-c34c-7670-9ffd-74d55304333c/ig_07f4b246fffd3b330169fdf694f22881919cd8a85acffe2a34.png",
+      "source_path": "/Users/astandrik/.codex/generated_images/019e08f9-045f-7da1-8e3a-8dc9e384f4f1/ig_0c16bc3003f588230169fe3b16bf2481918f701c5ecf7d8b43.png",
       "source_provenance": "built-in-imagegen",
-      "source_sha256": "8931ac6769b35ed9862375ddd414111bcc1a96faedf6dae65fa0eabaa691b638",
-      "output_sha256": "8931ac6769b35ed9862375ddd414111bcc1a96faedf6dae65fa0eabaa691b638",
-      "completed_at": "2026-05-08T14:45:47.923529+00:00",
+      "source_sha256": "ef506c7c1be4f26e1c6a8328f267bc30857bae86654d08b6635eeabe52c7ea40",
+      "output_sha256": "ef506c7c1be4f26e1c6a8328f267bc30857bae86654d08b6635eeabe52c7ea40",
+      "completed_at": "2026-05-08T19:38:31.120142+00:00",
       "metadata": {
-        "width": 1774,
-        "height": 887,
+        "width": 2089,
+        "height": 753,
         "mode": "RGB",
         "format": "PNG"
       }

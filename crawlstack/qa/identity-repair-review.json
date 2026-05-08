@@ -1,0 +1,49 @@
+{
+  "ok": false,
+  "review_type": "visual_identity_repair",
+  "canonical_identity_reference": "references/canonical-base.png",
+  "rows": [
+    {
+      "state": "waving",
+      "errors": [
+        "Visual identity drift against references/canonical-base.png: regenerate the row so the oversized front porcelain mask, teal eyes, charcoal segmented shell, trailing embedded masks, tan markings, tiny stub legs, dark outline weight, gloomy creepy mood, and pixel-art-adjacent finish match the canonical Crawlstack identity exactly."
+      ],
+      "warnings": []
+    },
+    {
+      "state": "jumping",
+      "errors": [
+        "Visual identity drift against references/canonical-base.png: regenerate the row with only vertical pose changes while preserving the same arched charcoal shell mass, mask scale, trailing embedded masks, palette, dark creepy pixel style, and compact readable silhouette from the canonical Crawlstack identity."
+      ],
+      "warnings": []
+    },
+    {
+      "state": "failed",
+      "errors": [
+        "Visual identity drift against references/canonical-base.png: regenerate the row as a sad or deflated version of the exact same Crawlstack, preserving the canonical front mask, teal eyes, shell contour, mask ordering impression, tan markings, dark outline, gloomy unsettling mood, and pixelly flat cel finish."
+      ],
+      "warnings": []
+    },
+    {
+      "state": "waiting",
+      "errors": [
+        "Visual identity drift against references/canonical-base.png: regenerate the row close to idle with patient small motion only, keeping the exact same creepy mask-faced segmented crawler identity, proportions, palette, dark mood, and pixel-art-adjacent rendering."
+      ],
+      "warnings": []
+    },
+    {
+      "state": "running",
+      "errors": [
+        "Visual identity drift against references/canonical-base.png: regenerate the non-directional in-progress/task-running row without literal locomotion, while preserving the canonical Crawlstack body type, front porcelain mask, teal eyes, embedded trailing masks, charcoal shell, tan markings, and gloomy pixel style."
+      ],
+      "warnings": []
+    },
+    {
+      "state": "review",
+      "errors": [
+        "Visual identity drift against references/canonical-base.png: regenerate the review row so it remains the same arched segmented mask-faced Crawlstack from the canonical base, avoiding a different perspective, body type, mascot interpretation, props, UI, symbols, or softened cartoon style."
+      ],
+      "warnings": []
+    }
+  ]
+}

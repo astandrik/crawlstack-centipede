@@ -1,0 +1,14 @@
+{
+  "ok": false,
+  "review_type": "visual_identity_repair",
+  "canonical_identity_reference": "references/canonical-base.png",
+  "rows": [
+    {
+      "state": "running-left",
+      "errors": [
+        "Re-derive running-left from the newly repaired running-right strip so both directional rows share the same Crawlstack identity, palette, outline weight, shell mass, mask scale, gloomy pixel-art-adjacent finish, and gait timing. The previous running-left was based on the old inconsistent running-right source and must be replaced after visual confirmation that deterministic mirroring preserves identity and opposite-direction crawl semantics."
+      ],
+      "warnings": []
+    }
+  ]
+}

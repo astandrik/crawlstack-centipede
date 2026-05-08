@@ -57,3 +57,13 @@ Full gait rewrite:
 - The arched shell may roll very subtly across the cycle, but frame-to-frame changes must be smooth and incremental.
 - Avoid identical frozen poses. The row should feel newly animated, with a full 8-frame cycle, while still preserving one continuous creature.
 - No mirroring instructions apply to this row; this is the authoritative rightward gait.
+
+Repair attempt 1:
+- The previous `running-right` strip failed QA: Visual identity drift against references/canonical-base.png and the repaired non-directional rows: regenerate running-right as the same exact Crawlstack from canonical-base.png. The current strip has a different directional body interpretation, front mask placement, shell mass, and perspective. Preserve the canonical gloomy pixel-art-adjacent finish, 3/4 front-left identity, oversized porcelain front mask, teal eyes, charcoal arched segmented shell, tan shell markings, trailing embedded masks, tiny stub legs, and dark outline weight. Show only a restrained rightward crawl through subtle leg/underside motion; do not turn the pet into a fast-running side-view creature, do not enlarge or shrink the head mask, do not change mask order impression, and do not brighten, soften, glossy-render, or cartoon-clean the design.
+- Regenerate the entire row, not just one pose.
+- Fill every requested frame slot with one complete centered full-body pet pose.
+- Keep large gaps of pure chroma key only between slots; do not leave a requested slot empty.
+- Avoid pose overlap, clipping, edge slivers, extra partial sprites, and detached fragments from neighboring poses.
+- Use the canonical base image and any original references listed in `imagegen-jobs.json` as grounding inputs.
+- Do not redesign the pet. Keep the exact same head shape, face design, markings, body proportions, palette, outline weight, materials, and props as the approved base pet.
+- If the contact sheet shows identity drift, repair only this row while preserving the canonical base identity.

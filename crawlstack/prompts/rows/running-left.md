@@ -57,3 +57,13 @@ Full gait rewrite:
 - The arched shell may roll very subtly across the cycle, but frame-to-frame changes must be smooth and incremental.
 - Avoid identical frozen poses. The row should feel newly animated, with a full 8-frame cycle, while still preserving one continuous creature.
 - Generate this as its own leftward gait. Do not use a deterministic mirror, and do not copy the rightward row pose-for-pose.
+
+Repair attempt 1:
+- The previous `running-left` strip failed QA: Re-derive running-left from the newly repaired running-right strip so both directional rows share the same Crawlstack identity, palette, outline weight, shell mass, mask scale, gloomy pixel-art-adjacent finish, and gait timing. The previous running-left was based on the old inconsistent running-right source and must be replaced after visual confirmation that deterministic mirroring preserves identity and opposite-direction crawl semantics.
+- Regenerate the entire row, not just one pose.
+- Fill every requested frame slot with one complete centered full-body pet pose.
+- Keep large gaps of pure chroma key only between slots; do not leave a requested slot empty.
+- Avoid pose overlap, clipping, edge slivers, extra partial sprites, and detached fragments from neighboring poses.
+- Use the canonical base image and any original references listed in `imagegen-jobs.json` as grounding inputs.
+- Do not redesign the pet. Keep the exact same head shape, face design, markings, body proportions, palette, outline weight, materials, and props as the approved base pet.
+- If the contact sheet shows identity drift, repair only this row while preserving the canonical base identity.

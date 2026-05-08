@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "run_dir": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run",
-  "spritesheet": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/final/spritesheet.webp",
-  "validation": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/final/validation.json",
-  "contact_sheet": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/qa/contact-sheet.png",
-  "review": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/qa/review.json",
-  "videos": "/Users/astandrik/Documents/Codex/2026-05-08/pet-signal/crawlstack-polished-pet-run/qa/videos",
+  "run_dir": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack",
+  "spritesheet": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/final/spritesheet.webp",
+  "validation": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/final/validation.json",
+  "contact_sheet": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/qa/contact-sheet.png",
+  "review": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/qa/review.json",
+  "videos": "/Users/astandrik/workspace/crawlstack-centipede/crawlstack/qa/videos",
   "package": "/Users/astandrik/.codex/pets/crawlstack-polished"
 }

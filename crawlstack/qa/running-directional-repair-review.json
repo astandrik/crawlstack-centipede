@@ -1,0 +1,14 @@
+{
+  "ok": false,
+  "review_type": "visual_identity_repair",
+  "canonical_identity_reference": "references/canonical-base.png",
+  "rows": [
+    {
+      "state": "running-right",
+      "errors": [
+        "Visual identity drift against references/canonical-base.png and the repaired non-directional rows: regenerate running-right as the same exact Crawlstack from canonical-base.png. The current strip has a different directional body interpretation, front mask placement, shell mass, and perspective. Preserve the canonical gloomy pixel-art-adjacent finish, 3/4 front-left identity, oversized porcelain front mask, teal eyes, charcoal arched segmented shell, tan shell markings, trailing embedded masks, tiny stub legs, and dark outline weight. Show only a restrained rightward crawl through subtle leg/underside motion; do not turn the pet into a fast-running side-view creature, do not enlarge or shrink the head mask, do not change mask order impression, and do not brighten, soften, glossy-render, or cartoon-clean the design."
+      ],
+      "warnings": []
+    }
+  ]
+}
