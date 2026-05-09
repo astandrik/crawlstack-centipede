@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="945" height="193" viewBox="0 0 945 193" role="img" aria-labelledby="title desc">
   <title id="title">Crawlstack eating astandrik's GitHub contributions</title>
-  <desc id="desc">Crawlstack crawls across a GitHub contribution grid with 2557 contributions and consumes active cells.</desc>
+  <desc id="desc">Crawlstack crawls across a GitHub contribution grid with 2558 contributions and consumes active cells.</desc>
   <style>
     svg { background: transparent; }
       .stage { fill: #ffffff; }
@@ -809,291 +809,291 @@
         0.2472% { opacity: 0; }
         0.3144% { opacity: 0; }
         0.3145% { opacity: 0; }
-        0.3145% { opacity: 1; }
-        0.5616% { opacity: 1; }
+        0.3145% { opacity: 0; }
+        0.5616% { opacity: 0; }
         0.5617% { opacity: 0; }
         0.6290% { opacity: 0; }
-        0.6291% { opacity: 1; }
-        0.6291% { opacity: 1; }
-        0.8762% { opacity: 1; }
+        0.6291% { opacity: 0; }
+        0.6291% { opacity: 0; }
+        0.8762% { opacity: 0; }
         0.8763% { opacity: 0; }
         0.9714% { opacity: 0; }
-        0.9715% { opacity: 1; }
+        0.9715% { opacity: 0; }
         0.9715% { opacity: 1; }
         1.2186% { opacity: 1; }
         1.2187% { opacity: 0; }
         1.2860% { opacity: 0; }
-        1.2861% { opacity: 1; }
+        1.2861% { opacity: 0; }
         1.2861% { opacity: 1; }
         1.5332% { opacity: 1; }
         1.5333% { opacity: 0; }
         1.6005% { opacity: 0; }
-        1.6006% { opacity: 1; }
+        1.6006% { opacity: 0; }
         1.6006% { opacity: 1; }
         1.8477% { opacity: 1; }
         1.8478% { opacity: 0; }
         1.9429% { opacity: 0; }
-        1.9430% { opacity: 1; }
+        1.9430% { opacity: 0; }
         1.9430% { opacity: 1; }
         2.1901% { opacity: 1; }
         2.1902% { opacity: 0; }
         2.2575% { opacity: 0; }
-        2.2576% { opacity: 1; }
+        2.2576% { opacity: 0; }
         2.2576% { opacity: 1; }
         2.5047% { opacity: 1; }
         2.5048% { opacity: 0; }
         2.5720% { opacity: 0; }
-        2.5721% { opacity: 1; }
+        2.5721% { opacity: 0; }
         2.5721% { opacity: 1; }
         2.8192% { opacity: 1; }
         2.8193% { opacity: 0; }
         2.8866% { opacity: 0; }
-        2.8867% { opacity: 1; }
+        2.8867% { opacity: 0; }
         2.8867% { opacity: 1; }
         3.1337% { opacity: 1; }
         3.1338% { opacity: 0; }
         3.2011% { opacity: 0; }
-        3.2012% { opacity: 1; }
+        3.2012% { opacity: 0; }
         3.2012% { opacity: 1; }
         3.4483% { opacity: 1; }
         3.4484% { opacity: 0; }
         3.5435% { opacity: 0; }
-        3.5436% { opacity: 1; }
+        3.5436% { opacity: 0; }
         3.5436% { opacity: 0; }
         3.7907% { opacity: 0; }
         3.7908% { opacity: 0; }
         3.8581% { opacity: 0; }
         3.8582% { opacity: 0; }
-        3.8582% { opacity: 1; }
-        4.1053% { opacity: 1; }
+        3.8582% { opacity: 0; }
+        4.1053% { opacity: 0; }
         4.1054% { opacity: 0; }
         4.2559% { opacity: 0; }
-        4.2560% { opacity: 1; }
+        4.2560% { opacity: 0; }
         4.2560% { opacity: 1; }
         4.5030% { opacity: 1; }
         4.5031% { opacity: 0; }
         4.5704% { opacity: 0; }
-        4.5705% { opacity: 1; }
+        4.5705% { opacity: 0; }
         4.5705% { opacity: 1; }
         4.8176% { opacity: 1; }
         4.8177% { opacity: 0; }
         4.8849% { opacity: 0; }
-        4.8850% { opacity: 1; }
+        4.8850% { opacity: 0; }
         4.8850% { opacity: 1; }
         5.1321% { opacity: 1; }
         5.1322% { opacity: 0; }
         5.2274% { opacity: 0; }
-        5.2275% { opacity: 1; }
+        5.2275% { opacity: 0; }
         5.2275% { opacity: 1; }
         5.4746% { opacity: 1; }
         5.4747% { opacity: 0; }
         5.5419% { opacity: 0; }
-        5.5420% { opacity: 1; }
+        5.5420% { opacity: 0; }
         5.5420% { opacity: 1; }
         5.7891% { opacity: 1; }
         5.7892% { opacity: 0; }
         5.8565% { opacity: 0; }
-        5.8566% { opacity: 1; }
+        5.8566% { opacity: 0; }
         5.8566% { opacity: 1; }
         6.1036% { opacity: 1; }
         6.1037% { opacity: 0; }
         6.1710% { opacity: 0; }
-        6.1711% { opacity: 1; }
+        6.1711% { opacity: 0; }
         6.1711% { opacity: 1; }
         6.4182% { opacity: 1; }
         6.4183% { opacity: 0; }
         6.4855% { opacity: 0; }
-        6.4856% { opacity: 1; }
+        6.4856% { opacity: 0; }
         6.4856% { opacity: 1; }
         6.7327% { opacity: 1; }
         6.7328% { opacity: 0; }
         6.8001% { opacity: 0; }
-        6.8002% { opacity: 1; }
+        6.8002% { opacity: 0; }
         6.8002% { opacity: 1; }
         7.0473% { opacity: 1; }
         7.0474% { opacity: 0; }
         7.1425% { opacity: 0; }
-        7.1426% { opacity: 1; }
+        7.1426% { opacity: 0; }
         7.1426% { opacity: 0; }
         7.3897% { opacity: 0; }
         7.3898% { opacity: 0; }
         7.4570% { opacity: 0; }
         7.4571% { opacity: 0; }
-        7.4571% { opacity: 1; }
-        7.7042% { opacity: 1; }
+        7.4571% { opacity: 0; }
+        7.7042% { opacity: 0; }
         7.7043% { opacity: 0; }
         7.7716% { opacity: 0; }
-        7.7717% { opacity: 1; }
-        7.7717% { opacity: 1; }
-        8.0188% { opacity: 1; }
+        7.7717% { opacity: 0; }
+        7.7717% { opacity: 0; }
+        8.0188% { opacity: 0; }
         8.0189% { opacity: 0; }
         8.1694% { opacity: 0; }
-        8.1695% { opacity: 1; }
+        8.1695% { opacity: 0; }
         8.1695% { opacity: 1; }
         8.4166% { opacity: 1; }
         8.4167% { opacity: 0; }
         8.4839% { opacity: 0; }
-        8.4840% { opacity: 1; }
+        8.4840% { opacity: 0; }
         8.4840% { opacity: 1; }
         8.7311% { opacity: 1; }
         8.7312% { opacity: 0; }
         8.8263% { opacity: 0; }
-        8.8264% { opacity: 1; }
+        8.8264% { opacity: 0; }
         8.8264% { opacity: 1; }
         9.0735% { opacity: 1; }
         9.0736% { opacity: 0; }
         9.1409% { opacity: 0; }
-        9.1410% { opacity: 1; }
+        9.1410% { opacity: 0; }
         9.1410% { opacity: 1; }
         9.3881% { opacity: 1; }
         9.3882% { opacity: 0; }
         9.4833% { opacity: 0; }
-        9.4834% { opacity: 1; }
+        9.4834% { opacity: 0; }
         9.4834% { opacity: 1; }
         9.7305% { opacity: 1; }
         9.7306% { opacity: 0; }
         9.7979% { opacity: 0; }
-        9.7980% { opacity: 1; }
+        9.7980% { opacity: 0; }
         9.7980% { opacity: 1; }
         10.0451% { opacity: 1; }
         10.0452% { opacity: 0; }
         10.1956% { opacity: 0; }
-        10.1957% { opacity: 1; }
+        10.1957% { opacity: 0; }
         10.1957% { opacity: 1; }
         10.4428% { opacity: 1; }
         10.4429% { opacity: 0; }
         10.5102% { opacity: 0; }
-        10.5103% { opacity: 1; }
+        10.5103% { opacity: 0; }
         10.5103% { opacity: 1; }
         10.7574% { opacity: 1; }
         10.7575% { opacity: 0; }
         10.8526% { opacity: 0; }
-        10.8527% { opacity: 1; }
+        10.8527% { opacity: 0; }
         10.8527% { opacity: 1; }
         11.0998% { opacity: 1; }
         11.0999% { opacity: 0; }
         11.1672% { opacity: 0; }
-        11.1673% { opacity: 1; }
+        11.1673% { opacity: 0; }
         11.1673% { opacity: 1; }
         11.4144% { opacity: 1; }
         11.4145% { opacity: 0; }
         11.5096% { opacity: 0; }
-        11.5097% { opacity: 1; }
+        11.5097% { opacity: 0; }
         11.5097% { opacity: 1; }
         11.7568% { opacity: 1; }
         11.7569% { opacity: 0; }
         11.8241% { opacity: 0; }
-        11.8242% { opacity: 1; }
+        11.8242% { opacity: 0; }
         11.8242% { opacity: 1; }
         12.0713% { opacity: 1; }
         12.0714% { opacity: 0; }
         12.1666% { opacity: 0; }
-        12.1667% { opacity: 1; }
+        12.1667% { opacity: 0; }
         12.1667% { opacity: 1; }
         12.4138% { opacity: 1; }
         12.4139% { opacity: 0; }
         12.4811% { opacity: 0; }
-        12.4812% { opacity: 1; }
+        12.4812% { opacity: 0; }
         12.4812% { opacity: 1; }
         12.7283% { opacity: 1; }
         12.7284% { opacity: 0; }
         12.8236% { opacity: 0; }
-        12.8237% { opacity: 1; }
+        12.8237% { opacity: 0; }
         12.8237% { opacity: 1; }
         13.0707% { opacity: 1; }
         13.0708% { opacity: 0; }
         13.1381% { opacity: 0; }
-        13.1382% { opacity: 1; }
+        13.1382% { opacity: 0; }
         13.1382% { opacity: 1; }
         13.3853% { opacity: 1; }
         13.3854% { opacity: 0; }
         13.4526% { opacity: 0; }
-        13.4527% { opacity: 1; }
+        13.4527% { opacity: 0; }
         13.4527% { opacity: 1; }
         13.6998% { opacity: 1; }
         13.6999% { opacity: 0; }
         13.7672% { opacity: 0; }
-        13.7673% { opacity: 1; }
+        13.7673% { opacity: 0; }
         13.7673% { opacity: 1; }
         14.0144% { opacity: 1; }
         14.0145% { opacity: 0; }
         14.1096% { opacity: 0; }
-        14.1097% { opacity: 1; }
+        14.1097% { opacity: 0; }
         14.1097% { opacity: 0; }
         14.3568% { opacity: 0; }
         14.3569% { opacity: 0; }
         14.4242% { opacity: 0; }
         14.4243% { opacity: 0; }
-        14.4243% { opacity: 1; }
-        14.6713% { opacity: 1; }
+        14.4243% { opacity: 0; }
+        14.6713% { opacity: 0; }
         14.6714% { opacity: 0; }
         14.7666% { opacity: 0; }
-        14.7667% { opacity: 1; }
+        14.7667% { opacity: 0; }
         14.7667% { opacity: 0; }
         15.0138% { opacity: 0; }
         15.0139% { opacity: 0; }
         15.0811% { opacity: 0; }
         15.0812% { opacity: 0; }
-        15.0812% { opacity: 1; }
-        15.3283% { opacity: 1; }
+        15.0812% { opacity: 0; }
+        15.3283% { opacity: 0; }
         15.3284% { opacity: 0; }
         15.4236% { opacity: 0; }
-        15.4237% { opacity: 1; }
+        15.4237% { opacity: 0; }
         15.4237% { opacity: 0; }
         15.6708% { opacity: 0; }
         15.6709% { opacity: 0; }
         15.7381% { opacity: 0; }
         15.7382% { opacity: 0; }
-        15.7382% { opacity: 1; }
-        15.9853% { opacity: 1; }
+        15.7382% { opacity: 0; }
+        15.9853% { opacity: 0; }
         15.9854% { opacity: 0; }
         16.0805% { opacity: 0; }
-        16.0806% { opacity: 1; }
+        16.0806% { opacity: 0; }
         16.0806% { opacity: 0; }
         16.3277% { opacity: 0; }
         16.3278% { opacity: 0; }
         16.3951% { opacity: 0; }
         16.3952% { opacity: 0; }
-        16.3952% { opacity: 1; }
-        16.6423% { opacity: 1; }
+        16.3952% { opacity: 0; }
+        16.6423% { opacity: 0; }
         16.6424% { opacity: 0; }
         16.7375% { opacity: 0; }
-        16.7376% { opacity: 1; }
+        16.7376% { opacity: 0; }
         16.7376% { opacity: 0; }
         16.9847% { opacity: 0; }
         16.9848% { opacity: 0; }
         17.0521% { opacity: 0; }
         17.0522% { opacity: 0; }
-        17.0522% { opacity: 1; }
-        17.2993% { opacity: 1; }
+        17.0522% { opacity: 0; }
+        17.2993% { opacity: 0; }
         17.2994% { opacity: 0; }
         17.3945% { opacity: 0; }
-        17.3946% { opacity: 1; }
+        17.3946% { opacity: 0; }
         17.3946% { opacity: 0; }
         17.6417% { opacity: 0; }
         17.6418% { opacity: 0; }
         17.7090% { opacity: 0; }
         17.7091% { opacity: 0; }
-        17.7091% { opacity: 1; }
-        17.9562% { opacity: 1; }
+        17.7091% { opacity: 0; }
+        17.9562% { opacity: 0; }
         17.9563% { opacity: 0; }
         18.0515% { opacity: 0; }
-        18.0516% { opacity: 1; }
+        18.0516% { opacity: 0; }
         18.0516% { opacity: 0; }
         18.2987% { opacity: 0; }
         18.2988% { opacity: 0; }
         18.3660% { opacity: 0; }
         18.3661% { opacity: 0; }
-        18.3661% { opacity: 1; }
-        18.6132% { opacity: 1; }
+        18.3661% { opacity: 0; }
+        18.6132% { opacity: 0; }
         18.6133% { opacity: 0; }
         18.7479% { opacity: 0; }
-        18.7480% { opacity: 1; }
-        18.7480% { opacity: 1; }
-        18.9951% { opacity: 1; }
+        18.7480% { opacity: 0; }
+        18.7480% { opacity: 0; }
+        18.9951% { opacity: 0; }
         18.9952% { opacity: 0; }
         19.2081% { opacity: 0; }
-        19.2082% { opacity: 1; }
+        19.2082% { opacity: 0; }
         19.2082% { opacity: 0; }
         19.4552% { opacity: 0; }
         19.4553% { opacity: 0; }
@@ -1113,7 +1113,7 @@
         20.9189% { opacity: 1; }
         20.9190% { opacity: 0; }
         21.1093% { opacity: 0; }
-        21.1094% { opacity: 1; }
+        21.1094% { opacity: 0; }
         21.1094% { opacity: 0; }
         21.3565% { opacity: 0; }
         21.3566% { opacity: 0; }
@@ -1123,204 +1123,204 @@
         21.8465% { opacity: 1; }
         21.8466% { opacity: 0; }
         22.2562% { opacity: 0; }
-        22.2563% { opacity: 1; }
+        22.2563% { opacity: 0; }
         22.2563% { opacity: 1; }
         22.5034% { opacity: 1; }
         22.5035% { opacity: 0; }
         22.5707% { opacity: 0; }
-        22.5708% { opacity: 1; }
+        22.5708% { opacity: 0; }
         22.5708% { opacity: 1; }
         22.8179% { opacity: 1; }
         22.8180% { opacity: 0; }
         22.9132% { opacity: 0; }
-        22.9133% { opacity: 1; }
+        22.9133% { opacity: 0; }
         22.9133% { opacity: 1; }
         23.1604% { opacity: 1; }
         23.1605% { opacity: 0; }
         23.2277% { opacity: 0; }
-        23.2278% { opacity: 1; }
+        23.2278% { opacity: 0; }
         23.2278% { opacity: 1; }
         23.4749% { opacity: 1; }
         23.4750% { opacity: 0; }
         23.5701% { opacity: 0; }
-        23.5702% { opacity: 1; }
+        23.5702% { opacity: 0; }
         23.5702% { opacity: 1; }
         23.8173% { opacity: 1; }
         23.8174% { opacity: 0; }
         23.8847% { opacity: 0; }
-        23.8848% { opacity: 1; }
+        23.8848% { opacity: 0; }
         23.8848% { opacity: 1; }
         24.1319% { opacity: 1; }
         24.1320% { opacity: 0; }
         24.2271% { opacity: 0; }
-        24.2272% { opacity: 1; }
+        24.2272% { opacity: 0; }
         24.2272% { opacity: 1; }
         24.4743% { opacity: 1; }
         24.4744% { opacity: 0; }
         24.5417% { opacity: 0; }
-        24.5418% { opacity: 1; }
+        24.5418% { opacity: 0; }
         24.5418% { opacity: 1; }
         24.7889% { opacity: 1; }
         24.7890% { opacity: 0; }
         24.8562% { opacity: 0; }
-        24.8563% { opacity: 1; }
+        24.8563% { opacity: 0; }
         24.8563% { opacity: 1; }
         25.1034% { opacity: 1; }
         25.1035% { opacity: 0; }
         25.1707% { opacity: 0; }
-        25.1708% { opacity: 1; }
+        25.1708% { opacity: 0; }
         25.1708% { opacity: 1; }
         25.4179% { opacity: 1; }
         25.4180% { opacity: 0; }
         25.5132% { opacity: 0; }
-        25.5133% { opacity: 1; }
+        25.5133% { opacity: 0; }
         25.5133% { opacity: 0; }
         25.7604% { opacity: 0; }
         25.7605% { opacity: 0; }
         25.8277% { opacity: 0; }
         25.8278% { opacity: 0; }
-        25.8278% { opacity: 1; }
-        26.0749% { opacity: 1; }
+        25.8278% { opacity: 0; }
+        26.0749% { opacity: 0; }
         26.0750% { opacity: 0; }
         26.1702% { opacity: 0; }
-        26.1703% { opacity: 1; }
+        26.1703% { opacity: 0; }
         26.1703% { opacity: 0; }
         26.4173% { opacity: 0; }
         26.4174% { opacity: 0; }
         26.4847% { opacity: 0; }
         26.4848% { opacity: 0; }
-        26.4848% { opacity: 1; }
-        26.7319% { opacity: 1; }
+        26.4848% { opacity: 0; }
+        26.7319% { opacity: 0; }
         26.7320% { opacity: 0; }
         26.8271% { opacity: 0; }
-        26.8272% { opacity: 1; }
+        26.8272% { opacity: 0; }
         26.8272% { opacity: 0; }
         27.0743% { opacity: 0; }
         27.0744% { opacity: 0; }
         27.1417% { opacity: 0; }
         27.1418% { opacity: 0; }
-        27.1418% { opacity: 1; }
-        27.3889% { opacity: 1; }
+        27.1418% { opacity: 0; }
+        27.3889% { opacity: 0; }
         27.3890% { opacity: 0; }
         27.5236% { opacity: 0; }
-        27.5237% { opacity: 1; }
-        27.5237% { opacity: 1; }
-        27.7708% { opacity: 1; }
+        27.5237% { opacity: 0; }
+        27.5237% { opacity: 0; }
+        27.7708% { opacity: 0; }
         27.7709% { opacity: 0; }
         27.9213% { opacity: 0; }
-        27.9214% { opacity: 1; }
+        27.9214% { opacity: 0; }
         27.9214% { opacity: 0; }
         28.1685% { opacity: 0; }
         28.1686% { opacity: 0; }
         28.2359% { opacity: 0; }
         28.2360% { opacity: 0; }
-        28.2360% { opacity: 1; }
-        28.4831% { opacity: 1; }
+        28.2360% { opacity: 0; }
+        28.4831% { opacity: 0; }
         28.4832% { opacity: 0; }
         28.8927% { opacity: 0; }
-        28.8928% { opacity: 1; }
+        28.8928% { opacity: 0; }
         28.8928% { opacity: 1; }
         29.1399% { opacity: 1; }
         29.1400% { opacity: 0; }
         29.2073% { opacity: 0; }
-        29.2074% { opacity: 1; }
+        29.2074% { opacity: 0; }
         29.2074% { opacity: 1; }
         29.4545% { opacity: 1; }
         29.4546% { opacity: 0; }
         29.5218% { opacity: 0; }
-        29.5219% { opacity: 1; }
+        29.5219% { opacity: 0; }
         29.5219% { opacity: 1; }
         29.7690% { opacity: 1; }
         29.7691% { opacity: 0; }
         29.8363% { opacity: 0; }
-        29.8364% { opacity: 1; }
+        29.8364% { opacity: 0; }
         29.8364% { opacity: 1; }
         30.0835% { opacity: 1; }
         30.0836% { opacity: 0; }
         30.1788% { opacity: 0; }
-        30.1789% { opacity: 1; }
+        30.1789% { opacity: 0; }
         30.1789% { opacity: 1; }
         30.4260% { opacity: 1; }
         30.4261% { opacity: 0; }
         30.4933% { opacity: 0; }
-        30.4934% { opacity: 1; }
+        30.4934% { opacity: 0; }
         30.4934% { opacity: 1; }
         30.7405% { opacity: 1; }
         30.7406% { opacity: 0; }
         30.8911% { opacity: 0; }
-        30.8912% { opacity: 1; }
+        30.8912% { opacity: 0; }
         30.8912% { opacity: 1; }
         31.1383% { opacity: 1; }
         31.1384% { opacity: 0; }
         31.2056% { opacity: 0; }
-        31.2057% { opacity: 1; }
+        31.2057% { opacity: 0; }
         31.2057% { opacity: 1; }
         31.4528% { opacity: 1; }
         31.4529% { opacity: 0; }
         31.5481% { opacity: 0; }
-        31.5482% { opacity: 1; }
+        31.5482% { opacity: 0; }
         31.5482% { opacity: 1; }
         31.7953% { opacity: 1; }
         31.7954% { opacity: 0; }
         31.8626% { opacity: 0; }
-        31.8627% { opacity: 1; }
+        31.8627% { opacity: 0; }
         31.8627% { opacity: 1; }
         32.1098% { opacity: 1; }
         32.1099% { opacity: 0; }
         32.2604% { opacity: 0; }
-        32.2605% { opacity: 1; }
+        32.2605% { opacity: 0; }
         32.2605% { opacity: 1; }
         32.5076% { opacity: 1; }
         32.5077% { opacity: 0; }
         32.5749% { opacity: 0; }
-        32.5750% { opacity: 1; }
+        32.5750% { opacity: 0; }
         32.5750% { opacity: 1; }
         32.8221% { opacity: 1; }
         32.8222% { opacity: 0; }
         32.9174% { opacity: 0; }
-        32.9175% { opacity: 1; }
+        32.9175% { opacity: 0; }
         32.9175% { opacity: 1; }
         33.1646% { opacity: 1; }
         33.1647% { opacity: 0; }
         33.2319% { opacity: 0; }
-        33.2320% { opacity: 1; }
+        33.2320% { opacity: 0; }
         33.2320% { opacity: 1; }
         33.4791% { opacity: 1; }
         33.4792% { opacity: 0; }
         33.5465% { opacity: 0; }
-        33.5466% { opacity: 1; }
+        33.5466% { opacity: 0; }
         33.5466% { opacity: 1; }
         33.7937% { opacity: 1; }
         33.7938% { opacity: 0; }
         33.9442% { opacity: 0; }
-        33.9443% { opacity: 1; }
+        33.9443% { opacity: 0; }
         33.9443% { opacity: 1; }
         34.1914% { opacity: 1; }
         34.1915% { opacity: 0; }
         34.2588% { opacity: 0; }
-        34.2589% { opacity: 1; }
         34.2589% { opacity: 0; }
-        34.5060% { opacity: 0; }
+        34.2589% { opacity: 1; }
+        34.5060% { opacity: 1; }
         34.5061% { opacity: 0; }
         34.5733% { opacity: 0; }
         34.5734% { opacity: 0; }
-        34.5734% { opacity: 0; }
-        34.8205% { opacity: 0; }
+        34.5734% { opacity: 1; }
+        34.8205% { opacity: 1; }
         34.8206% { opacity: 0; }
         34.8879% { opacity: 0; }
         34.8880% { opacity: 0; }
-        34.8880% { opacity: 0; }
-        35.1351% { opacity: 0; }
+        34.8880% { opacity: 1; }
+        35.1351% { opacity: 1; }
         35.1352% { opacity: 0; }
         35.2024% { opacity: 0; }
         35.2025% { opacity: 0; }
-        35.2025% { opacity: 0; }
-        35.4496% { opacity: 0; }
+        35.2025% { opacity: 1; }
+        35.4496% { opacity: 1; }
         35.4497% { opacity: 0; }
         35.5169% { opacity: 0; }
         35.5170% { opacity: 0; }
-        35.5170% { opacity: 0; }
-        35.7641% { opacity: 0; }
+        35.5170% { opacity: 1; }
+        35.7641% { opacity: 1; }
         35.7642% { opacity: 0; }
         35.8594% { opacity: 0; }
         35.8595% { opacity: 0; }
@@ -1328,29 +1328,29 @@
         36.1066% { opacity: 1; }
         36.1067% { opacity: 0; }
         36.1739% { opacity: 0; }
-        36.1740% { opacity: 1; }
         36.1740% { opacity: 0; }
-        36.4211% { opacity: 0; }
+        36.1740% { opacity: 1; }
+        36.4211% { opacity: 1; }
         36.4212% { opacity: 0; }
         36.4885% { opacity: 0; }
         36.4886% { opacity: 0; }
-        36.4886% { opacity: 0; }
-        36.7357% { opacity: 0; }
+        36.4886% { opacity: 1; }
+        36.7357% { opacity: 1; }
         36.7358% { opacity: 0; }
         36.8030% { opacity: 0; }
         36.8031% { opacity: 0; }
-        36.8031% { opacity: 0; }
-        37.0502% { opacity: 0; }
+        36.8031% { opacity: 1; }
+        37.0502% { opacity: 1; }
         37.0503% { opacity: 0; }
         37.1175% { opacity: 0; }
         37.1176% { opacity: 0; }
-        37.1176% { opacity: 0; }
-        37.3647% { opacity: 0; }
+        37.1176% { opacity: 1; }
+        37.3647% { opacity: 1; }
         37.3648% { opacity: 0; }
         37.4321% { opacity: 0; }
         37.4322% { opacity: 0; }
-        37.4322% { opacity: 0; }
-        37.6793% { opacity: 0; }
+        37.4322% { opacity: 1; }
+        37.6793% { opacity: 1; }
         37.6794% { opacity: 0; }
         37.7745% { opacity: 0; }
         37.7746% { opacity: 0; }
@@ -1358,9 +1358,9 @@
         38.0217% { opacity: 1; }
         38.0218% { opacity: 0; }
         38.0891% { opacity: 0; }
-        38.0892% { opacity: 1; }
         38.0892% { opacity: 0; }
-        38.3362% { opacity: 0; }
+        38.0892% { opacity: 1; }
+        38.3362% { opacity: 1; }
         38.3363% { opacity: 0; }
         38.4315% { opacity: 0; }
         38.4316% { opacity: 0; }
@@ -1368,9 +1368,9 @@
         38.6787% { opacity: 1; }
         38.6788% { opacity: 0; }
         38.7460% { opacity: 0; }
-        38.7461% { opacity: 1; }
         38.7461% { opacity: 0; }
-        38.9932% { opacity: 0; }
+        38.7461% { opacity: 1; }
+        38.9932% { opacity: 1; }
         38.9933% { opacity: 0; }
         39.0885% { opacity: 0; }
         39.0886% { opacity: 0; }
@@ -1378,9 +1378,9 @@
         39.3357% { opacity: 1; }
         39.3358% { opacity: 0; }
         39.4030% { opacity: 0; }
-        39.4031% { opacity: 1; }
         39.4031% { opacity: 0; }
-        39.6502% { opacity: 0; }
+        39.4031% { opacity: 1; }
+        39.6502% { opacity: 1; }
         39.6503% { opacity: 0; }
         39.7454% { opacity: 0; }
         39.7455% { opacity: 0; }
@@ -1388,9 +1388,9 @@
         39.9926% { opacity: 1; }
         39.9927% { opacity: 0; }
         40.0600% { opacity: 0; }
-        40.0601% { opacity: 1; }
         40.0601% { opacity: 0; }
-        40.3072% { opacity: 0; }
+        40.0601% { opacity: 1; }
+        40.3072% { opacity: 1; }
         40.3073% { opacity: 0; }
         40.4024% { opacity: 0; }
         40.4025% { opacity: 0; }
@@ -1398,24 +1398,24 @@
         40.6496% { opacity: 1; }
         40.6497% { opacity: 0; }
         40.7170% { opacity: 0; }
-        40.7171% { opacity: 1; }
         40.7171% { opacity: 0; }
-        40.9642% { opacity: 0; }
+        40.7171% { opacity: 1; }
+        40.9642% { opacity: 1; }
         40.9643% { opacity: 0; }
         41.0315% { opacity: 0; }
         41.0316% { opacity: 0; }
-        41.0316% { opacity: 0; }
-        41.2787% { opacity: 0; }
+        41.0316% { opacity: 1; }
+        41.2787% { opacity: 1; }
         41.2788% { opacity: 0; }
         41.3460% { opacity: 0; }
         41.3461% { opacity: 0; }
-        41.3461% { opacity: 0; }
-        41.5932% { opacity: 0; }
+        41.3461% { opacity: 1; }
+        41.5932% { opacity: 1; }
         41.5933% { opacity: 0; }
         41.6606% { opacity: 0; }
         41.6607% { opacity: 0; }
-        41.6607% { opacity: 0; }
-        41.9078% { opacity: 0; }
+        41.6607% { opacity: 1; }
+        41.9078% { opacity: 1; }
         41.9079% { opacity: 0; }
         42.0030% { opacity: 0; }
         42.0031% { opacity: 0; }
@@ -1483,9 +1483,9 @@
         46.2036% { opacity: 1; }
         46.2037% { opacity: 0; }
         46.2710% { opacity: 0; }
-        46.2711% { opacity: 1; }
         46.2711% { opacity: 0; }
-        46.5182% { opacity: 0; }
+        46.2711% { opacity: 1; }
+        46.5182% { opacity: 1; }
         46.5183% { opacity: 0; }
         46.6134% { opacity: 0; }
         46.6135% { opacity: 0; }
@@ -1493,9 +1493,9 @@
         46.8606% { opacity: 1; }
         46.8607% { opacity: 0; }
         46.9279% { opacity: 0; }
-        46.9280% { opacity: 1; }
         46.9280% { opacity: 0; }
-        47.1751% { opacity: 0; }
+        46.9280% { opacity: 1; }
+        47.1751% { opacity: 1; }
         47.1752% { opacity: 0; }
         47.2704% { opacity: 0; }
         47.2705% { opacity: 0; }
@@ -1503,9 +1503,9 @@
         47.5176% { opacity: 1; }
         47.5177% { opacity: 0; }
         47.5849% { opacity: 0; }
-        47.5850% { opacity: 1; }
         47.5850% { opacity: 0; }
-        47.8321% { opacity: 0; }
+        47.5850% { opacity: 1; }
+        47.8321% { opacity: 1; }
         47.8322% { opacity: 0; }
         48.1755% { opacity: 0; }
         48.1756% { opacity: 0; }
@@ -1513,29 +1513,29 @@
         48.4227% { opacity: 1; }
         48.4228% { opacity: 0; }
         48.4900% { opacity: 0; }
-        48.4901% { opacity: 1; }
         48.4901% { opacity: 0; }
-        48.7372% { opacity: 0; }
+        48.4901% { opacity: 1; }
+        48.7372% { opacity: 1; }
         48.7373% { opacity: 0; }
         48.8046% { opacity: 0; }
         48.8047% { opacity: 0; }
-        48.8047% { opacity: 0; }
-        49.0518% { opacity: 0; }
+        48.8047% { opacity: 1; }
+        49.0518% { opacity: 1; }
         49.0519% { opacity: 0; }
         49.1191% { opacity: 0; }
         49.1192% { opacity: 0; }
-        49.1192% { opacity: 0; }
-        49.3663% { opacity: 0; }
+        49.1192% { opacity: 1; }
+        49.3663% { opacity: 1; }
         49.3664% { opacity: 0; }
         49.4337% { opacity: 0; }
         49.4338% { opacity: 0; }
-        49.4338% { opacity: 0; }
-        49.6809% { opacity: 0; }
+        49.4338% { opacity: 1; }
+        49.6809% { opacity: 1; }
         49.6810% { opacity: 0; }
         49.7482% { opacity: 0; }
         49.7483% { opacity: 0; }
-        49.7483% { opacity: 0; }
-        49.9954% { opacity: 0; }
+        49.7483% { opacity: 1; }
+        49.9954% { opacity: 1; }
         49.9955% { opacity: 0; }
         50.0906% { opacity: 0; }
         50.0907% { opacity: 0; }
@@ -1583,9 +1583,9 @@
         53.1477% { opacity: 1; }
         53.1478% { opacity: 0; }
         53.2151% { opacity: 0; }
-        53.2152% { opacity: 1; }
         53.2152% { opacity: 0; }
-        53.4623% { opacity: 0; }
+        53.2152% { opacity: 1; }
+        53.4623% { opacity: 1; }
         53.4624% { opacity: 0; }
         53.6129% { opacity: 0; }
         53.6130% { opacity: 0; }
@@ -1593,9 +1593,9 @@
         53.8601% { opacity: 1; }
         53.8602% { opacity: 0; }
         53.9274% { opacity: 0; }
-        53.9275% { opacity: 1; }
         53.9275% { opacity: 0; }
-        54.1746% { opacity: 0; }
+        53.9275% { opacity: 1; }
+        54.1746% { opacity: 1; }
         54.1747% { opacity: 0; }
         54.2698% { opacity: 0; }
         54.2699% { opacity: 0; }
@@ -1603,24 +1603,24 @@
         54.5170% { opacity: 1; }
         54.5171% { opacity: 0; }
         54.5844% { opacity: 0; }
-        54.5845% { opacity: 1; }
         54.5845% { opacity: 0; }
-        54.8316% { opacity: 0; }
+        54.5845% { opacity: 1; }
+        54.8316% { opacity: 1; }
         54.8317% { opacity: 0; }
         54.8989% { opacity: 0; }
         54.8990% { opacity: 0; }
-        54.8990% { opacity: 0; }
-        55.1461% { opacity: 0; }
+        54.8990% { opacity: 1; }
+        55.1461% { opacity: 1; }
         55.1462% { opacity: 0; }
         55.2135% { opacity: 0; }
         55.2136% { opacity: 0; }
-        55.2136% { opacity: 0; }
-        55.4607% { opacity: 0; }
+        55.2136% { opacity: 1; }
+        55.4607% { opacity: 1; }
         55.4608% { opacity: 0; }
         55.5280% { opacity: 0; }
         55.5281% { opacity: 0; }
-        55.5281% { opacity: 0; }
-        55.7752% { opacity: 0; }
+        55.5281% { opacity: 1; }
+        55.7752% { opacity: 1; }
         55.7753% { opacity: 0; }
         55.8704% { opacity: 0; }
         55.8705% { opacity: 0; }
@@ -1643,9 +1643,9 @@
         57.1445% { opacity: 1; }
         57.1446% { opacity: 0; }
         57.2118% { opacity: 0; }
-        57.2119% { opacity: 1; }
         57.2119% { opacity: 0; }
-        57.4590% { opacity: 0; }
+        57.2119% { opacity: 1; }
+        57.4590% { opacity: 1; }
         57.4591% { opacity: 0; }
         57.5543% { opacity: 0; }
         57.5544% { opacity: 0; }
@@ -1653,29 +1653,29 @@
         57.8015% { opacity: 1; }
         57.8016% { opacity: 0; }
         57.8688% { opacity: 0; }
-        57.8689% { opacity: 1; }
         57.8689% { opacity: 0; }
-        58.1160% { opacity: 0; }
+        57.8689% { opacity: 1; }
+        58.1160% { opacity: 1; }
         58.1161% { opacity: 0; }
         58.1834% { opacity: 0; }
         58.1835% { opacity: 0; }
-        58.1835% { opacity: 0; }
-        58.4306% { opacity: 0; }
+        58.1835% { opacity: 1; }
+        58.4306% { opacity: 1; }
         58.4307% { opacity: 0; }
         58.4979% { opacity: 0; }
         58.4980% { opacity: 0; }
-        58.4980% { opacity: 0; }
-        58.7451% { opacity: 0; }
+        58.4980% { opacity: 1; }
+        58.7451% { opacity: 1; }
         58.7452% { opacity: 0; }
         58.8124% { opacity: 0; }
         58.8125% { opacity: 0; }
-        58.8125% { opacity: 0; }
-        59.0596% { opacity: 0; }
+        58.8125% { opacity: 1; }
+        59.0596% { opacity: 1; }
         59.0597% { opacity: 0; }
         59.1270% { opacity: 0; }
         59.1271% { opacity: 0; }
-        59.1271% { opacity: 0; }
-        59.3742% { opacity: 0; }
+        59.1271% { opacity: 1; }
+        59.3742% { opacity: 1; }
         59.3743% { opacity: 0; }
         59.4694% { opacity: 0; }
         59.4695% { opacity: 0; }
@@ -1723,14 +1723,14 @@
         62.6890% { opacity: 1; }
         62.6891% { opacity: 0; }
         63.0987% { opacity: 0; }
-        63.0988% { opacity: 1; }
+        63.0988% { opacity: 0; }
         63.0988% { opacity: 1; }
         63.3459% { opacity: 1; }
         63.3460% { opacity: 0; }
         63.4132% { opacity: 0; }
-        63.4133% { opacity: 1; }
         63.4133% { opacity: 0; }
-        63.6604% { opacity: 0; }
+        63.4133% { opacity: 1; }
+        63.6604% { opacity: 1; }
         63.6605% { opacity: 0; }
         63.7557% { opacity: 0; }
         63.7558% { opacity: 0; }
@@ -1738,9 +1738,9 @@
         64.0029% { opacity: 1; }
         64.0030% { opacity: 0; }
         64.0702% { opacity: 0; }
-        64.0703% { opacity: 1; }
         64.0703% { opacity: 0; }
-        64.3174% { opacity: 0; }
+        64.0703% { opacity: 1; }
+        64.3174% { opacity: 1; }
         64.3175% { opacity: 0; }
         64.4126% { opacity: 0; }
         64.4127% { opacity: 0; }
@@ -1748,9 +1748,9 @@
         64.6598% { opacity: 1; }
         64.6599% { opacity: 0; }
         64.7272% { opacity: 0; }
-        64.7273% { opacity: 1; }
         64.7273% { opacity: 0; }
-        64.9744% { opacity: 0; }
+        64.7273% { opacity: 1; }
+        64.9744% { opacity: 1; }
         64.9745% { opacity: 0; }
         65.0696% { opacity: 0; }
         65.0697% { opacity: 0; }
@@ -1758,29 +1758,29 @@
         65.3168% { opacity: 1; }
         65.3169% { opacity: 0; }
         65.3842% { opacity: 0; }
-        65.3843% { opacity: 1; }
         65.3843% { opacity: 0; }
-        65.6313% { opacity: 0; }
+        65.3843% { opacity: 1; }
+        65.6313% { opacity: 1; }
         65.6314% { opacity: 0; }
         65.6987% { opacity: 0; }
         65.6988% { opacity: 0; }
-        65.6988% { opacity: 0; }
-        65.9459% { opacity: 0; }
+        65.6988% { opacity: 1; }
+        65.9459% { opacity: 1; }
         65.9460% { opacity: 0; }
         66.0132% { opacity: 0; }
         66.0133% { opacity: 0; }
-        66.0133% { opacity: 0; }
-        66.2604% { opacity: 0; }
+        66.0133% { opacity: 1; }
+        66.2604% { opacity: 1; }
         66.2605% { opacity: 0; }
         66.3278% { opacity: 0; }
         66.3279% { opacity: 0; }
-        66.3279% { opacity: 0; }
-        66.5750% { opacity: 0; }
+        66.3279% { opacity: 1; }
+        66.5750% { opacity: 1; }
         66.5751% { opacity: 0; }
         66.6423% { opacity: 0; }
         66.6424% { opacity: 0; }
-        66.6424% { opacity: 0; }
-        66.8895% { opacity: 0; }
+        66.6424% { opacity: 1; }
+        66.8895% { opacity: 1; }
         66.8896% { opacity: 0; }
         66.9847% { opacity: 0; }
         66.9848% { opacity: 0; }
@@ -1808,9 +1808,9 @@
         68.5733% { opacity: 1; }
         68.5734% { opacity: 0; }
         68.6407% { opacity: 0; }
-        68.6408% { opacity: 1; }
         68.6408% { opacity: 0; }
-        68.8879% { opacity: 0; }
+        68.6408% { opacity: 1; }
+        68.8879% { opacity: 1; }
         68.8880% { opacity: 0; }
         68.9831% { opacity: 0; }
         68.9832% { opacity: 0; }
@@ -1818,9 +1818,9 @@
         69.2303% { opacity: 1; }
         69.2304% { opacity: 0; }
         69.2977% { opacity: 0; }
-        69.2978% { opacity: 1; }
         69.2978% { opacity: 0; }
-        69.5449% { opacity: 0; }
+        69.2978% { opacity: 1; }
+        69.5449% { opacity: 1; }
         69.5450% { opacity: 0; }
         69.6401% { opacity: 0; }
         69.6402% { opacity: 0; }
@@ -1828,9 +1828,9 @@
         69.8873% { opacity: 1; }
         69.8874% { opacity: 0; }
         69.9546% { opacity: 0; }
-        69.9547% { opacity: 1; }
         69.9547% { opacity: 0; }
-        70.2018% { opacity: 0; }
+        69.9547% { opacity: 1; }
+        70.2018% { opacity: 1; }
         70.2019% { opacity: 0; }
         70.2971% { opacity: 0; }
         70.2972% { opacity: 0; }
@@ -1838,9 +1838,9 @@
         70.5443% { opacity: 1; }
         70.5444% { opacity: 0; }
         70.6116% { opacity: 0; }
-        70.6117% { opacity: 1; }
         70.6117% { opacity: 0; }
-        70.8588% { opacity: 0; }
+        70.6117% { opacity: 1; }
+        70.8588% { opacity: 1; }
         70.8589% { opacity: 0; }
         70.9541% { opacity: 0; }
         70.9542% { opacity: 0; }
@@ -1848,29 +1848,29 @@
         71.2013% { opacity: 1; }
         71.2014% { opacity: 0; }
         71.2686% { opacity: 0; }
-        71.2687% { opacity: 1; }
         71.2687% { opacity: 0; }
-        71.5158% { opacity: 0; }
+        71.2687% { opacity: 1; }
+        71.5158% { opacity: 1; }
         71.5159% { opacity: 0; }
         71.5831% { opacity: 0; }
         71.5832% { opacity: 0; }
-        71.5832% { opacity: 0; }
-        71.8303% { opacity: 0; }
+        71.5832% { opacity: 1; }
+        71.8303% { opacity: 1; }
         71.8304% { opacity: 0; }
         71.8977% { opacity: 0; }
         71.8978% { opacity: 0; }
-        71.8978% { opacity: 0; }
-        72.1449% { opacity: 0; }
+        71.8978% { opacity: 1; }
+        72.1449% { opacity: 1; }
         72.1450% { opacity: 0; }
         72.2122% { opacity: 0; }
         72.2123% { opacity: 0; }
-        72.2123% { opacity: 0; }
-        72.4594% { opacity: 0; }
+        72.2123% { opacity: 1; }
+        72.4594% { opacity: 1; }
         72.4595% { opacity: 0; }
         72.5268% { opacity: 0; }
         72.5269% { opacity: 0; }
-        72.5269% { opacity: 0; }
-        72.7740% { opacity: 0; }
+        72.5269% { opacity: 1; }
+        72.7740% { opacity: 1; }
         72.7741% { opacity: 0; }
         72.9245% { opacity: 0; }
         72.9246% { opacity: 0; }
@@ -1918,14 +1918,14 @@
         75.8895% { opacity: 1; }
         75.8896% { opacity: 0; }
         75.9568% { opacity: 0; }
-        75.9569% { opacity: 1; }
         75.9569% { opacity: 0; }
-        76.2040% { opacity: 0; }
+        75.9569% { opacity: 1; }
+        76.2040% { opacity: 1; }
         76.2041% { opacity: 0; }
         76.3387% { opacity: 0; }
         76.3388% { opacity: 0; }
-        76.3388% { opacity: 0; }
-        76.5859% { opacity: 0; }
+        76.3388% { opacity: 1; }
+        76.5859% { opacity: 1; }
         76.5860% { opacity: 0; }
         76.7365% { opacity: 0; }
         76.7366% { opacity: 0; }
@@ -1978,7 +1978,7 @@
         80.8466% { opacity: 1; }
         80.8467% { opacity: 0; }
         81.2726% { opacity: 0; }
-        81.2727% { opacity: 1; }
+        81.2727% { opacity: 0; }
         81.2727% { opacity: 0; }
         81.5198% { opacity: 0; }
         81.5199% { opacity: 0; }
@@ -1988,12 +1988,12 @@
         82.2187% { opacity: 1; }
         82.2188% { opacity: 0; }
         82.7447% { opacity: 0; }
-        82.7448% { opacity: 1; }
+        82.7448% { opacity: 0; }
         82.7448% { opacity: 1; }
         82.9919% { opacity: 1; }
         82.9920% { opacity: 0; }
         84.6138% { opacity: 0; }
-        84.6139% { opacity: 1; }
+        84.6139% { opacity: 0; }
         84.6139% { opacity: 0; }
         84.8610% { opacity: 0; }
         84.8611% { opacity: 0; }
@@ -2004,21 +2004,21 @@
         85.2035% { opacity: 0; }
         85.2708% { opacity: 0; }
         85.2709% { opacity: 0; }
-        85.2709% { opacity: 1; }
-        85.5180% { opacity: 1; }
+        85.2709% { opacity: 0; }
+        85.5180% { opacity: 0; }
         85.5181% { opacity: 0; }
         85.6132% { opacity: 0; }
-        85.6133% { opacity: 1; }
+        85.6133% { opacity: 0; }
         85.6133% { opacity: 0; }
         85.8604% { opacity: 0; }
         85.8605% { opacity: 0; }
         85.9277% { opacity: 0; }
         85.9278% { opacity: 0; }
-        85.9278% { opacity: 1; }
-        86.1749% { opacity: 1; }
+        85.9278% { opacity: 0; }
+        86.1749% { opacity: 0; }
         86.1750% { opacity: 0; }
         86.2702% { opacity: 0; }
-        86.2703% { opacity: 1; }
+        86.2703% { opacity: 0; }
         86.2703% { opacity: 0; }
         86.5174% { opacity: 0; }
         86.5175% { opacity: 0; }
@@ -2029,56 +2029,56 @@
         86.8599% { opacity: 0; }
         86.9271% { opacity: 0; }
         86.9272% { opacity: 0; }
-        86.9272% { opacity: 1; }
-        87.1743% { opacity: 1; }
+        86.9272% { opacity: 0; }
+        87.1743% { opacity: 0; }
         87.1744% { opacity: 0; }
         87.3249% { opacity: 0; }
-        87.3250% { opacity: 1; }
+        87.3250% { opacity: 0; }
         87.3250% { opacity: 0; }
         87.5721% { opacity: 0; }
         87.5722% { opacity: 0; }
         87.6395% { opacity: 0; }
         87.6396% { opacity: 0; }
-        87.6396% { opacity: 1; }
-        87.8867% { opacity: 1; }
+        87.6396% { opacity: 0; }
+        87.8867% { opacity: 0; }
         87.8868% { opacity: 0; }
         87.9819% { opacity: 0; }
-        87.9820% { opacity: 1; }
+        87.9820% { opacity: 0; }
         87.9820% { opacity: 0; }
         88.2291% { opacity: 0; }
         88.2292% { opacity: 0; }
         88.2964% { opacity: 0; }
         88.2965% { opacity: 0; }
-        88.2965% { opacity: 1; }
-        88.5436% { opacity: 1; }
+        88.2965% { opacity: 0; }
+        88.5436% { opacity: 0; }
         88.5437% { opacity: 0; }
         88.6783% { opacity: 0; }
-        88.6784% { opacity: 1; }
-        88.6784% { opacity: 1; }
-        88.9255% { opacity: 1; }
+        88.6784% { opacity: 0; }
+        88.6784% { opacity: 0; }
+        88.9255% { opacity: 0; }
         88.9256% { opacity: 0; }
         89.1160% { opacity: 0; }
-        89.1161% { opacity: 1; }
+        89.1161% { opacity: 0; }
         89.1161% { opacity: 1; }
         89.3632% { opacity: 1; }
         89.3633% { opacity: 0; }
         89.5138% { opacity: 0; }
-        89.5139% { opacity: 1; }
+        89.5139% { opacity: 0; }
         89.5139% { opacity: 0; }
         89.7610% { opacity: 0; }
         89.7611% { opacity: 0; }
         90.0304% { opacity: 0; }
         90.0305% { opacity: 0; }
-        90.0305% { opacity: 1; }
-        90.2776% { opacity: 1; }
+        90.0305% { opacity: 0; }
+        90.2776% { opacity: 0; }
         90.2777% { opacity: 0; }
         90.6210% { opacity: 0; }
-        90.6211% { opacity: 1; }
+        90.6211% { opacity: 0; }
         90.6211% { opacity: 1; }
         90.8682% { opacity: 1; }
         90.8683% { opacity: 0; }
         91.3444% { opacity: 0; }
-        91.3445% { opacity: 1; }
+        91.3445% { opacity: 0; }
         91.3445% { opacity: 0; }
         91.5915% { opacity: 0; }
         91.5916% { opacity: 0; }
@@ -2088,7 +2088,7 @@
         92.5156% { opacity: 1; }
         92.5157% { opacity: 0; }
         93.3265% { opacity: 0; }
-        93.3266% { opacity: 1; }
+        93.3266% { opacity: 0; }
         93.3266% { opacity: 0; }
         93.5737% { opacity: 0; }
         93.5738% { opacity: 0; }
@@ -2098,7 +2098,7 @@
         94.7661% { opacity: 1; }
         94.7662% { opacity: 0; }
         95.7785% { opacity: 0; }
-        95.7786% { opacity: 1; }
+        95.7786% { opacity: 0; }
         95.7786% { opacity: 0; }
         96.0257% { opacity: 0; }
         96.0258% { opacity: 0; }
@@ -2108,7 +2108,7 @@
         97.3525% { opacity: 1; }
         97.3526% { opacity: 0; }
         98.7011% { opacity: 0; }
-        98.7012% { opacity: 1; }
+        98.7012% { opacity: 0; }
         98.7012% { opacity: 0; }
         98.9483% { opacity: 0; }
         98.9484% { opacity: 0; }
@@ -2125,14 +2125,14 @@
         0.2471% { opacity: 1; }
         0.2472% { opacity: 0; }
         0.3144% { opacity: 0; }
-        0.3145% { opacity: 1; }
         0.3145% { opacity: 0; }
-        0.5616% { opacity: 0; }
+        0.3145% { opacity: 1; }
+        0.5616% { opacity: 1; }
         0.5617% { opacity: 0; }
         0.6290% { opacity: 0; }
         0.6291% { opacity: 0; }
-        0.6291% { opacity: 0; }
-        0.8762% { opacity: 0; }
+        0.6291% { opacity: 1; }
+        0.8762% { opacity: 1; }
         0.8763% { opacity: 0; }
         0.9714% { opacity: 0; }
         0.9715% { opacity: 0; }
@@ -2180,9 +2180,9 @@
         3.7907% { opacity: 1; }
         3.7908% { opacity: 0; }
         3.8581% { opacity: 0; }
-        3.8582% { opacity: 1; }
         3.8582% { opacity: 0; }
-        4.1053% { opacity: 0; }
+        3.8582% { opacity: 1; }
+        4.1053% { opacity: 1; }
         4.1054% { opacity: 0; }
         4.2559% { opacity: 0; }
         4.2560% { opacity: 0; }
@@ -2235,14 +2235,14 @@
         7.3897% { opacity: 1; }
         7.3898% { opacity: 0; }
         7.4570% { opacity: 0; }
-        7.4571% { opacity: 1; }
         7.4571% { opacity: 0; }
-        7.7042% { opacity: 0; }
+        7.4571% { opacity: 1; }
+        7.7042% { opacity: 1; }
         7.7043% { opacity: 0; }
         7.7716% { opacity: 0; }
         7.7717% { opacity: 0; }
-        7.7717% { opacity: 0; }
-        8.0188% { opacity: 0; }
+        7.7717% { opacity: 1; }
+        8.0188% { opacity: 1; }
         8.0189% { opacity: 0; }
         8.1694% { opacity: 0; }
         8.1695% { opacity: 0; }
@@ -2340,9 +2340,9 @@
         14.3568% { opacity: 1; }
         14.3569% { opacity: 0; }
         14.4242% { opacity: 0; }
-        14.4243% { opacity: 1; }
         14.4243% { opacity: 0; }
-        14.6713% { opacity: 0; }
+        14.4243% { opacity: 1; }
+        14.6713% { opacity: 1; }
         14.6714% { opacity: 0; }
         14.7666% { opacity: 0; }
         14.7667% { opacity: 0; }
@@ -2350,9 +2350,9 @@
         15.0138% { opacity: 1; }
         15.0139% { opacity: 0; }
         15.0811% { opacity: 0; }
-        15.0812% { opacity: 1; }
         15.0812% { opacity: 0; }
-        15.3283% { opacity: 0; }
+        15.0812% { opacity: 1; }
+        15.3283% { opacity: 1; }
         15.3284% { opacity: 0; }
         15.4236% { opacity: 0; }
         15.4237% { opacity: 0; }
@@ -2360,9 +2360,9 @@
         15.6708% { opacity: 1; }
         15.6709% { opacity: 0; }
         15.7381% { opacity: 0; }
-        15.7382% { opacity: 1; }
         15.7382% { opacity: 0; }
-        15.9853% { opacity: 0; }
+        15.7382% { opacity: 1; }
+        15.9853% { opacity: 1; }
         15.9854% { opacity: 0; }
         16.0805% { opacity: 0; }
         16.0806% { opacity: 0; }
@@ -2370,9 +2370,9 @@
         16.3277% { opacity: 1; }
         16.3278% { opacity: 0; }
         16.3951% { opacity: 0; }
-        16.3952% { opacity: 1; }
         16.3952% { opacity: 0; }
-        16.6423% { opacity: 0; }
+        16.3952% { opacity: 1; }
+        16.6423% { opacity: 1; }
         16.6424% { opacity: 0; }
         16.7375% { opacity: 0; }
         16.7376% { opacity: 0; }
@@ -2380,9 +2380,9 @@
         16.9847% { opacity: 1; }
         16.9848% { opacity: 0; }
         17.0521% { opacity: 0; }
-        17.0522% { opacity: 1; }
         17.0522% { opacity: 0; }
-        17.2993% { opacity: 0; }
+        17.0522% { opacity: 1; }
+        17.2993% { opacity: 1; }
         17.2994% { opacity: 0; }
         17.3945% { opacity: 0; }
         17.3946% { opacity: 0; }
@@ -2390,9 +2390,9 @@
         17.6417% { opacity: 1; }
         17.6418% { opacity: 0; }
         17.7090% { opacity: 0; }
-        17.7091% { opacity: 1; }
         17.7091% { opacity: 0; }
-        17.9562% { opacity: 0; }
+        17.7091% { opacity: 1; }
+        17.9562% { opacity: 1; }
         17.9563% { opacity: 0; }
         18.0515% { opacity: 0; }
         18.0516% { opacity: 0; }
@@ -2400,14 +2400,14 @@
         18.2987% { opacity: 1; }
         18.2988% { opacity: 0; }
         18.3660% { opacity: 0; }
-        18.3661% { opacity: 1; }
         18.3661% { opacity: 0; }
-        18.6132% { opacity: 0; }
+        18.3661% { opacity: 1; }
+        18.6132% { opacity: 1; }
         18.6133% { opacity: 0; }
         18.7479% { opacity: 0; }
         18.7480% { opacity: 0; }
-        18.7480% { opacity: 0; }
-        18.9951% { opacity: 0; }
+        18.7480% { opacity: 1; }
+        18.9951% { opacity: 1; }
         18.9952% { opacity: 0; }
         19.2081% { opacity: 0; }
         19.2082% { opacity: 0; }
@@ -2415,17 +2415,17 @@
         19.4552% { opacity: 1; }
         19.4553% { opacity: 0; }
         19.6058% { opacity: 0; }
-        19.6059% { opacity: 1; }
+        19.6059% { opacity: 0; }
         19.6059% { opacity: 1; }
         19.8530% { opacity: 1; }
         19.8531% { opacity: 0; }
         19.9483% { opacity: 0; }
-        19.9484% { opacity: 1; }
+        19.9484% { opacity: 0; }
         19.9484% { opacity: 1; }
         20.1955% { opacity: 1; }
         20.1956% { opacity: 0; }
         20.6717% { opacity: 0; }
-        20.6718% { opacity: 1; }
+        20.6718% { opacity: 0; }
         20.6718% { opacity: 0; }
         20.9189% { opacity: 0; }
         20.9190% { opacity: 0; }
@@ -2435,7 +2435,7 @@
         21.3565% { opacity: 1; }
         21.3566% { opacity: 0; }
         21.5994% { opacity: 0; }
-        21.5995% { opacity: 1; }
+        21.5995% { opacity: 0; }
         21.5995% { opacity: 0; }
         21.8465% { opacity: 0; }
         21.8466% { opacity: 0; }
@@ -2495,9 +2495,9 @@
         25.7604% { opacity: 1; }
         25.7605% { opacity: 0; }
         25.8277% { opacity: 0; }
-        25.8278% { opacity: 1; }
         25.8278% { opacity: 0; }
-        26.0749% { opacity: 0; }
+        25.8278% { opacity: 1; }
+        26.0749% { opacity: 1; }
         26.0750% { opacity: 0; }
         26.1702% { opacity: 0; }
         26.1703% { opacity: 0; }
@@ -2505,9 +2505,9 @@
         26.4173% { opacity: 1; }
         26.4174% { opacity: 0; }
         26.4847% { opacity: 0; }
-        26.4848% { opacity: 1; }
         26.4848% { opacity: 0; }
-        26.7319% { opacity: 0; }
+        26.4848% { opacity: 1; }
+        26.7319% { opacity: 1; }
         26.7320% { opacity: 0; }
         26.8271% { opacity: 0; }
         26.8272% { opacity: 0; }
@@ -2515,14 +2515,14 @@
         27.0743% { opacity: 1; }
         27.0744% { opacity: 0; }
         27.1417% { opacity: 0; }
-        27.1418% { opacity: 1; }
         27.1418% { opacity: 0; }
-        27.3889% { opacity: 0; }
+        27.1418% { opacity: 1; }
+        27.3889% { opacity: 1; }
         27.3890% { opacity: 0; }
         27.5236% { opacity: 0; }
         27.5237% { opacity: 0; }
-        27.5237% { opacity: 0; }
-        27.7708% { opacity: 0; }
+        27.5237% { opacity: 1; }
+        27.7708% { opacity: 1; }
         27.7709% { opacity: 0; }
         27.9213% { opacity: 0; }
         27.9214% { opacity: 0; }
@@ -2530,9 +2530,9 @@
         28.1685% { opacity: 1; }
         28.1686% { opacity: 0; }
         28.2359% { opacity: 0; }
-        28.2360% { opacity: 1; }
         28.2360% { opacity: 0; }
-        28.4831% { opacity: 0; }
+        28.2360% { opacity: 1; }
+        28.4831% { opacity: 1; }
         28.4832% { opacity: 0; }
         28.8927% { opacity: 0; }
         28.8928% { opacity: 0; }
@@ -2616,426 +2616,426 @@
         34.1915% { opacity: 0; }
         34.2588% { opacity: 0; }
         34.2589% { opacity: 0; }
-        34.2589% { opacity: 1; }
-        34.5060% { opacity: 1; }
+        34.2589% { opacity: 0; }
+        34.5060% { opacity: 0; }
         34.5061% { opacity: 0; }
         34.5733% { opacity: 0; }
-        34.5734% { opacity: 1; }
-        34.5734% { opacity: 1; }
-        34.8205% { opacity: 1; }
+        34.5734% { opacity: 0; }
+        34.5734% { opacity: 0; }
+        34.8205% { opacity: 0; }
         34.8206% { opacity: 0; }
         34.8879% { opacity: 0; }
-        34.8880% { opacity: 1; }
-        34.8880% { opacity: 1; }
-        35.1351% { opacity: 1; }
+        34.8880% { opacity: 0; }
+        34.8880% { opacity: 0; }
+        35.1351% { opacity: 0; }
         35.1352% { opacity: 0; }
         35.2024% { opacity: 0; }
-        35.2025% { opacity: 1; }
-        35.2025% { opacity: 1; }
-        35.4496% { opacity: 1; }
+        35.2025% { opacity: 0; }
+        35.2025% { opacity: 0; }
+        35.4496% { opacity: 0; }
         35.4497% { opacity: 0; }
         35.5169% { opacity: 0; }
-        35.5170% { opacity: 1; }
-        35.5170% { opacity: 1; }
-        35.7641% { opacity: 1; }
+        35.5170% { opacity: 0; }
+        35.5170% { opacity: 0; }
+        35.7641% { opacity: 0; }
         35.7642% { opacity: 0; }
         35.8594% { opacity: 0; }
-        35.8595% { opacity: 1; }
+        35.8595% { opacity: 0; }
         35.8595% { opacity: 0; }
         36.1066% { opacity: 0; }
         36.1067% { opacity: 0; }
         36.1739% { opacity: 0; }
         36.1740% { opacity: 0; }
-        36.1740% { opacity: 1; }
-        36.4211% { opacity: 1; }
+        36.1740% { opacity: 0; }
+        36.4211% { opacity: 0; }
         36.4212% { opacity: 0; }
         36.4885% { opacity: 0; }
-        36.4886% { opacity: 1; }
-        36.4886% { opacity: 1; }
-        36.7357% { opacity: 1; }
+        36.4886% { opacity: 0; }
+        36.4886% { opacity: 0; }
+        36.7357% { opacity: 0; }
         36.7358% { opacity: 0; }
         36.8030% { opacity: 0; }
-        36.8031% { opacity: 1; }
-        36.8031% { opacity: 1; }
-        37.0502% { opacity: 1; }
+        36.8031% { opacity: 0; }
+        36.8031% { opacity: 0; }
+        37.0502% { opacity: 0; }
         37.0503% { opacity: 0; }
         37.1175% { opacity: 0; }
-        37.1176% { opacity: 1; }
-        37.1176% { opacity: 1; }
-        37.3647% { opacity: 1; }
+        37.1176% { opacity: 0; }
+        37.1176% { opacity: 0; }
+        37.3647% { opacity: 0; }
         37.3648% { opacity: 0; }
         37.4321% { opacity: 0; }
-        37.4322% { opacity: 1; }
-        37.4322% { opacity: 1; }
-        37.6793% { opacity: 1; }
+        37.4322% { opacity: 0; }
+        37.4322% { opacity: 0; }
+        37.6793% { opacity: 0; }
         37.6794% { opacity: 0; }
         37.7745% { opacity: 0; }
-        37.7746% { opacity: 1; }
+        37.7746% { opacity: 0; }
         37.7746% { opacity: 0; }
         38.0217% { opacity: 0; }
         38.0218% { opacity: 0; }
         38.0891% { opacity: 0; }
         38.0892% { opacity: 0; }
-        38.0892% { opacity: 1; }
-        38.3362% { opacity: 1; }
+        38.0892% { opacity: 0; }
+        38.3362% { opacity: 0; }
         38.3363% { opacity: 0; }
         38.4315% { opacity: 0; }
-        38.4316% { opacity: 1; }
+        38.4316% { opacity: 0; }
         38.4316% { opacity: 0; }
         38.6787% { opacity: 0; }
         38.6788% { opacity: 0; }
         38.7460% { opacity: 0; }
         38.7461% { opacity: 0; }
-        38.7461% { opacity: 1; }
-        38.9932% { opacity: 1; }
+        38.7461% { opacity: 0; }
+        38.9932% { opacity: 0; }
         38.9933% { opacity: 0; }
         39.0885% { opacity: 0; }
-        39.0886% { opacity: 1; }
+        39.0886% { opacity: 0; }
         39.0886% { opacity: 0; }
         39.3357% { opacity: 0; }
         39.3358% { opacity: 0; }
         39.4030% { opacity: 0; }
         39.4031% { opacity: 0; }
-        39.4031% { opacity: 1; }
-        39.6502% { opacity: 1; }
+        39.4031% { opacity: 0; }
+        39.6502% { opacity: 0; }
         39.6503% { opacity: 0; }
         39.7454% { opacity: 0; }
-        39.7455% { opacity: 1; }
+        39.7455% { opacity: 0; }
         39.7455% { opacity: 0; }
         39.9926% { opacity: 0; }
         39.9927% { opacity: 0; }
         40.0600% { opacity: 0; }
         40.0601% { opacity: 0; }
-        40.0601% { opacity: 1; }
-        40.3072% { opacity: 1; }
+        40.0601% { opacity: 0; }
+        40.3072% { opacity: 0; }
         40.3073% { opacity: 0; }
         40.4024% { opacity: 0; }
-        40.4025% { opacity: 1; }
+        40.4025% { opacity: 0; }
         40.4025% { opacity: 0; }
         40.6496% { opacity: 0; }
         40.6497% { opacity: 0; }
         40.7170% { opacity: 0; }
         40.7171% { opacity: 0; }
-        40.7171% { opacity: 1; }
-        40.9642% { opacity: 1; }
+        40.7171% { opacity: 0; }
+        40.9642% { opacity: 0; }
         40.9643% { opacity: 0; }
         41.0315% { opacity: 0; }
-        41.0316% { opacity: 1; }
-        41.0316% { opacity: 1; }
-        41.2787% { opacity: 1; }
+        41.0316% { opacity: 0; }
+        41.0316% { opacity: 0; }
+        41.2787% { opacity: 0; }
         41.2788% { opacity: 0; }
         41.3460% { opacity: 0; }
-        41.3461% { opacity: 1; }
-        41.3461% { opacity: 1; }
-        41.5932% { opacity: 1; }
+        41.3461% { opacity: 0; }
+        41.3461% { opacity: 0; }
+        41.5932% { opacity: 0; }
         41.5933% { opacity: 0; }
         41.6606% { opacity: 0; }
-        41.6607% { opacity: 1; }
-        41.6607% { opacity: 1; }
-        41.9078% { opacity: 1; }
+        41.6607% { opacity: 0; }
+        41.6607% { opacity: 0; }
+        41.9078% { opacity: 0; }
         41.9079% { opacity: 0; }
         42.0030% { opacity: 0; }
-        42.0031% { opacity: 1; }
+        42.0031% { opacity: 0; }
         42.0031% { opacity: 1; }
         42.2502% { opacity: 1; }
         42.2503% { opacity: 0; }
         42.3176% { opacity: 0; }
-        42.3177% { opacity: 1; }
+        42.3177% { opacity: 0; }
         42.3177% { opacity: 1; }
         42.5648% { opacity: 1; }
         42.5649% { opacity: 0; }
         42.6321% { opacity: 0; }
-        42.6322% { opacity: 1; }
+        42.6322% { opacity: 0; }
         42.6322% { opacity: 1; }
         42.8793% { opacity: 1; }
         42.8794% { opacity: 0; }
         42.9745% { opacity: 0; }
-        42.9746% { opacity: 1; }
+        42.9746% { opacity: 0; }
         42.9746% { opacity: 1; }
         43.2217% { opacity: 1; }
         43.2218% { opacity: 0; }
         43.2891% { opacity: 0; }
-        43.2892% { opacity: 1; }
+        43.2892% { opacity: 0; }
         43.2892% { opacity: 1; }
         43.5363% { opacity: 1; }
         43.5364% { opacity: 0; }
         43.6315% { opacity: 0; }
-        43.6316% { opacity: 1; }
+        43.6316% { opacity: 0; }
         43.6316% { opacity: 1; }
         43.8787% { opacity: 1; }
         43.8788% { opacity: 0; }
         43.9460% { opacity: 0; }
-        43.9461% { opacity: 1; }
+        43.9461% { opacity: 0; }
         43.9461% { opacity: 1; }
         44.1932% { opacity: 1; }
         44.1933% { opacity: 0; }
         44.2885% { opacity: 0; }
-        44.2886% { opacity: 1; }
+        44.2886% { opacity: 0; }
         44.2886% { opacity: 1; }
         44.5357% { opacity: 1; }
         44.5358% { opacity: 0; }
         44.6030% { opacity: 0; }
-        44.6031% { opacity: 1; }
+        44.6031% { opacity: 0; }
         44.6031% { opacity: 1; }
         44.8502% { opacity: 1; }
         44.8503% { opacity: 0; }
         44.9849% { opacity: 0; }
-        44.9850% { opacity: 1; }
+        44.9850% { opacity: 0; }
         44.9850% { opacity: 1; }
         45.2321% { opacity: 1; }
         45.2322% { opacity: 0; }
         45.2995% { opacity: 0; }
-        45.2996% { opacity: 1; }
+        45.2996% { opacity: 0; }
         45.2996% { opacity: 1; }
         45.5466% { opacity: 1; }
         45.5467% { opacity: 0; }
         45.6140% { opacity: 0; }
-        45.6141% { opacity: 1; }
+        45.6141% { opacity: 0; }
         45.6141% { opacity: 1; }
         45.8612% { opacity: 1; }
         45.8613% { opacity: 0; }
         45.9564% { opacity: 0; }
-        45.9565% { opacity: 1; }
+        45.9565% { opacity: 0; }
         45.9565% { opacity: 0; }
         46.2036% { opacity: 0; }
         46.2037% { opacity: 0; }
         46.2710% { opacity: 0; }
         46.2711% { opacity: 0; }
-        46.2711% { opacity: 1; }
-        46.5182% { opacity: 1; }
+        46.2711% { opacity: 0; }
+        46.5182% { opacity: 0; }
         46.5183% { opacity: 0; }
         46.6134% { opacity: 0; }
-        46.6135% { opacity: 1; }
+        46.6135% { opacity: 0; }
         46.6135% { opacity: 0; }
         46.8606% { opacity: 0; }
         46.8607% { opacity: 0; }
         46.9279% { opacity: 0; }
         46.9280% { opacity: 0; }
-        46.9280% { opacity: 1; }
-        47.1751% { opacity: 1; }
+        46.9280% { opacity: 0; }
+        47.1751% { opacity: 0; }
         47.1752% { opacity: 0; }
         47.2704% { opacity: 0; }
-        47.2705% { opacity: 1; }
+        47.2705% { opacity: 0; }
         47.2705% { opacity: 0; }
         47.5176% { opacity: 0; }
         47.5177% { opacity: 0; }
         47.5849% { opacity: 0; }
         47.5850% { opacity: 0; }
-        47.5850% { opacity: 1; }
-        47.8321% { opacity: 1; }
+        47.5850% { opacity: 0; }
+        47.8321% { opacity: 0; }
         47.8322% { opacity: 0; }
         48.1755% { opacity: 0; }
-        48.1756% { opacity: 1; }
+        48.1756% { opacity: 0; }
         48.1756% { opacity: 0; }
         48.4227% { opacity: 0; }
         48.4228% { opacity: 0; }
         48.4900% { opacity: 0; }
         48.4901% { opacity: 0; }
-        48.4901% { opacity: 1; }
-        48.7372% { opacity: 1; }
+        48.4901% { opacity: 0; }
+        48.7372% { opacity: 0; }
         48.7373% { opacity: 0; }
         48.8046% { opacity: 0; }
-        48.8047% { opacity: 1; }
-        48.8047% { opacity: 1; }
-        49.0518% { opacity: 1; }
+        48.8047% { opacity: 0; }
+        48.8047% { opacity: 0; }
+        49.0518% { opacity: 0; }
         49.0519% { opacity: 0; }
         49.1191% { opacity: 0; }
-        49.1192% { opacity: 1; }
-        49.1192% { opacity: 1; }
-        49.3663% { opacity: 1; }
+        49.1192% { opacity: 0; }
+        49.1192% { opacity: 0; }
+        49.3663% { opacity: 0; }
         49.3664% { opacity: 0; }
         49.4337% { opacity: 0; }
-        49.4338% { opacity: 1; }
-        49.4338% { opacity: 1; }
-        49.6809% { opacity: 1; }
+        49.4338% { opacity: 0; }
+        49.4338% { opacity: 0; }
+        49.6809% { opacity: 0; }
         49.6810% { opacity: 0; }
         49.7482% { opacity: 0; }
-        49.7483% { opacity: 1; }
-        49.7483% { opacity: 1; }
-        49.9954% { opacity: 1; }
+        49.7483% { opacity: 0; }
+        49.7483% { opacity: 0; }
+        49.9954% { opacity: 0; }
         49.9955% { opacity: 0; }
         50.0906% { opacity: 0; }
-        50.0907% { opacity: 1; }
+        50.0907% { opacity: 0; }
         50.0907% { opacity: 1; }
         50.3378% { opacity: 1; }
         50.3379% { opacity: 0; }
         50.4052% { opacity: 0; }
-        50.4053% { opacity: 1; }
+        50.4053% { opacity: 0; }
         50.4053% { opacity: 1; }
         50.6524% { opacity: 1; }
         50.6525% { opacity: 0; }
         50.7197% { opacity: 0; }
-        50.7198% { opacity: 1; }
+        50.7198% { opacity: 0; }
         50.7198% { opacity: 1; }
         50.9669% { opacity: 1; }
         50.9670% { opacity: 0; }
         51.0343% { opacity: 0; }
-        51.0344% { opacity: 1; }
+        51.0344% { opacity: 0; }
         51.0344% { opacity: 1; }
         51.2815% { opacity: 1; }
         51.2816% { opacity: 0; }
         51.4320% { opacity: 0; }
-        51.4321% { opacity: 1; }
+        51.4321% { opacity: 0; }
         51.4321% { opacity: 1; }
         51.6792% { opacity: 1; }
         51.6793% { opacity: 0; }
         51.7466% { opacity: 0; }
-        51.7467% { opacity: 1; }
+        51.7467% { opacity: 0; }
         51.7467% { opacity: 1; }
         51.9938% { opacity: 1; }
         51.9939% { opacity: 0; }
         52.0611% { opacity: 0; }
-        52.0612% { opacity: 1; }
+        52.0612% { opacity: 0; }
         52.0612% { opacity: 1; }
         52.3083% { opacity: 1; }
         52.3084% { opacity: 0; }
         52.3757% { opacity: 0; }
-        52.3758% { opacity: 1; }
+        52.3758% { opacity: 0; }
         52.3758% { opacity: 1; }
         52.6229% { opacity: 1; }
         52.6230% { opacity: 0; }
         52.9005% { opacity: 0; }
-        52.9006% { opacity: 1; }
+        52.9006% { opacity: 0; }
         52.9006% { opacity: 0; }
         53.1477% { opacity: 0; }
         53.1478% { opacity: 0; }
         53.2151% { opacity: 0; }
         53.2152% { opacity: 0; }
-        53.2152% { opacity: 1; }
-        53.4623% { opacity: 1; }
+        53.2152% { opacity: 0; }
+        53.4623% { opacity: 0; }
         53.4624% { opacity: 0; }
         53.6129% { opacity: 0; }
-        53.6130% { opacity: 1; }
+        53.6130% { opacity: 0; }
         53.6130% { opacity: 0; }
         53.8601% { opacity: 0; }
         53.8602% { opacity: 0; }
         53.9274% { opacity: 0; }
         53.9275% { opacity: 0; }
-        53.9275% { opacity: 1; }
-        54.1746% { opacity: 1; }
+        53.9275% { opacity: 0; }
+        54.1746% { opacity: 0; }
         54.1747% { opacity: 0; }
         54.2698% { opacity: 0; }
-        54.2699% { opacity: 1; }
+        54.2699% { opacity: 0; }
         54.2699% { opacity: 0; }
         54.5170% { opacity: 0; }
         54.5171% { opacity: 0; }
         54.5844% { opacity: 0; }
         54.5845% { opacity: 0; }
-        54.5845% { opacity: 1; }
-        54.8316% { opacity: 1; }
+        54.5845% { opacity: 0; }
+        54.8316% { opacity: 0; }
         54.8317% { opacity: 0; }
         54.8989% { opacity: 0; }
-        54.8990% { opacity: 1; }
-        54.8990% { opacity: 1; }
-        55.1461% { opacity: 1; }
+        54.8990% { opacity: 0; }
+        54.8990% { opacity: 0; }
+        55.1461% { opacity: 0; }
         55.1462% { opacity: 0; }
         55.2135% { opacity: 0; }
-        55.2136% { opacity: 1; }
-        55.2136% { opacity: 1; }
-        55.4607% { opacity: 1; }
+        55.2136% { opacity: 0; }
+        55.2136% { opacity: 0; }
+        55.4607% { opacity: 0; }
         55.4608% { opacity: 0; }
         55.5280% { opacity: 0; }
-        55.5281% { opacity: 1; }
-        55.5281% { opacity: 1; }
-        55.7752% { opacity: 1; }
+        55.5281% { opacity: 0; }
+        55.5281% { opacity: 0; }
+        55.7752% { opacity: 0; }
         55.7753% { opacity: 0; }
         55.8704% { opacity: 0; }
-        55.8705% { opacity: 1; }
+        55.8705% { opacity: 0; }
         55.8705% { opacity: 1; }
         56.1176% { opacity: 1; }
         56.1177% { opacity: 0; }
         56.1850% { opacity: 0; }
-        56.1851% { opacity: 1; }
+        56.1851% { opacity: 0; }
         56.1851% { opacity: 1; }
         56.4322% { opacity: 1; }
         56.4323% { opacity: 0; }
         56.4995% { opacity: 0; }
-        56.4996% { opacity: 1; }
+        56.4996% { opacity: 0; }
         56.4996% { opacity: 1; }
         56.7467% { opacity: 1; }
         56.7468% { opacity: 0; }
         56.8973% { opacity: 0; }
-        56.8974% { opacity: 1; }
+        56.8974% { opacity: 0; }
         56.8974% { opacity: 0; }
         57.1445% { opacity: 0; }
         57.1446% { opacity: 0; }
         57.2118% { opacity: 0; }
         57.2119% { opacity: 0; }
-        57.2119% { opacity: 1; }
-        57.4590% { opacity: 1; }
+        57.2119% { opacity: 0; }
+        57.4590% { opacity: 0; }
         57.4591% { opacity: 0; }
         57.5543% { opacity: 0; }
-        57.5544% { opacity: 1; }
+        57.5544% { opacity: 0; }
         57.5544% { opacity: 0; }
         57.8015% { opacity: 0; }
         57.8016% { opacity: 0; }
         57.8688% { opacity: 0; }
         57.8689% { opacity: 0; }
-        57.8689% { opacity: 1; }
-        58.1160% { opacity: 1; }
+        57.8689% { opacity: 0; }
+        58.1160% { opacity: 0; }
         58.1161% { opacity: 0; }
         58.1834% { opacity: 0; }
-        58.1835% { opacity: 1; }
-        58.1835% { opacity: 1; }
-        58.4306% { opacity: 1; }
+        58.1835% { opacity: 0; }
+        58.1835% { opacity: 0; }
+        58.4306% { opacity: 0; }
         58.4307% { opacity: 0; }
         58.4979% { opacity: 0; }
-        58.4980% { opacity: 1; }
-        58.4980% { opacity: 1; }
-        58.7451% { opacity: 1; }
+        58.4980% { opacity: 0; }
+        58.4980% { opacity: 0; }
+        58.7451% { opacity: 0; }
         58.7452% { opacity: 0; }
         58.8124% { opacity: 0; }
-        58.8125% { opacity: 1; }
-        58.8125% { opacity: 1; }
-        59.0596% { opacity: 1; }
+        58.8125% { opacity: 0; }
+        58.8125% { opacity: 0; }
+        59.0596% { opacity: 0; }
         59.0597% { opacity: 0; }
         59.1270% { opacity: 0; }
-        59.1271% { opacity: 1; }
-        59.1271% { opacity: 1; }
-        59.3742% { opacity: 1; }
+        59.1271% { opacity: 0; }
+        59.1271% { opacity: 0; }
+        59.3742% { opacity: 0; }
         59.3743% { opacity: 0; }
         59.4694% { opacity: 0; }
-        59.4695% { opacity: 1; }
+        59.4695% { opacity: 0; }
         59.4695% { opacity: 1; }
         59.7166% { opacity: 1; }
         59.7167% { opacity: 0; }
         59.7840% { opacity: 0; }
-        59.7841% { opacity: 1; }
+        59.7841% { opacity: 0; }
         59.7841% { opacity: 1; }
         60.0311% { opacity: 1; }
         60.0312% { opacity: 0; }
         60.1817% { opacity: 0; }
-        60.1818% { opacity: 1; }
+        60.1818% { opacity: 0; }
         60.1818% { opacity: 1; }
         60.4289% { opacity: 1; }
         60.4290% { opacity: 0; }
         60.4963% { opacity: 0; }
-        60.4964% { opacity: 1; }
+        60.4964% { opacity: 0; }
         60.4964% { opacity: 1; }
         60.7435% { opacity: 1; }
         60.7436% { opacity: 0; }
         60.8387% { opacity: 0; }
-        60.8388% { opacity: 1; }
+        60.8388% { opacity: 0; }
         60.8388% { opacity: 1; }
         61.0859% { opacity: 1; }
         61.0860% { opacity: 0; }
         61.1811% { opacity: 0; }
-        61.1812% { opacity: 1; }
+        61.1812% { opacity: 0; }
         61.1812% { opacity: 1; }
         61.4283% { opacity: 1; }
         61.4284% { opacity: 0; }
         61.4957% { opacity: 0; }
-        61.4958% { opacity: 1; }
+        61.4958% { opacity: 0; }
         61.4958% { opacity: 1; }
         61.7429% { opacity: 1; }
         61.7430% { opacity: 0; }
         61.8935% { opacity: 0; }
-        61.8936% { opacity: 1; }
+        61.8936% { opacity: 0; }
         61.8936% { opacity: 1; }
         62.1407% { opacity: 1; }
         62.1408% { opacity: 0; }
         62.4418% { opacity: 0; }
-        62.4419% { opacity: 1; }
+        62.4419% { opacity: 0; }
         62.4419% { opacity: 0; }
         62.6890% { opacity: 0; }
         62.6891% { opacity: 0; }
@@ -3046,251 +3046,251 @@
         63.3460% { opacity: 0; }
         63.4132% { opacity: 0; }
         63.4133% { opacity: 0; }
-        63.4133% { opacity: 1; }
-        63.6604% { opacity: 1; }
+        63.4133% { opacity: 0; }
+        63.6604% { opacity: 0; }
         63.6605% { opacity: 0; }
         63.7557% { opacity: 0; }
-        63.7558% { opacity: 1; }
+        63.7558% { opacity: 0; }
         63.7558% { opacity: 0; }
         64.0029% { opacity: 0; }
         64.0030% { opacity: 0; }
         64.0702% { opacity: 0; }
         64.0703% { opacity: 0; }
-        64.0703% { opacity: 1; }
-        64.3174% { opacity: 1; }
+        64.0703% { opacity: 0; }
+        64.3174% { opacity: 0; }
         64.3175% { opacity: 0; }
         64.4126% { opacity: 0; }
-        64.4127% { opacity: 1; }
+        64.4127% { opacity: 0; }
         64.4127% { opacity: 0; }
         64.6598% { opacity: 0; }
         64.6599% { opacity: 0; }
         64.7272% { opacity: 0; }
         64.7273% { opacity: 0; }
-        64.7273% { opacity: 1; }
-        64.9744% { opacity: 1; }
+        64.7273% { opacity: 0; }
+        64.9744% { opacity: 0; }
         64.9745% { opacity: 0; }
         65.0696% { opacity: 0; }
-        65.0697% { opacity: 1; }
+        65.0697% { opacity: 0; }
         65.0697% { opacity: 0; }
         65.3168% { opacity: 0; }
         65.3169% { opacity: 0; }
         65.3842% { opacity: 0; }
         65.3843% { opacity: 0; }
-        65.3843% { opacity: 1; }
-        65.6313% { opacity: 1; }
+        65.3843% { opacity: 0; }
+        65.6313% { opacity: 0; }
         65.6314% { opacity: 0; }
         65.6987% { opacity: 0; }
-        65.6988% { opacity: 1; }
-        65.6988% { opacity: 1; }
-        65.9459% { opacity: 1; }
+        65.6988% { opacity: 0; }
+        65.6988% { opacity: 0; }
+        65.9459% { opacity: 0; }
         65.9460% { opacity: 0; }
         66.0132% { opacity: 0; }
-        66.0133% { opacity: 1; }
-        66.0133% { opacity: 1; }
-        66.2604% { opacity: 1; }
+        66.0133% { opacity: 0; }
+        66.0133% { opacity: 0; }
+        66.2604% { opacity: 0; }
         66.2605% { opacity: 0; }
         66.3278% { opacity: 0; }
-        66.3279% { opacity: 1; }
-        66.3279% { opacity: 1; }
-        66.5750% { opacity: 1; }
+        66.3279% { opacity: 0; }
+        66.3279% { opacity: 0; }
+        66.5750% { opacity: 0; }
         66.5751% { opacity: 0; }
         66.6423% { opacity: 0; }
-        66.6424% { opacity: 1; }
-        66.6424% { opacity: 1; }
-        66.8895% { opacity: 1; }
+        66.6424% { opacity: 0; }
+        66.6424% { opacity: 0; }
+        66.8895% { opacity: 0; }
         66.8896% { opacity: 0; }
         66.9847% { opacity: 0; }
-        66.9848% { opacity: 1; }
+        66.9848% { opacity: 0; }
         66.9848% { opacity: 1; }
         67.2319% { opacity: 1; }
         67.2320% { opacity: 0; }
         67.2993% { opacity: 0; }
-        67.2994% { opacity: 1; }
+        67.2994% { opacity: 0; }
         67.2994% { opacity: 1; }
         67.5465% { opacity: 1; }
         67.5466% { opacity: 0; }
         67.6138% { opacity: 0; }
-        67.6139% { opacity: 1; }
+        67.6139% { opacity: 0; }
         67.6139% { opacity: 1; }
         67.8610% { opacity: 1; }
         67.8611% { opacity: 0; }
         67.9284% { opacity: 0; }
-        67.9285% { opacity: 1; }
+        67.9285% { opacity: 0; }
         67.9285% { opacity: 1; }
         68.1756% { opacity: 1; }
         68.1757% { opacity: 0; }
         68.3262% { opacity: 0; }
-        68.3263% { opacity: 1; }
+        68.3263% { opacity: 0; }
         68.3263% { opacity: 0; }
         68.5733% { opacity: 0; }
         68.5734% { opacity: 0; }
         68.6407% { opacity: 0; }
         68.6408% { opacity: 0; }
-        68.6408% { opacity: 1; }
-        68.8879% { opacity: 1; }
+        68.6408% { opacity: 0; }
+        68.8879% { opacity: 0; }
         68.8880% { opacity: 0; }
         68.9831% { opacity: 0; }
-        68.9832% { opacity: 1; }
+        68.9832% { opacity: 0; }
         68.9832% { opacity: 0; }
         69.2303% { opacity: 0; }
         69.2304% { opacity: 0; }
         69.2977% { opacity: 0; }
         69.2978% { opacity: 0; }
-        69.2978% { opacity: 1; }
-        69.5449% { opacity: 1; }
+        69.2978% { opacity: 0; }
+        69.5449% { opacity: 0; }
         69.5450% { opacity: 0; }
         69.6401% { opacity: 0; }
-        69.6402% { opacity: 1; }
+        69.6402% { opacity: 0; }
         69.6402% { opacity: 0; }
         69.8873% { opacity: 0; }
         69.8874% { opacity: 0; }
         69.9546% { opacity: 0; }
         69.9547% { opacity: 0; }
-        69.9547% { opacity: 1; }
-        70.2018% { opacity: 1; }
+        69.9547% { opacity: 0; }
+        70.2018% { opacity: 0; }
         70.2019% { opacity: 0; }
         70.2971% { opacity: 0; }
-        70.2972% { opacity: 1; }
+        70.2972% { opacity: 0; }
         70.2972% { opacity: 0; }
         70.5443% { opacity: 0; }
         70.5444% { opacity: 0; }
         70.6116% { opacity: 0; }
         70.6117% { opacity: 0; }
-        70.6117% { opacity: 1; }
-        70.8588% { opacity: 1; }
+        70.6117% { opacity: 0; }
+        70.8588% { opacity: 0; }
         70.8589% { opacity: 0; }
         70.9541% { opacity: 0; }
-        70.9542% { opacity: 1; }
+        70.9542% { opacity: 0; }
         70.9542% { opacity: 0; }
         71.2013% { opacity: 0; }
         71.2014% { opacity: 0; }
         71.2686% { opacity: 0; }
         71.2687% { opacity: 0; }
-        71.2687% { opacity: 1; }
-        71.5158% { opacity: 1; }
+        71.2687% { opacity: 0; }
+        71.5158% { opacity: 0; }
         71.5159% { opacity: 0; }
         71.5831% { opacity: 0; }
-        71.5832% { opacity: 1; }
-        71.5832% { opacity: 1; }
-        71.8303% { opacity: 1; }
+        71.5832% { opacity: 0; }
+        71.5832% { opacity: 0; }
+        71.8303% { opacity: 0; }
         71.8304% { opacity: 0; }
         71.8977% { opacity: 0; }
-        71.8978% { opacity: 1; }
-        71.8978% { opacity: 1; }
-        72.1449% { opacity: 1; }
+        71.8978% { opacity: 0; }
+        71.8978% { opacity: 0; }
+        72.1449% { opacity: 0; }
         72.1450% { opacity: 0; }
         72.2122% { opacity: 0; }
-        72.2123% { opacity: 1; }
-        72.2123% { opacity: 1; }
-        72.4594% { opacity: 1; }
+        72.2123% { opacity: 0; }
+        72.2123% { opacity: 0; }
+        72.4594% { opacity: 0; }
         72.4595% { opacity: 0; }
         72.5268% { opacity: 0; }
-        72.5269% { opacity: 1; }
-        72.5269% { opacity: 1; }
-        72.7740% { opacity: 1; }
+        72.5269% { opacity: 0; }
+        72.5269% { opacity: 0; }
+        72.7740% { opacity: 0; }
         72.7741% { opacity: 0; }
         72.9245% { opacity: 0; }
-        72.9246% { opacity: 1; }
+        72.9246% { opacity: 0; }
         72.9246% { opacity: 1; }
         73.1717% { opacity: 1; }
         73.1718% { opacity: 0; }
         73.2391% { opacity: 0; }
-        73.2392% { opacity: 1; }
+        73.2392% { opacity: 0; }
         73.2392% { opacity: 1; }
         73.4863% { opacity: 1; }
         73.4864% { opacity: 0; }
         73.5536% { opacity: 0; }
-        73.5537% { opacity: 1; }
+        73.5537% { opacity: 0; }
         73.5537% { opacity: 1; }
         73.8008% { opacity: 1; }
         73.8009% { opacity: 0; }
         73.8682% { opacity: 0; }
-        73.8683% { opacity: 1; }
+        73.8683% { opacity: 0; }
         73.8683% { opacity: 1; }
         74.1154% { opacity: 1; }
         74.1155% { opacity: 0; }
         74.2106% { opacity: 0; }
-        74.2107% { opacity: 1; }
+        74.2107% { opacity: 0; }
         74.2107% { opacity: 1; }
         74.4578% { opacity: 1; }
         74.4579% { opacity: 0; }
         74.5251% { opacity: 0; }
-        74.5252% { opacity: 1; }
+        74.5252% { opacity: 0; }
         74.5252% { opacity: 1; }
         74.7723% { opacity: 1; }
         74.7724% { opacity: 0; }
         74.8676% { opacity: 0; }
-        74.8677% { opacity: 1; }
+        74.8677% { opacity: 0; }
         74.8677% { opacity: 1; }
         75.1148% { opacity: 1; }
         75.1149% { opacity: 0; }
         75.1821% { opacity: 0; }
-        75.1822% { opacity: 1; }
+        75.1822% { opacity: 0; }
         75.1822% { opacity: 1; }
         75.4293% { opacity: 1; }
         75.4294% { opacity: 0; }
         75.6423% { opacity: 0; }
-        75.6424% { opacity: 1; }
+        75.6424% { opacity: 0; }
         75.6424% { opacity: 0; }
         75.8895% { opacity: 0; }
         75.8896% { opacity: 0; }
         75.9568% { opacity: 0; }
         75.9569% { opacity: 0; }
-        75.9569% { opacity: 1; }
-        76.2040% { opacity: 1; }
+        75.9569% { opacity: 0; }
+        76.2040% { opacity: 0; }
         76.2041% { opacity: 0; }
         76.3387% { opacity: 0; }
-        76.3388% { opacity: 1; }
-        76.3388% { opacity: 1; }
-        76.5859% { opacity: 1; }
+        76.3388% { opacity: 0; }
+        76.3388% { opacity: 0; }
+        76.5859% { opacity: 0; }
         76.5860% { opacity: 0; }
         76.7365% { opacity: 0; }
-        76.7366% { opacity: 1; }
+        76.7366% { opacity: 0; }
         76.7366% { opacity: 1; }
         76.9837% { opacity: 1; }
         76.9838% { opacity: 0; }
         77.0510% { opacity: 0; }
-        77.0511% { opacity: 1; }
+        77.0511% { opacity: 0; }
         77.0511% { opacity: 1; }
         77.2982% { opacity: 1; }
         77.2983% { opacity: 0; }
         77.3935% { opacity: 0; }
-        77.3936% { opacity: 1; }
+        77.3936% { opacity: 0; }
         77.3936% { opacity: 1; }
         77.6407% { opacity: 1; }
         77.6408% { opacity: 0; }
         77.7080% { opacity: 0; }
-        77.7081% { opacity: 1; }
+        77.7081% { opacity: 0; }
         77.7081% { opacity: 1; }
         77.9552% { opacity: 1; }
         77.9553% { opacity: 0; }
         78.0899% { opacity: 0; }
-        78.0900% { opacity: 1; }
+        78.0900% { opacity: 0; }
         78.0900% { opacity: 1; }
         78.3371% { opacity: 1; }
         78.3372% { opacity: 0; }
         78.6148% { opacity: 0; }
-        78.6149% { opacity: 1; }
+        78.6149% { opacity: 0; }
         78.6149% { opacity: 1; }
         78.8619% { opacity: 1; }
         78.8620% { opacity: 0; }
         78.9293% { opacity: 0; }
-        78.9294% { opacity: 1; }
+        78.9294% { opacity: 0; }
         78.9294% { opacity: 1; }
         79.1765% { opacity: 1; }
         79.1766% { opacity: 0; }
         79.3112% { opacity: 0; }
-        79.3113% { opacity: 1; }
+        79.3113% { opacity: 0; }
         79.3113% { opacity: 1; }
         79.5584% { opacity: 1; }
         79.5585% { opacity: 0; }
         79.9896% { opacity: 0; }
-        79.9897% { opacity: 1; }
+        79.9897% { opacity: 0; }
         79.9897% { opacity: 1; }
         80.2368% { opacity: 1; }
         80.2369% { opacity: 0; }
         80.5994% { opacity: 0; }
-        80.5995% { opacity: 1; }
+        80.5995% { opacity: 0; }
         80.5995% { opacity: 0; }
         80.8466% { opacity: 0; }
         80.8467% { opacity: 0; }
@@ -3300,7 +3300,7 @@
         81.5198% { opacity: 1; }
         81.5199% { opacity: 0; }
         81.9715% { opacity: 0; }
-        81.9716% { opacity: 1; }
+        81.9716% { opacity: 0; }
         81.9716% { opacity: 0; }
         82.2187% { opacity: 0; }
         82.2188% { opacity: 0; }
@@ -3315,14 +3315,14 @@
         84.8610% { opacity: 1; }
         84.8611% { opacity: 0; }
         84.9562% { opacity: 0; }
-        84.9563% { opacity: 1; }
+        84.9563% { opacity: 0; }
         84.9563% { opacity: 1; }
         85.2034% { opacity: 1; }
         85.2035% { opacity: 0; }
         85.2708% { opacity: 0; }
-        85.2709% { opacity: 1; }
         85.2709% { opacity: 0; }
-        85.5180% { opacity: 0; }
+        85.2709% { opacity: 1; }
+        85.5180% { opacity: 1; }
         85.5181% { opacity: 0; }
         85.6132% { opacity: 0; }
         85.6133% { opacity: 0; }
@@ -3330,9 +3330,9 @@
         85.8604% { opacity: 1; }
         85.8605% { opacity: 0; }
         85.9277% { opacity: 0; }
-        85.9278% { opacity: 1; }
         85.9278% { opacity: 0; }
-        86.1749% { opacity: 0; }
+        85.9278% { opacity: 1; }
+        86.1749% { opacity: 1; }
         86.1750% { opacity: 0; }
         86.2702% { opacity: 0; }
         86.2703% { opacity: 0; }
@@ -3340,14 +3340,14 @@
         86.5174% { opacity: 1; }
         86.5175% { opacity: 0; }
         86.6126% { opacity: 0; }
-        86.6127% { opacity: 1; }
+        86.6127% { opacity: 0; }
         86.6127% { opacity: 1; }
         86.8598% { opacity: 1; }
         86.8599% { opacity: 0; }
         86.9271% { opacity: 0; }
-        86.9272% { opacity: 1; }
         86.9272% { opacity: 0; }
-        87.1743% { opacity: 0; }
+        86.9272% { opacity: 1; }
+        87.1743% { opacity: 1; }
         87.1744% { opacity: 0; }
         87.3249% { opacity: 0; }
         87.3250% { opacity: 0; }
@@ -3355,9 +3355,9 @@
         87.5721% { opacity: 1; }
         87.5722% { opacity: 0; }
         87.6395% { opacity: 0; }
-        87.6396% { opacity: 1; }
         87.6396% { opacity: 0; }
-        87.8867% { opacity: 0; }
+        87.6396% { opacity: 1; }
+        87.8867% { opacity: 1; }
         87.8868% { opacity: 0; }
         87.9819% { opacity: 0; }
         87.9820% { opacity: 0; }
@@ -3365,14 +3365,14 @@
         88.2291% { opacity: 1; }
         88.2292% { opacity: 0; }
         88.2964% { opacity: 0; }
-        88.2965% { opacity: 1; }
         88.2965% { opacity: 0; }
-        88.5436% { opacity: 0; }
+        88.2965% { opacity: 1; }
+        88.5436% { opacity: 1; }
         88.5437% { opacity: 0; }
         88.6783% { opacity: 0; }
         88.6784% { opacity: 0; }
-        88.6784% { opacity: 0; }
-        88.9255% { opacity: 0; }
+        88.6784% { opacity: 1; }
+        88.9255% { opacity: 1; }
         88.9256% { opacity: 0; }
         89.1160% { opacity: 0; }
         89.1161% { opacity: 0; }
@@ -3385,9 +3385,9 @@
         89.7610% { opacity: 1; }
         89.7611% { opacity: 0; }
         90.0304% { opacity: 0; }
-        90.0305% { opacity: 1; }
         90.0305% { opacity: 0; }
-        90.2776% { opacity: 0; }
+        90.0305% { opacity: 1; }
+        90.2776% { opacity: 1; }
         90.2777% { opacity: 0; }
         90.6210% { opacity: 0; }
         90.6211% { opacity: 0; }
@@ -3400,7 +3400,7 @@
         91.5915% { opacity: 1; }
         91.5916% { opacity: 0; }
         92.2684% { opacity: 0; }
-        92.2685% { opacity: 1; }
+        92.2685% { opacity: 0; }
         92.2685% { opacity: 0; }
         92.5156% { opacity: 0; }
         92.5157% { opacity: 0; }
@@ -3410,7 +3410,7 @@
         93.5737% { opacity: 1; }
         93.5738% { opacity: 0; }
         94.5189% { opacity: 0; }
-        94.5190% { opacity: 1; }
+        94.5190% { opacity: 0; }
         94.5190% { opacity: 0; }
         94.7661% { opacity: 0; }
         94.7662% { opacity: 0; }
@@ -3420,7 +3420,7 @@
         96.0257% { opacity: 1; }
         96.0258% { opacity: 0; }
         97.1053% { opacity: 0; }
-        97.1054% { opacity: 1; }
+        97.1054% { opacity: 0; }
         97.1054% { opacity: 0; }
         97.3525% { opacity: 0; }
         97.3526% { opacity: 0; }
@@ -3430,23 +3430,23 @@
         98.9483% { opacity: 1; }
         98.9484% { opacity: 0; }
         99.1504% { opacity: 0; }
-        99.1505% { opacity: 1; }
+        99.1505% { opacity: 0; }
         99.1505% { opacity: 1; }
         99.3975% { opacity: 1; }
         99.3976% { opacity: 0; }
         99.9999% { opacity: 0; }
-        100.0000% { opacity: 1; }
+        100.0000% { opacity: 0; }
       }
       @keyframes crawl-right {
         0.0000% { opacity: 0; }
         0.2471% { opacity: 0; }
-        0.2472% { opacity: 1; }
-        0.3144% { opacity: 1; }
+        0.2472% { opacity: 0; }
+        0.3144% { opacity: 0; }
         0.3145% { opacity: 0; }
         0.3145% { opacity: 0; }
         0.5616% { opacity: 0; }
-        0.5617% { opacity: 1; }
-        0.6290% { opacity: 1; }
+        0.5617% { opacity: 0; }
+        0.6290% { opacity: 0; }
         0.6291% { opacity: 0; }
         0.6291% { opacity: 0; }
         0.8762% { opacity: 0; }
@@ -3495,8 +3495,8 @@
         3.5436% { opacity: 0; }
         3.5436% { opacity: 0; }
         3.7907% { opacity: 0; }
-        3.7908% { opacity: 1; }
-        3.8581% { opacity: 1; }
+        3.7908% { opacity: 0; }
+        3.8581% { opacity: 0; }
         3.8582% { opacity: 0; }
         3.8582% { opacity: 0; }
         4.1053% { opacity: 0; }
@@ -3550,13 +3550,13 @@
         7.1426% { opacity: 0; }
         7.1426% { opacity: 0; }
         7.3897% { opacity: 0; }
-        7.3898% { opacity: 1; }
-        7.4570% { opacity: 1; }
+        7.3898% { opacity: 0; }
+        7.4570% { opacity: 0; }
         7.4571% { opacity: 0; }
         7.4571% { opacity: 0; }
         7.7042% { opacity: 0; }
-        7.7043% { opacity: 1; }
-        7.7716% { opacity: 1; }
+        7.7043% { opacity: 0; }
+        7.7716% { opacity: 0; }
         7.7717% { opacity: 0; }
         7.7717% { opacity: 0; }
         8.0188% { opacity: 0; }
@@ -3655,8 +3655,8 @@
         14.1097% { opacity: 0; }
         14.1097% { opacity: 0; }
         14.3568% { opacity: 0; }
-        14.3569% { opacity: 1; }
-        14.4242% { opacity: 1; }
+        14.3569% { opacity: 0; }
+        14.4242% { opacity: 0; }
         14.4243% { opacity: 0; }
         14.4243% { opacity: 0; }
         14.6713% { opacity: 0; }
@@ -3665,8 +3665,8 @@
         14.7667% { opacity: 0; }
         14.7667% { opacity: 0; }
         15.0138% { opacity: 0; }
-        15.0139% { opacity: 1; }
-        15.0811% { opacity: 1; }
+        15.0139% { opacity: 0; }
+        15.0811% { opacity: 0; }
         15.0812% { opacity: 0; }
         15.0812% { opacity: 0; }
         15.3283% { opacity: 0; }
@@ -3675,8 +3675,8 @@
         15.4237% { opacity: 0; }
         15.4237% { opacity: 0; }
         15.6708% { opacity: 0; }
-        15.6709% { opacity: 1; }
-        15.7381% { opacity: 1; }
+        15.6709% { opacity: 0; }
+        15.7381% { opacity: 0; }
         15.7382% { opacity: 0; }
         15.7382% { opacity: 0; }
         15.9853% { opacity: 0; }
@@ -3685,8 +3685,8 @@
         16.0806% { opacity: 0; }
         16.0806% { opacity: 0; }
         16.3277% { opacity: 0; }
-        16.3278% { opacity: 1; }
-        16.3951% { opacity: 1; }
+        16.3278% { opacity: 0; }
+        16.3951% { opacity: 0; }
         16.3952% { opacity: 0; }
         16.3952% { opacity: 0; }
         16.6423% { opacity: 0; }
@@ -3695,8 +3695,8 @@
         16.7376% { opacity: 0; }
         16.7376% { opacity: 0; }
         16.9847% { opacity: 0; }
-        16.9848% { opacity: 1; }
-        17.0521% { opacity: 1; }
+        16.9848% { opacity: 0; }
+        17.0521% { opacity: 0; }
         17.0522% { opacity: 0; }
         17.0522% { opacity: 0; }
         17.2993% { opacity: 0; }
@@ -3705,8 +3705,8 @@
         17.3946% { opacity: 0; }
         17.3946% { opacity: 0; }
         17.6417% { opacity: 0; }
-        17.6418% { opacity: 1; }
-        17.7090% { opacity: 1; }
+        17.6418% { opacity: 0; }
+        17.7090% { opacity: 0; }
         17.7091% { opacity: 0; }
         17.7091% { opacity: 0; }
         17.9562% { opacity: 0; }
@@ -3715,13 +3715,13 @@
         18.0516% { opacity: 0; }
         18.0516% { opacity: 0; }
         18.2987% { opacity: 0; }
-        18.2988% { opacity: 1; }
-        18.3660% { opacity: 1; }
+        18.2988% { opacity: 0; }
+        18.3660% { opacity: 0; }
         18.3661% { opacity: 0; }
         18.3661% { opacity: 0; }
         18.6132% { opacity: 0; }
-        18.6133% { opacity: 1; }
-        18.7479% { opacity: 1; }
+        18.6133% { opacity: 0; }
+        18.7479% { opacity: 0; }
         18.7480% { opacity: 0; }
         18.7480% { opacity: 0; }
         18.9951% { opacity: 0; }
@@ -3810,8 +3810,8 @@
         25.5133% { opacity: 0; }
         25.5133% { opacity: 0; }
         25.7604% { opacity: 0; }
-        25.7605% { opacity: 1; }
-        25.8277% { opacity: 1; }
+        25.7605% { opacity: 0; }
+        25.8277% { opacity: 0; }
         25.8278% { opacity: 0; }
         25.8278% { opacity: 0; }
         26.0749% { opacity: 0; }
@@ -3820,8 +3820,8 @@
         26.1703% { opacity: 0; }
         26.1703% { opacity: 0; }
         26.4173% { opacity: 0; }
-        26.4174% { opacity: 1; }
-        26.4847% { opacity: 1; }
+        26.4174% { opacity: 0; }
+        26.4847% { opacity: 0; }
         26.4848% { opacity: 0; }
         26.4848% { opacity: 0; }
         26.7319% { opacity: 0; }
@@ -3830,13 +3830,13 @@
         26.8272% { opacity: 0; }
         26.8272% { opacity: 0; }
         27.0743% { opacity: 0; }
-        27.0744% { opacity: 1; }
-        27.1417% { opacity: 1; }
+        27.0744% { opacity: 0; }
+        27.1417% { opacity: 0; }
         27.1418% { opacity: 0; }
         27.1418% { opacity: 0; }
         27.3889% { opacity: 0; }
-        27.3890% { opacity: 1; }
-        27.5236% { opacity: 1; }
+        27.3890% { opacity: 0; }
+        27.5236% { opacity: 0; }
         27.5237% { opacity: 0; }
         27.5237% { opacity: 0; }
         27.7708% { opacity: 0; }
@@ -3845,8 +3845,8 @@
         27.9214% { opacity: 0; }
         27.9214% { opacity: 0; }
         28.1685% { opacity: 0; }
-        28.1686% { opacity: 1; }
-        28.2359% { opacity: 1; }
+        28.1686% { opacity: 0; }
+        28.2359% { opacity: 0; }
         28.2360% { opacity: 0; }
         28.2360% { opacity: 0; }
         28.4831% { opacity: 0; }
@@ -3930,28 +3930,28 @@
         33.9443% { opacity: 0; }
         33.9443% { opacity: 0; }
         34.1914% { opacity: 0; }
-        34.1915% { opacity: 0; }
-        34.2588% { opacity: 0; }
+        34.1915% { opacity: 1; }
+        34.2588% { opacity: 1; }
         34.2589% { opacity: 0; }
         34.2589% { opacity: 0; }
         34.5060% { opacity: 0; }
-        34.5061% { opacity: 0; }
-        34.5733% { opacity: 0; }
+        34.5061% { opacity: 1; }
+        34.5733% { opacity: 1; }
         34.5734% { opacity: 0; }
         34.5734% { opacity: 0; }
         34.8205% { opacity: 0; }
-        34.8206% { opacity: 0; }
-        34.8879% { opacity: 0; }
+        34.8206% { opacity: 1; }
+        34.8879% { opacity: 1; }
         34.8880% { opacity: 0; }
         34.8880% { opacity: 0; }
         35.1351% { opacity: 0; }
-        35.1352% { opacity: 0; }
-        35.2024% { opacity: 0; }
+        35.1352% { opacity: 1; }
+        35.2024% { opacity: 1; }
         35.2025% { opacity: 0; }
         35.2025% { opacity: 0; }
         35.4496% { opacity: 0; }
-        35.4497% { opacity: 0; }
-        35.5169% { opacity: 0; }
+        35.4497% { opacity: 1; }
+        35.5169% { opacity: 1; }
         35.5170% { opacity: 0; }
         35.5170% { opacity: 0; }
         35.7641% { opacity: 0; }
@@ -3960,28 +3960,28 @@
         35.8595% { opacity: 0; }
         35.8595% { opacity: 0; }
         36.1066% { opacity: 0; }
-        36.1067% { opacity: 0; }
-        36.1739% { opacity: 0; }
+        36.1067% { opacity: 1; }
+        36.1739% { opacity: 1; }
         36.1740% { opacity: 0; }
         36.1740% { opacity: 0; }
         36.4211% { opacity: 0; }
-        36.4212% { opacity: 0; }
-        36.4885% { opacity: 0; }
+        36.4212% { opacity: 1; }
+        36.4885% { opacity: 1; }
         36.4886% { opacity: 0; }
         36.4886% { opacity: 0; }
         36.7357% { opacity: 0; }
-        36.7358% { opacity: 0; }
-        36.8030% { opacity: 0; }
+        36.7358% { opacity: 1; }
+        36.8030% { opacity: 1; }
         36.8031% { opacity: 0; }
         36.8031% { opacity: 0; }
         37.0502% { opacity: 0; }
-        37.0503% { opacity: 0; }
-        37.1175% { opacity: 0; }
+        37.0503% { opacity: 1; }
+        37.1175% { opacity: 1; }
         37.1176% { opacity: 0; }
         37.1176% { opacity: 0; }
         37.3647% { opacity: 0; }
-        37.3648% { opacity: 0; }
-        37.4321% { opacity: 0; }
+        37.3648% { opacity: 1; }
+        37.4321% { opacity: 1; }
         37.4322% { opacity: 0; }
         37.4322% { opacity: 0; }
         37.6793% { opacity: 0; }
@@ -3990,8 +3990,8 @@
         37.7746% { opacity: 0; }
         37.7746% { opacity: 0; }
         38.0217% { opacity: 0; }
-        38.0218% { opacity: 0; }
-        38.0891% { opacity: 0; }
+        38.0218% { opacity: 1; }
+        38.0891% { opacity: 1; }
         38.0892% { opacity: 0; }
         38.0892% { opacity: 0; }
         38.3362% { opacity: 0; }
@@ -4000,8 +4000,8 @@
         38.4316% { opacity: 0; }
         38.4316% { opacity: 0; }
         38.6787% { opacity: 0; }
-        38.6788% { opacity: 0; }
-        38.7460% { opacity: 0; }
+        38.6788% { opacity: 1; }
+        38.7460% { opacity: 1; }
         38.7461% { opacity: 0; }
         38.7461% { opacity: 0; }
         38.9932% { opacity: 0; }
@@ -4010,8 +4010,8 @@
         39.0886% { opacity: 0; }
         39.0886% { opacity: 0; }
         39.3357% { opacity: 0; }
-        39.3358% { opacity: 0; }
-        39.4030% { opacity: 0; }
+        39.3358% { opacity: 1; }
+        39.4030% { opacity: 1; }
         39.4031% { opacity: 0; }
         39.4031% { opacity: 0; }
         39.6502% { opacity: 0; }
@@ -4020,8 +4020,8 @@
         39.7455% { opacity: 0; }
         39.7455% { opacity: 0; }
         39.9926% { opacity: 0; }
-        39.9927% { opacity: 0; }
-        40.0600% { opacity: 0; }
+        39.9927% { opacity: 1; }
+        40.0600% { opacity: 1; }
         40.0601% { opacity: 0; }
         40.0601% { opacity: 0; }
         40.3072% { opacity: 0; }
@@ -4030,23 +4030,23 @@
         40.4025% { opacity: 0; }
         40.4025% { opacity: 0; }
         40.6496% { opacity: 0; }
-        40.6497% { opacity: 0; }
-        40.7170% { opacity: 0; }
+        40.6497% { opacity: 1; }
+        40.7170% { opacity: 1; }
         40.7171% { opacity: 0; }
         40.7171% { opacity: 0; }
         40.9642% { opacity: 0; }
-        40.9643% { opacity: 0; }
-        41.0315% { opacity: 0; }
+        40.9643% { opacity: 1; }
+        41.0315% { opacity: 1; }
         41.0316% { opacity: 0; }
         41.0316% { opacity: 0; }
         41.2787% { opacity: 0; }
-        41.2788% { opacity: 0; }
-        41.3460% { opacity: 0; }
+        41.2788% { opacity: 1; }
+        41.3460% { opacity: 1; }
         41.3461% { opacity: 0; }
         41.3461% { opacity: 0; }
         41.5932% { opacity: 0; }
-        41.5933% { opacity: 0; }
-        41.6606% { opacity: 0; }
+        41.5933% { opacity: 1; }
+        41.6606% { opacity: 1; }
         41.6607% { opacity: 0; }
         41.6607% { opacity: 0; }
         41.9078% { opacity: 0; }
@@ -4115,8 +4115,8 @@
         45.9565% { opacity: 0; }
         45.9565% { opacity: 0; }
         46.2036% { opacity: 0; }
-        46.2037% { opacity: 0; }
-        46.2710% { opacity: 0; }
+        46.2037% { opacity: 1; }
+        46.2710% { opacity: 1; }
         46.2711% { opacity: 0; }
         46.2711% { opacity: 0; }
         46.5182% { opacity: 0; }
@@ -4125,8 +4125,8 @@
         46.6135% { opacity: 0; }
         46.6135% { opacity: 0; }
         46.8606% { opacity: 0; }
-        46.8607% { opacity: 0; }
-        46.9279% { opacity: 0; }
+        46.8607% { opacity: 1; }
+        46.9279% { opacity: 1; }
         46.9280% { opacity: 0; }
         46.9280% { opacity: 0; }
         47.1751% { opacity: 0; }
@@ -4135,8 +4135,8 @@
         47.2705% { opacity: 0; }
         47.2705% { opacity: 0; }
         47.5176% { opacity: 0; }
-        47.5177% { opacity: 0; }
-        47.5849% { opacity: 0; }
+        47.5177% { opacity: 1; }
+        47.5849% { opacity: 1; }
         47.5850% { opacity: 0; }
         47.5850% { opacity: 0; }
         47.8321% { opacity: 0; }
@@ -4145,28 +4145,28 @@
         48.1756% { opacity: 0; }
         48.1756% { opacity: 0; }
         48.4227% { opacity: 0; }
-        48.4228% { opacity: 0; }
-        48.4900% { opacity: 0; }
+        48.4228% { opacity: 1; }
+        48.4900% { opacity: 1; }
         48.4901% { opacity: 0; }
         48.4901% { opacity: 0; }
         48.7372% { opacity: 0; }
-        48.7373% { opacity: 0; }
-        48.8046% { opacity: 0; }
+        48.7373% { opacity: 1; }
+        48.8046% { opacity: 1; }
         48.8047% { opacity: 0; }
         48.8047% { opacity: 0; }
         49.0518% { opacity: 0; }
-        49.0519% { opacity: 0; }
-        49.1191% { opacity: 0; }
+        49.0519% { opacity: 1; }
+        49.1191% { opacity: 1; }
         49.1192% { opacity: 0; }
         49.1192% { opacity: 0; }
         49.3663% { opacity: 0; }
-        49.3664% { opacity: 0; }
-        49.4337% { opacity: 0; }
+        49.3664% { opacity: 1; }
+        49.4337% { opacity: 1; }
         49.4338% { opacity: 0; }
         49.4338% { opacity: 0; }
         49.6809% { opacity: 0; }
-        49.6810% { opacity: 0; }
-        49.7482% { opacity: 0; }
+        49.6810% { opacity: 1; }
+        49.7482% { opacity: 1; }
         49.7483% { opacity: 0; }
         49.7483% { opacity: 0; }
         49.9954% { opacity: 0; }
@@ -4215,8 +4215,8 @@
         52.9006% { opacity: 0; }
         52.9006% { opacity: 0; }
         53.1477% { opacity: 0; }
-        53.1478% { opacity: 0; }
-        53.2151% { opacity: 0; }
+        53.1478% { opacity: 1; }
+        53.2151% { opacity: 1; }
         53.2152% { opacity: 0; }
         53.2152% { opacity: 0; }
         53.4623% { opacity: 0; }
@@ -4225,8 +4225,8 @@
         53.6130% { opacity: 0; }
         53.6130% { opacity: 0; }
         53.8601% { opacity: 0; }
-        53.8602% { opacity: 0; }
-        53.9274% { opacity: 0; }
+        53.8602% { opacity: 1; }
+        53.9274% { opacity: 1; }
         53.9275% { opacity: 0; }
         53.9275% { opacity: 0; }
         54.1746% { opacity: 0; }
@@ -4235,23 +4235,23 @@
         54.2699% { opacity: 0; }
         54.2699% { opacity: 0; }
         54.5170% { opacity: 0; }
-        54.5171% { opacity: 0; }
-        54.5844% { opacity: 0; }
+        54.5171% { opacity: 1; }
+        54.5844% { opacity: 1; }
         54.5845% { opacity: 0; }
         54.5845% { opacity: 0; }
         54.8316% { opacity: 0; }
-        54.8317% { opacity: 0; }
-        54.8989% { opacity: 0; }
+        54.8317% { opacity: 1; }
+        54.8989% { opacity: 1; }
         54.8990% { opacity: 0; }
         54.8990% { opacity: 0; }
         55.1461% { opacity: 0; }
-        55.1462% { opacity: 0; }
-        55.2135% { opacity: 0; }
+        55.1462% { opacity: 1; }
+        55.2135% { opacity: 1; }
         55.2136% { opacity: 0; }
         55.2136% { opacity: 0; }
         55.4607% { opacity: 0; }
-        55.4608% { opacity: 0; }
-        55.5280% { opacity: 0; }
+        55.4608% { opacity: 1; }
+        55.5280% { opacity: 1; }
         55.5281% { opacity: 0; }
         55.5281% { opacity: 0; }
         55.7752% { opacity: 0; }
@@ -4275,8 +4275,8 @@
         56.8974% { opacity: 0; }
         56.8974% { opacity: 0; }
         57.1445% { opacity: 0; }
-        57.1446% { opacity: 0; }
-        57.2118% { opacity: 0; }
+        57.1446% { opacity: 1; }
+        57.2118% { opacity: 1; }
         57.2119% { opacity: 0; }
         57.2119% { opacity: 0; }
         57.4590% { opacity: 0; }
@@ -4285,28 +4285,28 @@
         57.5544% { opacity: 0; }
         57.5544% { opacity: 0; }
         57.8015% { opacity: 0; }
-        57.8016% { opacity: 0; }
-        57.8688% { opacity: 0; }
+        57.8016% { opacity: 1; }
+        57.8688% { opacity: 1; }
         57.8689% { opacity: 0; }
         57.8689% { opacity: 0; }
         58.1160% { opacity: 0; }
-        58.1161% { opacity: 0; }
-        58.1834% { opacity: 0; }
+        58.1161% { opacity: 1; }
+        58.1834% { opacity: 1; }
         58.1835% { opacity: 0; }
         58.1835% { opacity: 0; }
         58.4306% { opacity: 0; }
-        58.4307% { opacity: 0; }
-        58.4979% { opacity: 0; }
+        58.4307% { opacity: 1; }
+        58.4979% { opacity: 1; }
         58.4980% { opacity: 0; }
         58.4980% { opacity: 0; }
         58.7451% { opacity: 0; }
-        58.7452% { opacity: 0; }
-        58.8124% { opacity: 0; }
+        58.7452% { opacity: 1; }
+        58.8124% { opacity: 1; }
         58.8125% { opacity: 0; }
         58.8125% { opacity: 0; }
         59.0596% { opacity: 0; }
-        59.0597% { opacity: 0; }
-        59.1270% { opacity: 0; }
+        59.0597% { opacity: 1; }
+        59.1270% { opacity: 1; }
         59.1271% { opacity: 0; }
         59.1271% { opacity: 0; }
         59.3742% { opacity: 0; }
@@ -4360,8 +4360,8 @@
         63.0988% { opacity: 0; }
         63.0988% { opacity: 0; }
         63.3459% { opacity: 0; }
-        63.3460% { opacity: 0; }
-        63.4132% { opacity: 0; }
+        63.3460% { opacity: 1; }
+        63.4132% { opacity: 1; }
         63.4133% { opacity: 0; }
         63.4133% { opacity: 0; }
         63.6604% { opacity: 0; }
@@ -4370,8 +4370,8 @@
         63.7558% { opacity: 0; }
         63.7558% { opacity: 0; }
         64.0029% { opacity: 0; }
-        64.0030% { opacity: 0; }
-        64.0702% { opacity: 0; }
+        64.0030% { opacity: 1; }
+        64.0702% { opacity: 1; }
         64.0703% { opacity: 0; }
         64.0703% { opacity: 0; }
         64.3174% { opacity: 0; }
@@ -4380,8 +4380,8 @@
         64.4127% { opacity: 0; }
         64.4127% { opacity: 0; }
         64.6598% { opacity: 0; }
-        64.6599% { opacity: 0; }
-        64.7272% { opacity: 0; }
+        64.6599% { opacity: 1; }
+        64.7272% { opacity: 1; }
         64.7273% { opacity: 0; }
         64.7273% { opacity: 0; }
         64.9744% { opacity: 0; }
@@ -4390,28 +4390,28 @@
         65.0697% { opacity: 0; }
         65.0697% { opacity: 0; }
         65.3168% { opacity: 0; }
-        65.3169% { opacity: 0; }
-        65.3842% { opacity: 0; }
+        65.3169% { opacity: 1; }
+        65.3842% { opacity: 1; }
         65.3843% { opacity: 0; }
         65.3843% { opacity: 0; }
         65.6313% { opacity: 0; }
-        65.6314% { opacity: 0; }
-        65.6987% { opacity: 0; }
+        65.6314% { opacity: 1; }
+        65.6987% { opacity: 1; }
         65.6988% { opacity: 0; }
         65.6988% { opacity: 0; }
         65.9459% { opacity: 0; }
-        65.9460% { opacity: 0; }
-        66.0132% { opacity: 0; }
+        65.9460% { opacity: 1; }
+        66.0132% { opacity: 1; }
         66.0133% { opacity: 0; }
         66.0133% { opacity: 0; }
         66.2604% { opacity: 0; }
-        66.2605% { opacity: 0; }
-        66.3278% { opacity: 0; }
+        66.2605% { opacity: 1; }
+        66.3278% { opacity: 1; }
         66.3279% { opacity: 0; }
         66.3279% { opacity: 0; }
         66.5750% { opacity: 0; }
-        66.5751% { opacity: 0; }
-        66.6423% { opacity: 0; }
+        66.5751% { opacity: 1; }
+        66.6423% { opacity: 1; }
         66.6424% { opacity: 0; }
         66.6424% { opacity: 0; }
         66.8895% { opacity: 0; }
@@ -4440,8 +4440,8 @@
         68.3263% { opacity: 0; }
         68.3263% { opacity: 0; }
         68.5733% { opacity: 0; }
-        68.5734% { opacity: 0; }
-        68.6407% { opacity: 0; }
+        68.5734% { opacity: 1; }
+        68.6407% { opacity: 1; }
         68.6408% { opacity: 0; }
         68.6408% { opacity: 0; }
         68.8879% { opacity: 0; }
@@ -4450,8 +4450,8 @@
         68.9832% { opacity: 0; }
         68.9832% { opacity: 0; }
         69.2303% { opacity: 0; }
-        69.2304% { opacity: 0; }
-        69.2977% { opacity: 0; }
+        69.2304% { opacity: 1; }
+        69.2977% { opacity: 1; }
         69.2978% { opacity: 0; }
         69.2978% { opacity: 0; }
         69.5449% { opacity: 0; }
@@ -4460,8 +4460,8 @@
         69.6402% { opacity: 0; }
         69.6402% { opacity: 0; }
         69.8873% { opacity: 0; }
-        69.8874% { opacity: 0; }
-        69.9546% { opacity: 0; }
+        69.8874% { opacity: 1; }
+        69.9546% { opacity: 1; }
         69.9547% { opacity: 0; }
         69.9547% { opacity: 0; }
         70.2018% { opacity: 0; }
@@ -4470,8 +4470,8 @@
         70.2972% { opacity: 0; }
         70.2972% { opacity: 0; }
         70.5443% { opacity: 0; }
-        70.5444% { opacity: 0; }
-        70.6116% { opacity: 0; }
+        70.5444% { opacity: 1; }
+        70.6116% { opacity: 1; }
         70.6117% { opacity: 0; }
         70.6117% { opacity: 0; }
         70.8588% { opacity: 0; }
@@ -4480,28 +4480,28 @@
         70.9542% { opacity: 0; }
         70.9542% { opacity: 0; }
         71.2013% { opacity: 0; }
-        71.2014% { opacity: 0; }
-        71.2686% { opacity: 0; }
+        71.2014% { opacity: 1; }
+        71.2686% { opacity: 1; }
         71.2687% { opacity: 0; }
         71.2687% { opacity: 0; }
         71.5158% { opacity: 0; }
-        71.5159% { opacity: 0; }
-        71.5831% { opacity: 0; }
+        71.5159% { opacity: 1; }
+        71.5831% { opacity: 1; }
         71.5832% { opacity: 0; }
         71.5832% { opacity: 0; }
         71.8303% { opacity: 0; }
-        71.8304% { opacity: 0; }
-        71.8977% { opacity: 0; }
+        71.8304% { opacity: 1; }
+        71.8977% { opacity: 1; }
         71.8978% { opacity: 0; }
         71.8978% { opacity: 0; }
         72.1449% { opacity: 0; }
-        72.1450% { opacity: 0; }
-        72.2122% { opacity: 0; }
+        72.1450% { opacity: 1; }
+        72.2122% { opacity: 1; }
         72.2123% { opacity: 0; }
         72.2123% { opacity: 0; }
         72.4594% { opacity: 0; }
-        72.4595% { opacity: 0; }
-        72.5268% { opacity: 0; }
+        72.4595% { opacity: 1; }
+        72.5268% { opacity: 1; }
         72.5269% { opacity: 0; }
         72.5269% { opacity: 0; }
         72.7740% { opacity: 0; }
@@ -4550,13 +4550,13 @@
         75.6424% { opacity: 0; }
         75.6424% { opacity: 0; }
         75.8895% { opacity: 0; }
-        75.8896% { opacity: 0; }
-        75.9568% { opacity: 0; }
+        75.8896% { opacity: 1; }
+        75.9568% { opacity: 1; }
         75.9569% { opacity: 0; }
         75.9569% { opacity: 0; }
         76.2040% { opacity: 0; }
-        76.2041% { opacity: 0; }
-        76.3387% { opacity: 0; }
+        76.2041% { opacity: 1; }
+        76.3387% { opacity: 1; }
         76.3388% { opacity: 0; }
         76.3388% { opacity: 0; }
         76.5859% { opacity: 0; }
@@ -4635,8 +4635,8 @@
         84.9563% { opacity: 0; }
         84.9563% { opacity: 0; }
         85.2034% { opacity: 0; }
-        85.2035% { opacity: 1; }
-        85.2708% { opacity: 1; }
+        85.2035% { opacity: 0; }
+        85.2708% { opacity: 0; }
         85.2709% { opacity: 0; }
         85.2709% { opacity: 0; }
         85.5180% { opacity: 0; }
@@ -4645,8 +4645,8 @@
         85.6133% { opacity: 0; }
         85.6133% { opacity: 0; }
         85.8604% { opacity: 0; }
-        85.8605% { opacity: 1; }
-        85.9277% { opacity: 1; }
+        85.8605% { opacity: 0; }
+        85.9277% { opacity: 0; }
         85.9278% { opacity: 0; }
         85.9278% { opacity: 0; }
         86.1749% { opacity: 0; }
@@ -4660,8 +4660,8 @@
         86.6127% { opacity: 0; }
         86.6127% { opacity: 0; }
         86.8598% { opacity: 0; }
-        86.8599% { opacity: 1; }
-        86.9271% { opacity: 1; }
+        86.8599% { opacity: 0; }
+        86.9271% { opacity: 0; }
         86.9272% { opacity: 0; }
         86.9272% { opacity: 0; }
         87.1743% { opacity: 0; }
@@ -4670,8 +4670,8 @@
         87.3250% { opacity: 0; }
         87.3250% { opacity: 0; }
         87.5721% { opacity: 0; }
-        87.5722% { opacity: 1; }
-        87.6395% { opacity: 1; }
+        87.5722% { opacity: 0; }
+        87.6395% { opacity: 0; }
         87.6396% { opacity: 0; }
         87.6396% { opacity: 0; }
         87.8867% { opacity: 0; }
@@ -4680,13 +4680,13 @@
         87.9820% { opacity: 0; }
         87.9820% { opacity: 0; }
         88.2291% { opacity: 0; }
-        88.2292% { opacity: 1; }
-        88.2964% { opacity: 1; }
+        88.2292% { opacity: 0; }
+        88.2964% { opacity: 0; }
         88.2965% { opacity: 0; }
         88.2965% { opacity: 0; }
         88.5436% { opacity: 0; }
-        88.5437% { opacity: 1; }
-        88.6783% { opacity: 1; }
+        88.5437% { opacity: 0; }
+        88.6783% { opacity: 0; }
         88.6784% { opacity: 0; }
         88.6784% { opacity: 0; }
         88.9255% { opacity: 0; }
@@ -4700,8 +4700,8 @@
         89.5139% { opacity: 0; }
         89.5139% { opacity: 0; }
         89.7610% { opacity: 0; }
-        89.7611% { opacity: 1; }
-        90.0304% { opacity: 1; }
+        89.7611% { opacity: 0; }
+        90.0304% { opacity: 0; }
         90.0305% { opacity: 0; }
         90.0305% { opacity: 0; }
         90.2776% { opacity: 0; }
@@ -4757,13 +4757,13 @@
       @keyframes crawl-left {
         0.0000% { opacity: 0; }
         0.2471% { opacity: 0; }
-        0.2472% { opacity: 0; }
-        0.3144% { opacity: 0; }
+        0.2472% { opacity: 1; }
+        0.3144% { opacity: 1; }
         0.3145% { opacity: 0; }
         0.3145% { opacity: 0; }
         0.5616% { opacity: 0; }
-        0.5617% { opacity: 0; }
-        0.6290% { opacity: 0; }
+        0.5617% { opacity: 1; }
+        0.6290% { opacity: 1; }
         0.6291% { opacity: 0; }
         0.6291% { opacity: 0; }
         0.8762% { opacity: 0; }
@@ -4812,8 +4812,8 @@
         3.5436% { opacity: 0; }
         3.5436% { opacity: 0; }
         3.7907% { opacity: 0; }
-        3.7908% { opacity: 0; }
-        3.8581% { opacity: 0; }
+        3.7908% { opacity: 1; }
+        3.8581% { opacity: 1; }
         3.8582% { opacity: 0; }
         3.8582% { opacity: 0; }
         4.1053% { opacity: 0; }
@@ -4867,13 +4867,13 @@
         7.1426% { opacity: 0; }
         7.1426% { opacity: 0; }
         7.3897% { opacity: 0; }
-        7.3898% { opacity: 0; }
-        7.4570% { opacity: 0; }
+        7.3898% { opacity: 1; }
+        7.4570% { opacity: 1; }
         7.4571% { opacity: 0; }
         7.4571% { opacity: 0; }
         7.7042% { opacity: 0; }
-        7.7043% { opacity: 0; }
-        7.7716% { opacity: 0; }
+        7.7043% { opacity: 1; }
+        7.7716% { opacity: 1; }
         7.7717% { opacity: 0; }
         7.7717% { opacity: 0; }
         8.0188% { opacity: 0; }
@@ -4972,8 +4972,8 @@
         14.1097% { opacity: 0; }
         14.1097% { opacity: 0; }
         14.3568% { opacity: 0; }
-        14.3569% { opacity: 0; }
-        14.4242% { opacity: 0; }
+        14.3569% { opacity: 1; }
+        14.4242% { opacity: 1; }
         14.4243% { opacity: 0; }
         14.4243% { opacity: 0; }
         14.6713% { opacity: 0; }
@@ -4982,8 +4982,8 @@
         14.7667% { opacity: 0; }
         14.7667% { opacity: 0; }
         15.0138% { opacity: 0; }
-        15.0139% { opacity: 0; }
-        15.0811% { opacity: 0; }
+        15.0139% { opacity: 1; }
+        15.0811% { opacity: 1; }
         15.0812% { opacity: 0; }
         15.0812% { opacity: 0; }
         15.3283% { opacity: 0; }
@@ -4992,8 +4992,8 @@
         15.4237% { opacity: 0; }
         15.4237% { opacity: 0; }
         15.6708% { opacity: 0; }
-        15.6709% { opacity: 0; }
-        15.7381% { opacity: 0; }
+        15.6709% { opacity: 1; }
+        15.7381% { opacity: 1; }
         15.7382% { opacity: 0; }
         15.7382% { opacity: 0; }
         15.9853% { opacity: 0; }
@@ -5002,8 +5002,8 @@
         16.0806% { opacity: 0; }
         16.0806% { opacity: 0; }
         16.3277% { opacity: 0; }
-        16.3278% { opacity: 0; }
-        16.3951% { opacity: 0; }
+        16.3278% { opacity: 1; }
+        16.3951% { opacity: 1; }
         16.3952% { opacity: 0; }
         16.3952% { opacity: 0; }
         16.6423% { opacity: 0; }
@@ -5012,8 +5012,8 @@
         16.7376% { opacity: 0; }
         16.7376% { opacity: 0; }
         16.9847% { opacity: 0; }
-        16.9848% { opacity: 0; }
-        17.0521% { opacity: 0; }
+        16.9848% { opacity: 1; }
+        17.0521% { opacity: 1; }
         17.0522% { opacity: 0; }
         17.0522% { opacity: 0; }
         17.2993% { opacity: 0; }
@@ -5022,8 +5022,8 @@
         17.3946% { opacity: 0; }
         17.3946% { opacity: 0; }
         17.6417% { opacity: 0; }
-        17.6418% { opacity: 0; }
-        17.7090% { opacity: 0; }
+        17.6418% { opacity: 1; }
+        17.7090% { opacity: 1; }
         17.7091% { opacity: 0; }
         17.7091% { opacity: 0; }
         17.9562% { opacity: 0; }
@@ -5032,13 +5032,13 @@
         18.0516% { opacity: 0; }
         18.0516% { opacity: 0; }
         18.2987% { opacity: 0; }
-        18.2988% { opacity: 0; }
-        18.3660% { opacity: 0; }
+        18.2988% { opacity: 1; }
+        18.3660% { opacity: 1; }
         18.3661% { opacity: 0; }
         18.3661% { opacity: 0; }
         18.6132% { opacity: 0; }
-        18.6133% { opacity: 0; }
-        18.7479% { opacity: 0; }
+        18.6133% { opacity: 1; }
+        18.7479% { opacity: 1; }
         18.7480% { opacity: 0; }
         18.7480% { opacity: 0; }
         18.9951% { opacity: 0; }
@@ -5127,8 +5127,8 @@
         25.5133% { opacity: 0; }
         25.5133% { opacity: 0; }
         25.7604% { opacity: 0; }
-        25.7605% { opacity: 0; }
-        25.8277% { opacity: 0; }
+        25.7605% { opacity: 1; }
+        25.8277% { opacity: 1; }
         25.8278% { opacity: 0; }
         25.8278% { opacity: 0; }
         26.0749% { opacity: 0; }
@@ -5137,8 +5137,8 @@
         26.1703% { opacity: 0; }
         26.1703% { opacity: 0; }
         26.4173% { opacity: 0; }
-        26.4174% { opacity: 0; }
-        26.4847% { opacity: 0; }
+        26.4174% { opacity: 1; }
+        26.4847% { opacity: 1; }
         26.4848% { opacity: 0; }
         26.4848% { opacity: 0; }
         26.7319% { opacity: 0; }
@@ -5147,13 +5147,13 @@
         26.8272% { opacity: 0; }
         26.8272% { opacity: 0; }
         27.0743% { opacity: 0; }
-        27.0744% { opacity: 0; }
-        27.1417% { opacity: 0; }
+        27.0744% { opacity: 1; }
+        27.1417% { opacity: 1; }
         27.1418% { opacity: 0; }
         27.1418% { opacity: 0; }
         27.3889% { opacity: 0; }
-        27.3890% { opacity: 0; }
-        27.5236% { opacity: 0; }
+        27.3890% { opacity: 1; }
+        27.5236% { opacity: 1; }
         27.5237% { opacity: 0; }
         27.5237% { opacity: 0; }
         27.7708% { opacity: 0; }
@@ -5162,8 +5162,8 @@
         27.9214% { opacity: 0; }
         27.9214% { opacity: 0; }
         28.1685% { opacity: 0; }
-        28.1686% { opacity: 0; }
-        28.2359% { opacity: 0; }
+        28.1686% { opacity: 1; }
+        28.2359% { opacity: 1; }
         28.2360% { opacity: 0; }
         28.2360% { opacity: 0; }
         28.4831% { opacity: 0; }
@@ -5247,28 +5247,28 @@
         33.9443% { opacity: 0; }
         33.9443% { opacity: 0; }
         34.1914% { opacity: 0; }
-        34.1915% { opacity: 1; }
-        34.2588% { opacity: 1; }
+        34.1915% { opacity: 0; }
+        34.2588% { opacity: 0; }
         34.2589% { opacity: 0; }
         34.2589% { opacity: 0; }
         34.5060% { opacity: 0; }
-        34.5061% { opacity: 1; }
-        34.5733% { opacity: 1; }
+        34.5061% { opacity: 0; }
+        34.5733% { opacity: 0; }
         34.5734% { opacity: 0; }
         34.5734% { opacity: 0; }
         34.8205% { opacity: 0; }
-        34.8206% { opacity: 1; }
-        34.8879% { opacity: 1; }
+        34.8206% { opacity: 0; }
+        34.8879% { opacity: 0; }
         34.8880% { opacity: 0; }
         34.8880% { opacity: 0; }
         35.1351% { opacity: 0; }
-        35.1352% { opacity: 1; }
-        35.2024% { opacity: 1; }
+        35.1352% { opacity: 0; }
+        35.2024% { opacity: 0; }
         35.2025% { opacity: 0; }
         35.2025% { opacity: 0; }
         35.4496% { opacity: 0; }
-        35.4497% { opacity: 1; }
-        35.5169% { opacity: 1; }
+        35.4497% { opacity: 0; }
+        35.5169% { opacity: 0; }
         35.5170% { opacity: 0; }
         35.5170% { opacity: 0; }
         35.7641% { opacity: 0; }
@@ -5277,28 +5277,28 @@
         35.8595% { opacity: 0; }
         35.8595% { opacity: 0; }
         36.1066% { opacity: 0; }
-        36.1067% { opacity: 1; }
-        36.1739% { opacity: 1; }
+        36.1067% { opacity: 0; }
+        36.1739% { opacity: 0; }
         36.1740% { opacity: 0; }
         36.1740% { opacity: 0; }
         36.4211% { opacity: 0; }
-        36.4212% { opacity: 1; }
-        36.4885% { opacity: 1; }
+        36.4212% { opacity: 0; }
+        36.4885% { opacity: 0; }
         36.4886% { opacity: 0; }
         36.4886% { opacity: 0; }
         36.7357% { opacity: 0; }
-        36.7358% { opacity: 1; }
-        36.8030% { opacity: 1; }
+        36.7358% { opacity: 0; }
+        36.8030% { opacity: 0; }
         36.8031% { opacity: 0; }
         36.8031% { opacity: 0; }
         37.0502% { opacity: 0; }
-        37.0503% { opacity: 1; }
-        37.1175% { opacity: 1; }
+        37.0503% { opacity: 0; }
+        37.1175% { opacity: 0; }
         37.1176% { opacity: 0; }
         37.1176% { opacity: 0; }
         37.3647% { opacity: 0; }
-        37.3648% { opacity: 1; }
-        37.4321% { opacity: 1; }
+        37.3648% { opacity: 0; }
+        37.4321% { opacity: 0; }
         37.4322% { opacity: 0; }
         37.4322% { opacity: 0; }
         37.6793% { opacity: 0; }
@@ -5307,8 +5307,8 @@
         37.7746% { opacity: 0; }
         37.7746% { opacity: 0; }
         38.0217% { opacity: 0; }
-        38.0218% { opacity: 1; }
-        38.0891% { opacity: 1; }
+        38.0218% { opacity: 0; }
+        38.0891% { opacity: 0; }
         38.0892% { opacity: 0; }
         38.0892% { opacity: 0; }
         38.3362% { opacity: 0; }
@@ -5317,8 +5317,8 @@
         38.4316% { opacity: 0; }
         38.4316% { opacity: 0; }
         38.6787% { opacity: 0; }
-        38.6788% { opacity: 1; }
-        38.7460% { opacity: 1; }
+        38.6788% { opacity: 0; }
+        38.7460% { opacity: 0; }
         38.7461% { opacity: 0; }
         38.7461% { opacity: 0; }
         38.9932% { opacity: 0; }
@@ -5327,8 +5327,8 @@
         39.0886% { opacity: 0; }
         39.0886% { opacity: 0; }
         39.3357% { opacity: 0; }
-        39.3358% { opacity: 1; }
-        39.4030% { opacity: 1; }
+        39.3358% { opacity: 0; }
+        39.4030% { opacity: 0; }
         39.4031% { opacity: 0; }
         39.4031% { opacity: 0; }
         39.6502% { opacity: 0; }
@@ -5337,8 +5337,8 @@
         39.7455% { opacity: 0; }
         39.7455% { opacity: 0; }
         39.9926% { opacity: 0; }
-        39.9927% { opacity: 1; }
-        40.0600% { opacity: 1; }
+        39.9927% { opacity: 0; }
+        40.0600% { opacity: 0; }
         40.0601% { opacity: 0; }
         40.0601% { opacity: 0; }
         40.3072% { opacity: 0; }
@@ -5347,23 +5347,23 @@
         40.4025% { opacity: 0; }
         40.4025% { opacity: 0; }
         40.6496% { opacity: 0; }
-        40.6497% { opacity: 1; }
-        40.7170% { opacity: 1; }
+        40.6497% { opacity: 0; }
+        40.7170% { opacity: 0; }
         40.7171% { opacity: 0; }
         40.7171% { opacity: 0; }
         40.9642% { opacity: 0; }
-        40.9643% { opacity: 1; }
-        41.0315% { opacity: 1; }
+        40.9643% { opacity: 0; }
+        41.0315% { opacity: 0; }
         41.0316% { opacity: 0; }
         41.0316% { opacity: 0; }
         41.2787% { opacity: 0; }
-        41.2788% { opacity: 1; }
-        41.3460% { opacity: 1; }
+        41.2788% { opacity: 0; }
+        41.3460% { opacity: 0; }
         41.3461% { opacity: 0; }
         41.3461% { opacity: 0; }
         41.5932% { opacity: 0; }
-        41.5933% { opacity: 1; }
-        41.6606% { opacity: 1; }
+        41.5933% { opacity: 0; }
+        41.6606% { opacity: 0; }
         41.6607% { opacity: 0; }
         41.6607% { opacity: 0; }
         41.9078% { opacity: 0; }
@@ -5432,8 +5432,8 @@
         45.9565% { opacity: 0; }
         45.9565% { opacity: 0; }
         46.2036% { opacity: 0; }
-        46.2037% { opacity: 1; }
-        46.2710% { opacity: 1; }
+        46.2037% { opacity: 0; }
+        46.2710% { opacity: 0; }
         46.2711% { opacity: 0; }
         46.2711% { opacity: 0; }
         46.5182% { opacity: 0; }
@@ -5442,8 +5442,8 @@
         46.6135% { opacity: 0; }
         46.6135% { opacity: 0; }
         46.8606% { opacity: 0; }
-        46.8607% { opacity: 1; }
-        46.9279% { opacity: 1; }
+        46.8607% { opacity: 0; }
+        46.9279% { opacity: 0; }
         46.9280% { opacity: 0; }
         46.9280% { opacity: 0; }
         47.1751% { opacity: 0; }
@@ -5452,8 +5452,8 @@
         47.2705% { opacity: 0; }
         47.2705% { opacity: 0; }
         47.5176% { opacity: 0; }
-        47.5177% { opacity: 1; }
-        47.5849% { opacity: 1; }
+        47.5177% { opacity: 0; }
+        47.5849% { opacity: 0; }
         47.5850% { opacity: 0; }
         47.5850% { opacity: 0; }
         47.8321% { opacity: 0; }
@@ -5462,28 +5462,28 @@
         48.1756% { opacity: 0; }
         48.1756% { opacity: 0; }
         48.4227% { opacity: 0; }
-        48.4228% { opacity: 1; }
-        48.4900% { opacity: 1; }
+        48.4228% { opacity: 0; }
+        48.4900% { opacity: 0; }
         48.4901% { opacity: 0; }
         48.4901% { opacity: 0; }
         48.7372% { opacity: 0; }
-        48.7373% { opacity: 1; }
-        48.8046% { opacity: 1; }
+        48.7373% { opacity: 0; }
+        48.8046% { opacity: 0; }
         48.8047% { opacity: 0; }
         48.8047% { opacity: 0; }
         49.0518% { opacity: 0; }
-        49.0519% { opacity: 1; }
-        49.1191% { opacity: 1; }
+        49.0519% { opacity: 0; }
+        49.1191% { opacity: 0; }
         49.1192% { opacity: 0; }
         49.1192% { opacity: 0; }
         49.3663% { opacity: 0; }
-        49.3664% { opacity: 1; }
-        49.4337% { opacity: 1; }
+        49.3664% { opacity: 0; }
+        49.4337% { opacity: 0; }
         49.4338% { opacity: 0; }
         49.4338% { opacity: 0; }
         49.6809% { opacity: 0; }
-        49.6810% { opacity: 1; }
-        49.7482% { opacity: 1; }
+        49.6810% { opacity: 0; }
+        49.7482% { opacity: 0; }
         49.7483% { opacity: 0; }
         49.7483% { opacity: 0; }
         49.9954% { opacity: 0; }
@@ -5532,8 +5532,8 @@
         52.9006% { opacity: 0; }
         52.9006% { opacity: 0; }
         53.1477% { opacity: 0; }
-        53.1478% { opacity: 1; }
-        53.2151% { opacity: 1; }
+        53.1478% { opacity: 0; }
+        53.2151% { opacity: 0; }
         53.2152% { opacity: 0; }
         53.2152% { opacity: 0; }
         53.4623% { opacity: 0; }
@@ -5542,8 +5542,8 @@
         53.6130% { opacity: 0; }
         53.6130% { opacity: 0; }
         53.8601% { opacity: 0; }
-        53.8602% { opacity: 1; }
-        53.9274% { opacity: 1; }
+        53.8602% { opacity: 0; }
+        53.9274% { opacity: 0; }
         53.9275% { opacity: 0; }
         53.9275% { opacity: 0; }
         54.1746% { opacity: 0; }
@@ -5552,23 +5552,23 @@
         54.2699% { opacity: 0; }
         54.2699% { opacity: 0; }
         54.5170% { opacity: 0; }
-        54.5171% { opacity: 1; }
-        54.5844% { opacity: 1; }
+        54.5171% { opacity: 0; }
+        54.5844% { opacity: 0; }
         54.5845% { opacity: 0; }
         54.5845% { opacity: 0; }
         54.8316% { opacity: 0; }
-        54.8317% { opacity: 1; }
-        54.8989% { opacity: 1; }
+        54.8317% { opacity: 0; }
+        54.8989% { opacity: 0; }
         54.8990% { opacity: 0; }
         54.8990% { opacity: 0; }
         55.1461% { opacity: 0; }
-        55.1462% { opacity: 1; }
-        55.2135% { opacity: 1; }
+        55.1462% { opacity: 0; }
+        55.2135% { opacity: 0; }
         55.2136% { opacity: 0; }
         55.2136% { opacity: 0; }
         55.4607% { opacity: 0; }
-        55.4608% { opacity: 1; }
-        55.5280% { opacity: 1; }
+        55.4608% { opacity: 0; }
+        55.5280% { opacity: 0; }
         55.5281% { opacity: 0; }
         55.5281% { opacity: 0; }
         55.7752% { opacity: 0; }
@@ -5592,8 +5592,8 @@
         56.8974% { opacity: 0; }
         56.8974% { opacity: 0; }
         57.1445% { opacity: 0; }
-        57.1446% { opacity: 1; }
-        57.2118% { opacity: 1; }
+        57.1446% { opacity: 0; }
+        57.2118% { opacity: 0; }
         57.2119% { opacity: 0; }
         57.2119% { opacity: 0; }
         57.4590% { opacity: 0; }
@@ -5602,28 +5602,28 @@
         57.5544% { opacity: 0; }
         57.5544% { opacity: 0; }
         57.8015% { opacity: 0; }
-        57.8016% { opacity: 1; }
-        57.8688% { opacity: 1; }
+        57.8016% { opacity: 0; }
+        57.8688% { opacity: 0; }
         57.8689% { opacity: 0; }
         57.8689% { opacity: 0; }
         58.1160% { opacity: 0; }
-        58.1161% { opacity: 1; }
-        58.1834% { opacity: 1; }
+        58.1161% { opacity: 0; }
+        58.1834% { opacity: 0; }
         58.1835% { opacity: 0; }
         58.1835% { opacity: 0; }
         58.4306% { opacity: 0; }
-        58.4307% { opacity: 1; }
-        58.4979% { opacity: 1; }
+        58.4307% { opacity: 0; }
+        58.4979% { opacity: 0; }
         58.4980% { opacity: 0; }
         58.4980% { opacity: 0; }
         58.7451% { opacity: 0; }
-        58.7452% { opacity: 1; }
-        58.8124% { opacity: 1; }
+        58.7452% { opacity: 0; }
+        58.8124% { opacity: 0; }
         58.8125% { opacity: 0; }
         58.8125% { opacity: 0; }
         59.0596% { opacity: 0; }
-        59.0597% { opacity: 1; }
-        59.1270% { opacity: 1; }
+        59.0597% { opacity: 0; }
+        59.1270% { opacity: 0; }
         59.1271% { opacity: 0; }
         59.1271% { opacity: 0; }
         59.3742% { opacity: 0; }
@@ -5677,8 +5677,8 @@
         63.0988% { opacity: 0; }
         63.0988% { opacity: 0; }
         63.3459% { opacity: 0; }
-        63.3460% { opacity: 1; }
-        63.4132% { opacity: 1; }
+        63.3460% { opacity: 0; }
+        63.4132% { opacity: 0; }
         63.4133% { opacity: 0; }
         63.4133% { opacity: 0; }
         63.6604% { opacity: 0; }
@@ -5687,8 +5687,8 @@
         63.7558% { opacity: 0; }
         63.7558% { opacity: 0; }
         64.0029% { opacity: 0; }
-        64.0030% { opacity: 1; }
-        64.0702% { opacity: 1; }
+        64.0030% { opacity: 0; }
+        64.0702% { opacity: 0; }
         64.0703% { opacity: 0; }
         64.0703% { opacity: 0; }
         64.3174% { opacity: 0; }
@@ -5697,8 +5697,8 @@
         64.4127% { opacity: 0; }
         64.4127% { opacity: 0; }
         64.6598% { opacity: 0; }
-        64.6599% { opacity: 1; }
-        64.7272% { opacity: 1; }
+        64.6599% { opacity: 0; }
+        64.7272% { opacity: 0; }
         64.7273% { opacity: 0; }
         64.7273% { opacity: 0; }
         64.9744% { opacity: 0; }
@@ -5707,28 +5707,28 @@
         65.0697% { opacity: 0; }
         65.0697% { opacity: 0; }
         65.3168% { opacity: 0; }
-        65.3169% { opacity: 1; }
-        65.3842% { opacity: 1; }
+        65.3169% { opacity: 0; }
+        65.3842% { opacity: 0; }
         65.3843% { opacity: 0; }
         65.3843% { opacity: 0; }
         65.6313% { opacity: 0; }
-        65.6314% { opacity: 1; }
-        65.6987% { opacity: 1; }
+        65.6314% { opacity: 0; }
+        65.6987% { opacity: 0; }
         65.6988% { opacity: 0; }
         65.6988% { opacity: 0; }
         65.9459% { opacity: 0; }
-        65.9460% { opacity: 1; }
-        66.0132% { opacity: 1; }
+        65.9460% { opacity: 0; }
+        66.0132% { opacity: 0; }
         66.0133% { opacity: 0; }
         66.0133% { opacity: 0; }
         66.2604% { opacity: 0; }
-        66.2605% { opacity: 1; }
-        66.3278% { opacity: 1; }
+        66.2605% { opacity: 0; }
+        66.3278% { opacity: 0; }
         66.3279% { opacity: 0; }
         66.3279% { opacity: 0; }
         66.5750% { opacity: 0; }
-        66.5751% { opacity: 1; }
-        66.6423% { opacity: 1; }
+        66.5751% { opacity: 0; }
+        66.6423% { opacity: 0; }
         66.6424% { opacity: 0; }
         66.6424% { opacity: 0; }
         66.8895% { opacity: 0; }
@@ -5757,8 +5757,8 @@
         68.3263% { opacity: 0; }
         68.3263% { opacity: 0; }
         68.5733% { opacity: 0; }
-        68.5734% { opacity: 1; }
-        68.6407% { opacity: 1; }
+        68.5734% { opacity: 0; }
+        68.6407% { opacity: 0; }
         68.6408% { opacity: 0; }
         68.6408% { opacity: 0; }
         68.8879% { opacity: 0; }
@@ -5767,8 +5767,8 @@
         68.9832% { opacity: 0; }
         68.9832% { opacity: 0; }
         69.2303% { opacity: 0; }
-        69.2304% { opacity: 1; }
-        69.2977% { opacity: 1; }
+        69.2304% { opacity: 0; }
+        69.2977% { opacity: 0; }
         69.2978% { opacity: 0; }
         69.2978% { opacity: 0; }
         69.5449% { opacity: 0; }
@@ -5777,8 +5777,8 @@
         69.6402% { opacity: 0; }
         69.6402% { opacity: 0; }
         69.8873% { opacity: 0; }
-        69.8874% { opacity: 1; }
-        69.9546% { opacity: 1; }
+        69.8874% { opacity: 0; }
+        69.9546% { opacity: 0; }
         69.9547% { opacity: 0; }
         69.9547% { opacity: 0; }
         70.2018% { opacity: 0; }
@@ -5787,8 +5787,8 @@
         70.2972% { opacity: 0; }
         70.2972% { opacity: 0; }
         70.5443% { opacity: 0; }
-        70.5444% { opacity: 1; }
-        70.6116% { opacity: 1; }
+        70.5444% { opacity: 0; }
+        70.6116% { opacity: 0; }
         70.6117% { opacity: 0; }
         70.6117% { opacity: 0; }
         70.8588% { opacity: 0; }
@@ -5797,28 +5797,28 @@
         70.9542% { opacity: 0; }
         70.9542% { opacity: 0; }
         71.2013% { opacity: 0; }
-        71.2014% { opacity: 1; }
-        71.2686% { opacity: 1; }
+        71.2014% { opacity: 0; }
+        71.2686% { opacity: 0; }
         71.2687% { opacity: 0; }
         71.2687% { opacity: 0; }
         71.5158% { opacity: 0; }
-        71.5159% { opacity: 1; }
-        71.5831% { opacity: 1; }
+        71.5159% { opacity: 0; }
+        71.5831% { opacity: 0; }
         71.5832% { opacity: 0; }
         71.5832% { opacity: 0; }
         71.8303% { opacity: 0; }
-        71.8304% { opacity: 1; }
-        71.8977% { opacity: 1; }
+        71.8304% { opacity: 0; }
+        71.8977% { opacity: 0; }
         71.8978% { opacity: 0; }
         71.8978% { opacity: 0; }
         72.1449% { opacity: 0; }
-        72.1450% { opacity: 1; }
-        72.2122% { opacity: 1; }
+        72.1450% { opacity: 0; }
+        72.2122% { opacity: 0; }
         72.2123% { opacity: 0; }
         72.2123% { opacity: 0; }
         72.4594% { opacity: 0; }
-        72.4595% { opacity: 1; }
-        72.5268% { opacity: 1; }
+        72.4595% { opacity: 0; }
+        72.5268% { opacity: 0; }
         72.5269% { opacity: 0; }
         72.5269% { opacity: 0; }
         72.7740% { opacity: 0; }
@@ -5867,13 +5867,13 @@
         75.6424% { opacity: 0; }
         75.6424% { opacity: 0; }
         75.8895% { opacity: 0; }
-        75.8896% { opacity: 1; }
-        75.9568% { opacity: 1; }
+        75.8896% { opacity: 0; }
+        75.9568% { opacity: 0; }
         75.9569% { opacity: 0; }
         75.9569% { opacity: 0; }
         76.2040% { opacity: 0; }
-        76.2041% { opacity: 1; }
-        76.3387% { opacity: 1; }
+        76.2041% { opacity: 0; }
+        76.3387% { opacity: 0; }
         76.3388% { opacity: 0; }
         76.3388% { opacity: 0; }
         76.5859% { opacity: 0; }
@@ -5952,8 +5952,8 @@
         84.9563% { opacity: 0; }
         84.9563% { opacity: 0; }
         85.2034% { opacity: 0; }
-        85.2035% { opacity: 0; }
-        85.2708% { opacity: 0; }
+        85.2035% { opacity: 1; }
+        85.2708% { opacity: 1; }
         85.2709% { opacity: 0; }
         85.2709% { opacity: 0; }
         85.5180% { opacity: 0; }
@@ -5962,8 +5962,8 @@
         85.6133% { opacity: 0; }
         85.6133% { opacity: 0; }
         85.8604% { opacity: 0; }
-        85.8605% { opacity: 0; }
-        85.9277% { opacity: 0; }
+        85.8605% { opacity: 1; }
+        85.9277% { opacity: 1; }
         85.9278% { opacity: 0; }
         85.9278% { opacity: 0; }
         86.1749% { opacity: 0; }
@@ -5977,8 +5977,8 @@
         86.6127% { opacity: 0; }
         86.6127% { opacity: 0; }
         86.8598% { opacity: 0; }
-        86.8599% { opacity: 0; }
-        86.9271% { opacity: 0; }
+        86.8599% { opacity: 1; }
+        86.9271% { opacity: 1; }
         86.9272% { opacity: 0; }
         86.9272% { opacity: 0; }
         87.1743% { opacity: 0; }
@@ -5987,8 +5987,8 @@
         87.3250% { opacity: 0; }
         87.3250% { opacity: 0; }
         87.5721% { opacity: 0; }
-        87.5722% { opacity: 0; }
-        87.6395% { opacity: 0; }
+        87.5722% { opacity: 1; }
+        87.6395% { opacity: 1; }
         87.6396% { opacity: 0; }
         87.6396% { opacity: 0; }
         87.8867% { opacity: 0; }
@@ -5997,13 +5997,13 @@
         87.9820% { opacity: 0; }
         87.9820% { opacity: 0; }
         88.2291% { opacity: 0; }
-        88.2292% { opacity: 0; }
-        88.2964% { opacity: 0; }
+        88.2292% { opacity: 1; }
+        88.2964% { opacity: 1; }
         88.2965% { opacity: 0; }
         88.2965% { opacity: 0; }
         88.5436% { opacity: 0; }
-        88.5437% { opacity: 0; }
-        88.6783% { opacity: 0; }
+        88.5437% { opacity: 1; }
+        88.6783% { opacity: 1; }
         88.6784% { opacity: 0; }
         88.6784% { opacity: 0; }
         88.9255% { opacity: 0; }
@@ -6017,8 +6017,8 @@
         89.5139% { opacity: 0; }
         89.5139% { opacity: 0; }
         89.7610% { opacity: 0; }
-        89.7611% { opacity: 0; }
-        90.0304% { opacity: 0; }
+        89.7611% { opacity: 1; }
+        90.0304% { opacity: 1; }
         90.0305% { opacity: 0; }
         90.0305% { opacity: 0; }
         90.2776% { opacity: 0; }
@@ -10382,7 +10382,7 @@
   </g>
   <g transform="translate(908.00 138.00)">
     <g class="cocoon-cell">
-      <title>2026-05-09: 10 contributions</title>
+      <title>2026-05-09: 11 contributions</title>
       <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#ebedf0" stroke="#d0d7de" stroke-width="0.65" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#8c959f" stroke-width="0.70" stroke-linecap="round" opacity="0.30" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.22" transform="rotate(-16 4.94 3.90)" />
@@ -12488,7 +12488,7 @@
   </g>
   <g transform="translate(908.00 138.00)">
     <g class="cocoon-cell eat-213">
-      <title>2026-05-09: 10 contributions</title>
+      <title>2026-05-09: 11 contributions</title>
       <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#9be9a8" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />

@@ -221,16 +221,30 @@ def sprite_position(
     return x + cell_size / 2 - sprite_width / 2, y + cell_size / 2 - sprite_height / 2
 
 
-def direction_for_segment(path: list[Day], index: int) -> str:
+def route_directions(path: list[Day]) -> list[str]:
     if len(path) < 2:
-        return "right"
-    current = path[index]
-    next_day = path[(index + 1) % len(path)]
-    if next_day.week < current.week:
-        return "left"
-    if next_day.week > current.week:
-        return "right"
-    return "right" if current.week <= max(day.week for day in path) / 2 else "left"
+        return ["right"]
+
+    explicit_directions: list[str | None] = []
+    for index, current in enumerate(path):
+        next_day = path[(index + 1) % len(path)]
+        if next_day.week < current.week:
+            explicit_directions.append("left")
+        elif next_day.week > current.week:
+            explicit_directions.append("right")
+        else:
+            explicit_directions.append(None)
+
+    current_direction = next(
+        (direction for direction in reversed(explicit_directions) if direction is not None),
+        "right",
+    )
+    directions: list[str] = []
+    for direction in explicit_directions:
+        if direction is not None:
+            current_direction = direction
+        directions.append(current_direction)
+    return directions
 
 
 def pct_time(value: float, duration: float) -> float:
@@ -292,6 +306,7 @@ def path_keyframes(
 
 def phase_keyframes(
     path: list[Day],
+    directions: list[str],
     timings: list[RouteTiming],
     timing_duration: float,
     phase: str,
@@ -303,15 +318,15 @@ def phase_keyframes(
         start = pct_time(timing.start, timing_duration)
         hold_end = pct_time(timing.hold_end, timing_duration)
         next_start = pct_time(timing.next_start, timing_duration)
-        travel_direction = direction_for_segment(path, index)
+        travel_direction = directions[index]
         if phase.startswith("eating-"):
-            eating_direction = direction_for_segment(path, index - 1)
+            eating_direction = directions[index - 1]
             eat_opacity = "1" if eating_direction == phase.removeprefix("eating-") else "0"
             rules.append(f"  {start:.4f}% {{ opacity: {eat_opacity}; }}")
             rules.append(f"  {max(hold_end - epsilon, start):.4f}% {{ opacity: {eat_opacity}; }}")
             rules.append(f"  {hold_end:.4f}% {{ opacity: 0; }}")
             rules.append(f"  {max(next_start - epsilon, hold_end):.4f}% {{ opacity: 0; }}")
-            rules.append(f"  {next_start:.4f}% {{ opacity: {eat_opacity}; }}")
+            rules.append(f"  {next_start:.4f}% {{ opacity: 0; }}")
         else:
             travel_opacity = "1" if travel_direction == phase else "0"
             rules.append(f"  {start:.4f}% {{ opacity: 0; }}")
@@ -413,6 +428,7 @@ def build_svg(
 ) -> None:
     total_contributions, days = extract_days(payload)
     path = nonlinear_contribution_path(days)
+    directions = route_directions(path)
     path_lookup = {day.date: index for index, day in enumerate(path)}
     max_week = max(day.week for day in days)
     step = cell_size + gap
@@ -510,10 +526,10 @@ def build_svg(
             ".left-sprite { opacity: 0; animation: crawl-path %.3fs linear infinite, crawl-left %.3fs linear infinite; }"
             % (route_duration, route_duration),
             path_keyframes(path, timings, timing_duration, grid_x, grid_y, step, cell_size, sprite_width, sprite_height),
-            phase_keyframes(path, timings, timing_duration, "eating-right"),
-            phase_keyframes(path, timings, timing_duration, "eating-left"),
-            phase_keyframes(path, timings, timing_duration, "right"),
-            phase_keyframes(path, timings, timing_duration, "left"),
+            phase_keyframes(path, directions, timings, timing_duration, "eating-right"),
+            phase_keyframes(path, directions, timings, timing_duration, "eating-left"),
+            phase_keyframes(path, directions, timings, timing_duration, "right"),
+            phase_keyframes(path, directions, timings, timing_duration, "left"),
             frame_css("travel", len(right_frames), frame_cycle),
             frame_css("eating", len(running_frames), frame_cycle),
             *eat_rules,
