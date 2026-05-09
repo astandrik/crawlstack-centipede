@@ -304,12 +304,14 @@ def phase_keyframes(
         hold_end = pct_time(timing.hold_end, timing_duration)
         next_start = pct_time(timing.next_start, timing_duration)
         travel_direction = direction_for_segment(path, index)
-        if phase == "eating":
-            rules.append(f"  {start:.4f}% {{ opacity: 1; }}")
-            rules.append(f"  {max(hold_end - epsilon, start):.4f}% {{ opacity: 1; }}")
+        if phase.startswith("eating-"):
+            eating_direction = direction_for_segment(path, index - 1)
+            eat_opacity = "1" if eating_direction == phase.removeprefix("eating-") else "0"
+            rules.append(f"  {start:.4f}% {{ opacity: {eat_opacity}; }}")
+            rules.append(f"  {max(hold_end - epsilon, start):.4f}% {{ opacity: {eat_opacity}; }}")
             rules.append(f"  {hold_end:.4f}% {{ opacity: 0; }}")
             rules.append(f"  {max(next_start - epsilon, hold_end):.4f}% {{ opacity: 0; }}")
-            rules.append(f"  {next_start:.4f}% {{ opacity: 1; }}")
+            rules.append(f"  {next_start:.4f}% {{ opacity: {eat_opacity}; }}")
         else:
             travel_opacity = "1" if travel_direction == phase else "0"
             rules.append(f"  {start:.4f}% {{ opacity: 0; }}")
@@ -499,14 +501,17 @@ def build_svg(
             "image { image-rendering: pixelated; }",
             ".runner { transform-box: fill-box; transform-origin: 0 0; animation: crawl-path %.3fs linear infinite; }"
             % route_duration,
-            ".eating-sprite { opacity: 1; animation: crawl-path %.3fs linear infinite, crawl-eating %.3fs linear infinite; }"
+            ".eating-right-sprite { opacity: 1; animation: crawl-path %.3fs linear infinite, crawl-eating-right %.3fs linear infinite; }"
+            % (route_duration, route_duration),
+            ".eating-left-sprite { opacity: 0; animation: crawl-path %.3fs linear infinite, crawl-eating-left %.3fs linear infinite; }"
             % (route_duration, route_duration),
             ".right-sprite { opacity: 0; animation: crawl-path %.3fs linear infinite, crawl-right %.3fs linear infinite; }"
             % (route_duration, route_duration),
             ".left-sprite { opacity: 0; animation: crawl-path %.3fs linear infinite, crawl-left %.3fs linear infinite; }"
             % (route_duration, route_duration),
             path_keyframes(path, timings, timing_duration, grid_x, grid_y, step, cell_size, sprite_width, sprite_height),
-            phase_keyframes(path, timings, timing_duration, "eating"),
+            phase_keyframes(path, timings, timing_duration, "eating-right"),
+            phase_keyframes(path, timings, timing_duration, "eating-left"),
             phase_keyframes(path, timings, timing_duration, "right"),
             phase_keyframes(path, timings, timing_duration, "left"),
             frame_css("travel", len(right_frames), frame_cycle),
@@ -529,8 +534,13 @@ def build_svg(
   <g class="active-cells">
 {chr(10).join(active_cells)}
   </g>
-  <g class="runner eating-sprite">
+  <g class="runner eating-right-sprite">
 {image_stack(running_frames, sprite_width, sprite_height, "eating")}
+  </g>
+  <g class="runner eating-left-sprite">
+    <g transform="translate({sprite_width:.2f} 0) scale(-1 1)">
+{image_stack(running_frames, sprite_width, sprite_height, "eating")}
+    </g>
   </g>
   <g class="runner right-sprite">
 {image_stack(right_frames, sprite_width, sprite_height, "travel")}
