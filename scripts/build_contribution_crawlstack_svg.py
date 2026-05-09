@@ -551,12 +551,12 @@ def build_svg(
 {chr(10).join(active_cells)}
   </g>
   <g class="runner eating-right-sprite">
-{image_stack(running_frames, sprite_width, sprite_height, "eating")}
-  </g>
-  <g class="runner eating-left-sprite">
     <g transform="translate({sprite_width:.2f} 0) scale(-1 1)">
 {image_stack(running_frames, sprite_width, sprite_height, "eating")}
     </g>
+  </g>
+  <g class="runner eating-left-sprite">
+{image_stack(running_frames, sprite_width, sprite_height, "eating")}
   </g>
   <g class="runner right-sprite">
 {image_stack(right_frames, sprite_width, sprite_height, "travel")}
