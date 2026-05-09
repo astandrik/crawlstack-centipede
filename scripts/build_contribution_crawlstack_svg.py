@@ -176,10 +176,10 @@ def nonlinear_contribution_path(days: list[Day]) -> list[Day]:
     return path
 
 
-def frame_css(frame_count: int, frame_cycle: float) -> str:
+def frame_css(prefix: str, frame_count: int, frame_cycle: float) -> str:
     rules = [
-        ".frame { opacity: 0; animation-duration: %.3fs; animation-timing-function: steps(1, end); animation-iteration-count: infinite; }"
-        % frame_cycle
+        ".%s-frame { opacity: 0; animation-duration: %.3fs; animation-timing-function: steps(1, end); animation-iteration-count: infinite; }"
+        % (prefix, frame_cycle)
     ]
     step = 100.0 / frame_count
     for index in range(frame_count):
@@ -187,17 +187,13 @@ def frame_css(frame_count: int, frame_cycle: float) -> str:
         end = (index + 1) * step
         fallback_opacity = " opacity: 1;" if index == 0 else ""
         rules.append(
-            f".frame-{index} {{{fallback_opacity} animation-name: show-frame-{index}; }}"
+            f".{prefix}-frame-{index} {{{fallback_opacity} animation-name: {prefix}-show-frame-{index}; }}"
         )
         rules.append(
-            "@keyframes show-frame-%d { 0%%, %.4f%% { opacity: 0; } %.4f%%, %.4f%% { opacity: 1; } %.4f%%, 100%% { opacity: 0; } }"
-            % (index, max(start - 0.0001, 0.0), start, max(end - 0.0001, start), end)
+            "@keyframes %s-show-frame-%d { 0%%, %.4f%% { opacity: 0; } %.4f%%, %.4f%% { opacity: 1; } %.4f%%, 100%% { opacity: 0; } }"
+            % (prefix, index, max(start - 0.0001, 0.0), start, max(end - 0.0001, start), end)
         )
     return "\n      ".join(rules)
-
-
-def pct(index: int, last_index: int) -> float:
-    return 100.0 if last_index <= 0 else index * 100.0 / last_index
 
 
 def cell_position(day: Day, grid_x: int, grid_y: int, step: int) -> tuple[float, float]:
@@ -221,14 +217,20 @@ def direction_for_segment(path: list[Day], index: int) -> str:
     if len(path) < 2:
         return "right"
     current = path[index]
-    next_day = path[index + 1] if index + 1 < len(path) else path[index]
+    next_day = path[(index + 1) % len(path)]
     if next_day.week < current.week:
         return "left"
     if next_day.week > current.week:
         return "right"
-    if index > 0:
-        return direction_for_segment(path, index - 1)
-    return "right"
+    return "right" if current.week <= max(day.week for day in path) / 2 else "left"
+
+
+def route_timing(index: int, point_count: int, hold_ratio: float) -> tuple[float, float, float]:
+    block = 100.0 / point_count
+    start = index * block
+    hold_end = start + block * hold_ratio
+    next_start = 100.0 if index == point_count - 1 else (index + 1) * block
+    return start, hold_end, next_start
 
 
 def path_keyframes(
@@ -239,29 +241,50 @@ def path_keyframes(
     cell_size: int,
     sprite_width: float,
     sprite_height: float,
+    hold_ratio: float,
 ) -> str:
-    last = len(path) - 1
     rules = ["@keyframes crawl-path {"]
     for index, day in enumerate(path):
+        start, hold_end, next_start = route_timing(index, len(path), hold_ratio)
         x, y = sprite_position(day, grid_x, grid_y, step, cell_size, sprite_width, sprite_height)
-        rules.append(f"  {pct(index, last):.4f}% {{ transform: translate({x:.2f}px, {y:.2f}px); }}")
+        next_day = path[(index + 1) % len(path)]
+        next_x, next_y = sprite_position(next_day, grid_x, grid_y, step, cell_size, sprite_width, sprite_height)
+        rules.append(f"  {start:.4f}% {{ transform: translate({x:.2f}px, {y:.2f}px); }}")
+        rules.append(f"  {hold_end:.4f}% {{ transform: translate({x:.2f}px, {y:.2f}px); }}")
+        rules.append(f"  {next_start:.4f}% {{ transform: translate({next_x:.2f}px, {next_y:.2f}px); }}")
     rules.append("}")
     return "\n      ".join(rules)
 
 
-def direction_keyframes(path: list[Day], direction: str) -> str:
-    last = len(path) - 1
-    rules = [f"@keyframes crawl-{direction} {{"]
+def phase_keyframes(path: list[Day], phase: str, hold_ratio: float) -> str:
+    epsilon = 0.0001
+    rules = [f"@keyframes crawl-{phase} {{"]
+    point_count = len(path)
     for index, _day in enumerate(path):
-        opacity = "1" if direction_for_segment(path, index) == direction else "0"
-        rules.append(f"  {pct(index, last):.4f}% {{ opacity: {opacity}; }}")
+        start, hold_end, next_start = route_timing(index, point_count, hold_ratio)
+        travel_direction = direction_for_segment(path, index)
+        if phase == "eating":
+            rules.append(f"  {start:.4f}% {{ opacity: 1; }}")
+            rules.append(f"  {max(hold_end - epsilon, start):.4f}% {{ opacity: 1; }}")
+            rules.append(f"  {hold_end:.4f}% {{ opacity: 0; }}")
+            rules.append(f"  {max(next_start - epsilon, hold_end):.4f}% {{ opacity: 0; }}")
+            rules.append(f"  {next_start:.4f}% {{ opacity: 1; }}")
+        else:
+            travel_opacity = "1" if travel_direction == phase else "0"
+            rules.append(f"  {start:.4f}% {{ opacity: 0; }}")
+            rules.append(f"  {max(hold_end - epsilon, start):.4f}% {{ opacity: 0; }}")
+            rules.append(f"  {hold_end:.4f}% {{ opacity: {travel_opacity}; }}")
+            rules.append(f"  {max(next_start - epsilon, hold_end):.4f}% {{ opacity: {travel_opacity}; }}")
+            rules.append(f"  {next_start:.4f}% {{ opacity: 0; }}")
     rules.append("}")
     return "\n      ".join(rules)
 
 
-def eat_keyframes(path_index: int, path_last: int, duration: float) -> tuple[str, str]:
-    eat_at = pct(path_index, path_last)
-    settle_at = min(eat_at + max(0.25, 80.0 / max(duration, 1.0)), 100.0)
+def eat_keyframes(path_index: int, point_count: int, hold_ratio: float, duration: float) -> tuple[str, str]:
+    start, hold_end, _next_start = route_timing(path_index, point_count, hold_ratio)
+    block = 100.0 / point_count
+    eat_at = start + block * min(hold_ratio * 0.58, hold_ratio)
+    settle_at = hold_end
     name = f"eat-{path_index}"
     rule = (
         f".{name} {{ animation: {name} {duration:.3f}s linear infinite; transform-box: fill-box; transform-origin: center; }}\n"
@@ -312,12 +335,12 @@ def cocoon_cell(
   </g>"""
 
 
-def image_stack(frames: list[Path], width: float, height: float) -> str:
+def image_stack(frames: list[Path], width: float, height: float, prefix: str) -> str:
     lines = []
     for index, frame in enumerate(frames):
         lines.append(
-            '    <image class="frame frame-%d" width="%.2f" height="%.2f" href="%s" />'
-            % (index, width, height, data_uri(frame))
+            '    <image class="%s-frame %s-frame-%d" width="%.2f" height="%.2f" href="%s" />'
+            % (prefix, prefix, index, width, height, data_uri(frame))
         )
     return "\n".join(lines)
 
@@ -330,6 +353,7 @@ def build_svg(
     theme: str,
     right_frames: list[Path],
     left_frames: list[Path],
+    running_frames: list[Path],
     cell_size: int,
     gap: int,
     grid_x: int,
@@ -351,12 +375,14 @@ def build_svg(
     sprite_height = sprite_width * natural_height / natural_width
     stage_height = int(max(grid_y + grid_height + 30, grid_y + 6 * step + cell_size / 2 + sprite_height / 2 + 20))
 
-    for frame in [*right_frames, *left_frames]:
+    for frame in [*right_frames, *left_frames, *running_frames]:
         if png_size(frame) != (natural_width, natural_height):
             raise ValueError(f"{frame} does not match {natural_width}x{natural_height}")
     if len(right_frames) != len(left_frames):
         raise ValueError("running-right and running-left must have the same frame count")
 
+    hold_ratio = 0.62
+    route_duration = max(duration, len(path) * 0.38)
     colors = DARK_COLORS if theme == "dark" else LIGHT_COLORS
     background = "#0d1117" if theme == "dark" else "#ffffff"
     grid_border = "#30363d" if theme == "dark" else "#d0d7de"
@@ -368,7 +394,6 @@ def build_svg(
     base_cells: list[str] = []
     active_cells: list[str] = []
     eat_rules: list[str] = []
-    path_last = len(path) - 1
 
     for day in days:
         x, y = cell_position(day, grid_x, grid_y, step)
@@ -391,7 +416,7 @@ def build_svg(
             continue
 
         color = colors.get(day.level, day.level if day.level.startswith("#") else LIGHT_COLORS["FIRST_QUARTILE"])
-        class_name, rule = eat_keyframes(path_lookup[day.date], path_last, duration)
+        class_name, rule = eat_keyframes(path_lookup[day.date], len(path), hold_ratio, route_duration)
         eat_rules.append(rule)
         active_cells.append(
             cocoon_cell(
@@ -416,15 +441,19 @@ def build_svg(
             ".cocoon-cell { transform-box: fill-box; transform-origin: center; }",
             "image { image-rendering: pixelated; }",
             ".runner { transform-box: fill-box; transform-origin: 0 0; animation: crawl-path %.3fs linear infinite; }"
-            % duration,
-            ".right-sprite { opacity: 1; animation: crawl-path %.3fs linear infinite, crawl-right %.3fs step-end infinite; }"
-            % (duration, duration),
-            ".left-sprite { opacity: 0; animation: crawl-path %.3fs linear infinite, crawl-left %.3fs step-end infinite; }"
-            % (duration, duration),
-            path_keyframes(path, grid_x, grid_y, step, cell_size, sprite_width, sprite_height),
-            direction_keyframes(path, "right"),
-            direction_keyframes(path, "left"),
-            frame_css(len(right_frames), frame_cycle),
+            % route_duration,
+            ".eating-sprite { opacity: 1; animation: crawl-path %.3fs linear infinite, crawl-eating %.3fs linear infinite; }"
+            % (route_duration, route_duration),
+            ".right-sprite { opacity: 0; animation: crawl-path %.3fs linear infinite, crawl-right %.3fs linear infinite; }"
+            % (route_duration, route_duration),
+            ".left-sprite { opacity: 0; animation: crawl-path %.3fs linear infinite, crawl-left %.3fs linear infinite; }"
+            % (route_duration, route_duration),
+            path_keyframes(path, grid_x, grid_y, step, cell_size, sprite_width, sprite_height, hold_ratio),
+            phase_keyframes(path, "eating", hold_ratio),
+            phase_keyframes(path, "right", hold_ratio),
+            phase_keyframes(path, "left", hold_ratio),
+            frame_css("travel", len(right_frames), frame_cycle),
+            frame_css("eating", len(running_frames), frame_cycle),
             *eat_rules,
         ]
     )
@@ -443,11 +472,14 @@ def build_svg(
   <g class="active-cells">
 {chr(10).join(active_cells)}
   </g>
+  <g class="runner eating-sprite">
+{image_stack(running_frames, sprite_width, sprite_height, "eating")}
+  </g>
   <g class="runner right-sprite">
-{image_stack(right_frames, sprite_width, sprite_height)}
+{image_stack(right_frames, sprite_width, sprite_height, "travel")}
   </g>
   <g class="runner left-sprite">
-{image_stack(left_frames, sprite_width, sprite_height)}
+{image_stack(left_frames, sprite_width, sprite_height, "travel")}
   </g>
 </svg>
 """
@@ -463,6 +495,7 @@ def main() -> None:
     parser.add_argument("--theme", choices=["light", "dark"], default="light")
     parser.add_argument("--right-dir", type=Path, default=Path("crawlstack/frames/running-right"))
     parser.add_argument("--left-dir", type=Path, default=Path("crawlstack/frames/running-left"))
+    parser.add_argument("--running-dir", type=Path, default=Path("crawlstack/frames/running"))
     parser.add_argument("--cell-size", type=int, default=13)
     parser.add_argument("--gap", type=int, default=4)
     parser.add_argument("--grid-x", type=int, default=24)
@@ -480,6 +513,7 @@ def main() -> None:
         theme=args.theme,
         right_frames=collect_frames(args.right_dir),
         left_frames=collect_frames(args.left_dir),
+        running_frames=collect_frames(args.running_dir),
         cell_size=args.cell_size,
         gap=args.gap,
         grid_x=args.grid_x,
