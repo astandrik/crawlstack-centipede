@@ -11,6 +11,7 @@
     <img
       alt="github-contribution-grid-crawlstack"
       src="https://raw.githubusercontent.com/astandrik/crawlstack-centipede/output/github-contribution-grid-crawlstack.svg"
+      width="100%"
     />
   </picture>
 </div>

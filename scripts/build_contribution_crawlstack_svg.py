@@ -147,16 +147,32 @@ def extract_days(payload: dict[str, Any]) -> tuple[int, list[Day]]:
     return int(calendar["totalContributions"]), days
 
 
-def serpentine_path(days: list[Day]) -> list[Day]:
-    by_position = {(day.week, day.weekday): day for day in days}
-    max_week = max(day.week for day in days)
-    path: list[Day] = []
-    for weekday in range(7):
-        weeks = range(max_week + 1) if weekday % 2 == 0 else range(max_week, -1, -1)
-        for week in weeks:
-            day = by_position.get((week, weekday))
-            if day:
-                path.append(day)
+def nonlinear_contribution_path(days: list[Day]) -> list[Day]:
+    active_days = [day for day in days if day.count > 0]
+    if not active_days:
+        return days
+
+    unvisited = set(active_days)
+    current = min(active_days, key=lambda day: (day.week, day.weekday))
+    path = [current]
+    unvisited.remove(current)
+
+    while unvisited:
+        candidates = list(unvisited)
+        cross_row = [day for day in candidates if day.weekday != current.weekday]
+        pool = cross_row if cross_row else candidates
+
+        def score(day: Day) -> tuple[float, int, int, str]:
+            week_distance = abs(day.week - current.week)
+            day_distance = abs(day.weekday - current.weekday)
+            direction_bias = 0 if (len(path) + day.weekday) % 2 == 0 else 1
+            distance = week_distance * week_distance + day_distance * day_distance * 3.5
+            return distance, direction_bias, day.week, day.date
+
+        current = min(pool, key=score)
+        path.append(current)
+        unvisited.remove(current)
+
     return path
 
 
@@ -257,6 +273,45 @@ def eat_keyframes(path_index: int, path_last: int, duration: float) -> tuple[str
     return name, rule
 
 
+def cocoon_cell(
+    *,
+    x: float,
+    y: float,
+    size: int,
+    fill: str,
+    title: str,
+    class_name: str | None,
+    stroke: str,
+    seam: str,
+    highlight: str,
+    active: bool,
+) -> str:
+    cx = size / 2
+    cy = size / 2
+    rx = size * 0.39
+    ry = size * 0.47
+    seam_x = size * 0.55
+    seam_top = size * 0.22
+    seam_bottom = size * 0.78
+    highlight_cx = size * 0.38
+    highlight_cy = size * 0.30
+    highlight_rx = size * 0.12
+    highlight_ry = size * 0.08
+    stroke_width = 0.85 if active else 0.65
+    seam_opacity = 0.42 if active else 0.30
+    highlight_opacity = 0.45 if active else 0.22
+    classes = "cocoon-cell" if class_name is None else f"cocoon-cell {class_name}"
+
+    return f"""  <g transform="translate({x:.2f} {y:.2f})">
+    <g class="{classes}">
+      <title>{title}</title>
+      <ellipse cx="{cx:.2f}" cy="{cy:.2f}" rx="{rx:.2f}" ry="{ry:.2f}" fill="{fill}" stroke="{stroke}" stroke-width="{stroke_width:.2f}" transform="rotate(-16 {cx:.2f} {cy:.2f})" />
+      <path d="M {seam_x:.2f} {seam_top:.2f} C {seam_x - 1.35:.2f} {size * 0.38:.2f}, {seam_x + 1.35:.2f} {size * 0.58:.2f}, {seam_x:.2f} {seam_bottom:.2f}" fill="none" stroke="{seam}" stroke-width="0.70" stroke-linecap="round" opacity="{seam_opacity:.2f}" />
+      <ellipse cx="{highlight_cx:.2f}" cy="{highlight_cy:.2f}" rx="{highlight_rx:.2f}" ry="{highlight_ry:.2f}" fill="{highlight}" opacity="{highlight_opacity:.2f}" transform="rotate(-16 {highlight_cx:.2f} {highlight_cy:.2f})" />
+    </g>
+  </g>"""
+
+
 def image_stack(frames: list[Path], width: float, height: float) -> str:
     lines = []
     for index, frame in enumerate(frames):
@@ -284,7 +339,7 @@ def build_svg(
     frame_cycle: float,
 ) -> None:
     total_contributions, days = extract_days(payload)
-    path = serpentine_path(days)
+    path = nonlinear_contribution_path(days)
     path_lookup = {day.date: index for index, day in enumerate(path)}
     max_week = max(day.week for day in days)
     step = cell_size + gap
@@ -306,28 +361,51 @@ def build_svg(
     background = "#0d1117" if theme == "dark" else "#ffffff"
     grid_border = "#30363d" if theme == "dark" else "#d0d7de"
     empty_color = colors["NONE"]
-    base_rects: list[str] = []
-    active_rects: list[str] = []
+    empty_seam = "#6e7681" if theme == "dark" else "#8c959f"
+    active_stroke = "#8ff0a4" if theme == "dark" else "#1a7f37"
+    active_seam = "#f0fff4" if theme == "dark" else "#096b2f"
+    highlight = "#ffffff"
+    base_cells: list[str] = []
+    active_cells: list[str] = []
     eat_rules: list[str] = []
     path_last = len(path) - 1
 
     for day in days:
         x, y = cell_position(day, grid_x, grid_y, step)
         title = f"{day.date}: {day.count} contributions"
-        if day.count <= 0:
-            base_rects.append(
-                f'  <rect x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{empty_color}"><title>{title}</title></rect>'
+        base_cells.append(
+            cocoon_cell(
+                x=x,
+                y=y,
+                size=cell_size,
+                fill=empty_color,
+                title=title,
+                class_name=None,
+                stroke=grid_border,
+                seam=empty_seam,
+                highlight=highlight,
+                active=False,
             )
+        )
+        if day.count <= 0:
             continue
 
         color = colors.get(day.level, day.level if day.level.startswith("#") else LIGHT_COLORS["FIRST_QUARTILE"])
-        base_rects.append(
-            f'  <rect x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{empty_color}"><title>{title}</title></rect>'
-        )
         class_name, rule = eat_keyframes(path_lookup[day.date], path_last, duration)
         eat_rules.append(rule)
-        active_rects.append(
-            f'  <rect class="{class_name}" x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{color}"><title>{title}</title></rect>'
+        active_cells.append(
+            cocoon_cell(
+                x=x,
+                y=y,
+                size=cell_size,
+                fill=color,
+                title=title,
+                class_name=class_name,
+                stroke=active_stroke,
+                seam=active_seam,
+                highlight=highlight,
+                active=True,
+            )
         )
 
     css = "\n      ".join(
@@ -335,6 +413,7 @@ def build_svg(
             "svg { background: transparent; }",
             f".stage {{ fill: {background}; }}",
             f".grid-outline {{ fill: none; stroke: {grid_border}; stroke-width: 1; opacity: 0.35; }}",
+            ".cocoon-cell { transform-box: fill-box; transform-origin: center; }",
             "image { image-rendering: pixelated; }",
             ".runner { transform-box: fill-box; transform-origin: 0 0; animation: crawl-path %.3fs linear infinite; }"
             % duration,
@@ -359,10 +438,10 @@ def build_svg(
   <rect class="stage" x="0" y="0" width="{stage_width}" height="{stage_height}" rx="8" />
   <rect class="grid-outline" x="{grid_x - 5}" y="{grid_y - 5}" width="{grid_width + 10}" height="{grid_height + 10}" rx="5" />
   <g class="base-cells">
-{chr(10).join(base_rects)}
+{chr(10).join(base_cells)}
   </g>
   <g class="active-cells">
-{chr(10).join(active_rects)}
+{chr(10).join(active_cells)}
   </g>
   <g class="runner right-sprite">
 {image_stack(right_frames, sprite_width, sprite_height)}
@@ -384,11 +463,11 @@ def main() -> None:
     parser.add_argument("--theme", choices=["light", "dark"], default="light")
     parser.add_argument("--right-dir", type=Path, default=Path("crawlstack/frames/running-right"))
     parser.add_argument("--left-dir", type=Path, default=Path("crawlstack/frames/running-left"))
-    parser.add_argument("--cell-size", type=int, default=11)
-    parser.add_argument("--gap", type=int, default=3)
-    parser.add_argument("--grid-x", type=int, default=28)
-    parser.add_argument("--grid-y", type=int, default=34)
-    parser.add_argument("--sprite-width", type=float, default=44.0)
+    parser.add_argument("--cell-size", type=int, default=13)
+    parser.add_argument("--gap", type=int, default=4)
+    parser.add_argument("--grid-x", type=int, default=24)
+    parser.add_argument("--grid-y", type=int, default=36)
+    parser.add_argument("--sprite-width", type=float, default=54.0)
     parser.add_argument("--duration", type=float, default=28.0)
     parser.add_argument("--frame-cycle", type=float, default=0.72)
     args = parser.parse_args()
