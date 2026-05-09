@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import base64
 import json
+import math
 import os
 import struct
 import subprocess
@@ -61,6 +62,13 @@ class Day:
     week: int
     count: int
     level: str
+
+
+@dataclass(frozen=True)
+class RouteTiming:
+    start: float
+    hold_end: float
+    next_start: float
 
 
 def png_size(path: Path) -> tuple[int, int]:
@@ -225,15 +233,11 @@ def direction_for_segment(path: list[Day], index: int) -> str:
     return "right" if current.week <= max(day.week for day in path) / 2 else "left"
 
 
-def route_timing(index: int, point_count: int, hold_ratio: float) -> tuple[float, float, float]:
-    block = 100.0 / point_count
-    start = index * block
-    hold_end = start + block * hold_ratio
-    next_start = 100.0 if index == point_count - 1 else (index + 1) * block
-    return start, hold_end, next_start
+def pct_time(value: float, duration: float) -> float:
+    return 100.0 if duration <= 0 else value * 100.0 / duration
 
 
-def path_keyframes(
+def route_timings(
     path: list[Day],
     grid_x: int,
     grid_y: int,
@@ -241,27 +245,64 @@ def path_keyframes(
     cell_size: int,
     sprite_width: float,
     sprite_height: float,
-    hold_ratio: float,
+    hold_seconds: float,
+    travel_speed: float,
+) -> tuple[list[RouteTiming], float]:
+    positions = [
+        sprite_position(day, grid_x, grid_y, step, cell_size, sprite_width, sprite_height)
+        for day in path
+    ]
+    timings: list[RouteTiming] = []
+    elapsed = 0.0
+    for index, (x, y) in enumerate(positions):
+        next_x, next_y = positions[(index + 1) % len(positions)]
+        distance = math.hypot(next_x - x, next_y - y)
+        travel_seconds = distance / travel_speed if travel_speed > 0 else 0.0
+        start = elapsed
+        hold_end = start + hold_seconds
+        next_start = hold_end + travel_seconds
+        timings.append(RouteTiming(start, hold_end, next_start))
+        elapsed = next_start
+    return timings, elapsed
+
+
+def path_keyframes(
+    path: list[Day],
+    timings: list[RouteTiming],
+    timing_duration: float,
+    grid_x: int,
+    grid_y: int,
+    step: int,
+    cell_size: int,
+    sprite_width: float,
+    sprite_height: float,
 ) -> str:
     rules = ["@keyframes crawl-path {"]
     for index, day in enumerate(path):
-        start, hold_end, next_start = route_timing(index, len(path), hold_ratio)
+        timing = timings[index]
         x, y = sprite_position(day, grid_x, grid_y, step, cell_size, sprite_width, sprite_height)
         next_day = path[(index + 1) % len(path)]
         next_x, next_y = sprite_position(next_day, grid_x, grid_y, step, cell_size, sprite_width, sprite_height)
-        rules.append(f"  {start:.4f}% {{ transform: translate({x:.2f}px, {y:.2f}px); }}")
-        rules.append(f"  {hold_end:.4f}% {{ transform: translate({x:.2f}px, {y:.2f}px); }}")
-        rules.append(f"  {next_start:.4f}% {{ transform: translate({next_x:.2f}px, {next_y:.2f}px); }}")
+        rules.append(f"  {pct_time(timing.start, timing_duration):.4f}% {{ transform: translate({x:.2f}px, {y:.2f}px); }}")
+        rules.append(f"  {pct_time(timing.hold_end, timing_duration):.4f}% {{ transform: translate({x:.2f}px, {y:.2f}px); }}")
+        rules.append(f"  {pct_time(timing.next_start, timing_duration):.4f}% {{ transform: translate({next_x:.2f}px, {next_y:.2f}px); }}")
     rules.append("}")
     return "\n      ".join(rules)
 
 
-def phase_keyframes(path: list[Day], phase: str, hold_ratio: float) -> str:
+def phase_keyframes(
+    path: list[Day],
+    timings: list[RouteTiming],
+    timing_duration: float,
+    phase: str,
+) -> str:
     epsilon = 0.0001
     rules = [f"@keyframes crawl-{phase} {{"]
-    point_count = len(path)
     for index, _day in enumerate(path):
-        start, hold_end, next_start = route_timing(index, point_count, hold_ratio)
+        timing = timings[index]
+        start = pct_time(timing.start, timing_duration)
+        hold_end = pct_time(timing.hold_end, timing_duration)
+        next_start = pct_time(timing.next_start, timing_duration)
         travel_direction = direction_for_segment(path, index)
         if phase == "eating":
             rules.append(f"  {start:.4f}% {{ opacity: 1; }}")
@@ -280,14 +321,18 @@ def phase_keyframes(path: list[Day], phase: str, hold_ratio: float) -> str:
     return "\n      ".join(rules)
 
 
-def eat_keyframes(path_index: int, point_count: int, hold_ratio: float, duration: float) -> tuple[str, str]:
-    start, hold_end, _next_start = route_timing(path_index, point_count, hold_ratio)
-    block = 100.0 / point_count
-    eat_at = start + block * min(hold_ratio * 0.58, hold_ratio)
-    settle_at = hold_end
+def eat_keyframes(
+    path_index: int,
+    timings: list[RouteTiming],
+    timing_duration: float,
+    animation_duration: float,
+) -> tuple[str, str]:
+    timing = timings[path_index]
+    eat_at = pct_time(timing.start + (timing.hold_end - timing.start) * 0.58, timing_duration)
+    settle_at = pct_time(timing.hold_end, timing_duration)
     name = f"eat-{path_index}"
     rule = (
-        f".{name} {{ animation: {name} {duration:.3f}s linear infinite; transform-box: fill-box; transform-origin: center; }}\n"
+        f".{name} {{ animation: {name} {animation_duration:.3f}s linear infinite; transform-box: fill-box; transform-origin: center; }}\n"
         f"      @keyframes {name} {{\n"
         f"        0%, {eat_at:.4f}% {{ opacity: 1; transform: scale(1); }}\n"
         f"        {settle_at:.4f}%, 100% {{ opacity: 0; transform: scale(0.35); }}\n"
@@ -361,6 +406,8 @@ def build_svg(
     sprite_width: float,
     duration: float,
     frame_cycle: float,
+    hold_seconds: float,
+    travel_speed: float,
 ) -> None:
     total_contributions, days = extract_days(payload)
     path = nonlinear_contribution_path(days)
@@ -381,8 +428,18 @@ def build_svg(
     if len(right_frames) != len(left_frames):
         raise ValueError("running-right and running-left must have the same frame count")
 
-    hold_ratio = 0.62
-    route_duration = max(duration, len(path) * 0.38)
+    timings, timing_duration = route_timings(
+        path,
+        grid_x,
+        grid_y,
+        step,
+        cell_size,
+        sprite_width,
+        sprite_height,
+        hold_seconds,
+        travel_speed,
+    )
+    route_duration = max(duration, timing_duration)
     colors = DARK_COLORS if theme == "dark" else LIGHT_COLORS
     background = "#0d1117" if theme == "dark" else "#ffffff"
     grid_border = "#30363d" if theme == "dark" else "#d0d7de"
@@ -416,7 +473,7 @@ def build_svg(
             continue
 
         color = colors.get(day.level, day.level if day.level.startswith("#") else LIGHT_COLORS["FIRST_QUARTILE"])
-        class_name, rule = eat_keyframes(path_lookup[day.date], len(path), hold_ratio, route_duration)
+        class_name, rule = eat_keyframes(path_lookup[day.date], timings, timing_duration, route_duration)
         eat_rules.append(rule)
         active_cells.append(
             cocoon_cell(
@@ -448,10 +505,10 @@ def build_svg(
             % (route_duration, route_duration),
             ".left-sprite { opacity: 0; animation: crawl-path %.3fs linear infinite, crawl-left %.3fs linear infinite; }"
             % (route_duration, route_duration),
-            path_keyframes(path, grid_x, grid_y, step, cell_size, sprite_width, sprite_height, hold_ratio),
-            phase_keyframes(path, "eating", hold_ratio),
-            phase_keyframes(path, "right", hold_ratio),
-            phase_keyframes(path, "left", hold_ratio),
+            path_keyframes(path, timings, timing_duration, grid_x, grid_y, step, cell_size, sprite_width, sprite_height),
+            phase_keyframes(path, timings, timing_duration, "eating"),
+            phase_keyframes(path, timings, timing_duration, "right"),
+            phase_keyframes(path, timings, timing_duration, "left"),
             frame_css("travel", len(right_frames), frame_cycle),
             frame_css("eating", len(running_frames), frame_cycle),
             *eat_rules,
@@ -503,6 +560,8 @@ def main() -> None:
     parser.add_argument("--sprite-width", type=float, default=54.0)
     parser.add_argument("--duration", type=float, default=28.0)
     parser.add_argument("--frame-cycle", type=float, default=0.72)
+    parser.add_argument("--hold-seconds", type=float, default=0.24)
+    parser.add_argument("--travel-speed", type=float, default=260.0)
     args = parser.parse_args()
 
     payload = load_calendar(args.user, args.fixture)
@@ -521,6 +580,8 @@ def main() -> None:
         sprite_width=args.sprite_width,
         duration=args.duration,
         frame_cycle=args.frame_cycle,
+        hold_seconds=args.hold_seconds,
+        travel_speed=args.travel_speed,
     )
 
 
