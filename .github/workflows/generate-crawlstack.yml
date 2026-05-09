@@ -1,0 +1,48 @@
+name: Generate Crawlstack contribution grid
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/generate-crawlstack.yml"
+      - "scripts/build_contribution_crawlstack_svg.py"
+      - "crawlstack/frames/**"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          python3 scripts/build_contribution_crawlstack_svg.py \
+            --user "${{ github.repository_owner }}" \
+            --theme light \
+            --output dist/github-contribution-grid-crawlstack.svg
+          python3 scripts/build_contribution_crawlstack_svg.py \
+            --user "${{ github.repository_owner }}" \
+            --theme dark \
+            --output dist/github-contribution-grid-crawlstack-dark.svg
+
+      - name: Publish output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
