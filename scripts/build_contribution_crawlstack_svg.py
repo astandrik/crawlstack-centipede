@@ -586,8 +586,8 @@ def main() -> None:
     parser.add_argument("--sprite-width", type=float, default=54.0)
     parser.add_argument("--duration", type=float, default=28.0)
     parser.add_argument("--frame-cycle", type=float, default=0.72)
-    parser.add_argument("--hold-seconds", type=float, default=0.24)
-    parser.add_argument("--travel-speed", type=float, default=260.0)
+    parser.add_argument("--hold-seconds", type=float, default=0.26)
+    parser.add_argument("--travel-speed", type=float, default=240.0)
     args = parser.parse_args()
 
     payload = load_calendar(args.user, args.fixture)

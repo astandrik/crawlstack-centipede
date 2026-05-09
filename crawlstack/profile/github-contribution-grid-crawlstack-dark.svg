@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="945" height="193" viewBox="0 0 945 193" role="img" aria-labelledby="title desc">
   <title id="title">Crawlstack eating astandrik's GitHub contributions</title>
-  <desc id="desc">Crawlstack crawls across a GitHub contribution grid with 2559 contributions and consumes active cells.</desc>
+  <desc id="desc">Crawlstack crawls across a GitHub contribution grid with 2560 contributions and consumes active cells.</desc>
   <style>
     svg { background: transparent; }
       .stage { fill: #0d1117; }
       .grid-outline { fill: none; stroke: #30363d; stroke-width: 1; opacity: 0.35; }
       .cocoon-cell { transform-box: fill-box; transform-origin: center; }
       image { image-rendering: pixelated; }
-      .runner { transform-box: fill-box; transform-origin: 0 0; animation: crawl-path 97.089s linear infinite; }
-      .eating-right-sprite { opacity: 1; animation: crawl-path 97.089s linear infinite, crawl-eating-right 97.089s linear infinite; }
-      .eating-left-sprite { opacity: 0; animation: crawl-path 97.089s linear infinite, crawl-eating-left 97.089s linear infinite; }
-      .right-sprite { opacity: 0; animation: crawl-path 97.089s linear infinite, crawl-right 97.089s linear infinite; }
-      .left-sprite { opacity: 0; animation: crawl-path 97.089s linear infinite, crawl-left 97.089s linear infinite; }
+      .runner { transform-box: fill-box; transform-origin: 0 0; animation: crawl-path 105.180s linear infinite; }
+      .eating-right-sprite { opacity: 1; animation: crawl-path 105.180s linear infinite, crawl-eating-right 105.180s linear infinite; }
+      .eating-left-sprite { opacity: 0; animation: crawl-path 105.180s linear infinite, crawl-eating-left 105.180s linear infinite; }
+      .right-sprite { opacity: 0; animation: crawl-path 105.180s linear infinite, crawl-right 105.180s linear infinite; }
+      .left-sprite { opacity: 0; animation: crawl-path 105.180s linear infinite, crawl-left 105.180s linear infinite; }
       @keyframes crawl-path {
         0.0000% { transform: translate(3.50px, 30.25px); }
         0.2472% { transform: translate(3.50px, 30.25px); }
@@ -6101,1317 +6101,1317 @@
       @keyframes eating-show-frame-4 { 0%, 66.6666% { opacity: 0; } 66.6667%, 83.3332% { opacity: 1; } 83.3333%, 100% { opacity: 0; } }
       .eating-frame-5 { animation-name: eating-show-frame-5; }
       @keyframes eating-show-frame-5 { 0%, 83.3332% { opacity: 0; } 83.3333%, 99.9999% { opacity: 1; } 100.0000%, 100% { opacity: 0; } }
-      .eat-0 { animation: eat-0 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-0 { animation: eat-0 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-0 {
         0%, 0.1434% { opacity: 1; transform: scale(1); }
         0.2472%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-1 { animation: eat-1 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-1 { animation: eat-1 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-1 {
         0%, 0.4579% { opacity: 1; transform: scale(1); }
         0.5617%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-2 { animation: eat-2 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-2 { animation: eat-2 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-2 {
         0%, 0.7725% { opacity: 1; transform: scale(1); }
         0.8763%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-60 { animation: eat-60 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-60 { animation: eat-60 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-60 {
         0%, 20.0917% { opacity: 1; transform: scale(1); }
         20.1956%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-5 { animation: eat-5 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-5 { animation: eat-5 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-5 {
         0%, 1.7440% { opacity: 1; transform: scale(1); }
         1.8478%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-4 { animation: eat-4 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-4 { animation: eat-4 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-4 {
         0%, 1.4294% { opacity: 1; transform: scale(1); }
         1.5333%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-3 { animation: eat-3 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-3 { animation: eat-3 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-3 {
         0%, 1.1149% { opacity: 1; transform: scale(1); }
         1.2187%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-12 { animation: eat-12 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-12 { animation: eat-12 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-12 {
         0%, 4.0015% { opacity: 1; transform: scale(1); }
         4.1054%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-11 { animation: eat-11 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-11 { animation: eat-11 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-11 {
         0%, 3.6870% { opacity: 1; transform: scale(1); }
         3.7908%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-59 { animation: eat-59 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-59 { animation: eat-59 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-59 {
         0%, 19.7493% { opacity: 1; transform: scale(1); }
         19.8531%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-6 { animation: eat-6 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-6 { animation: eat-6 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-6 {
         0%, 2.0864% { opacity: 1; transform: scale(1); }
         2.1902%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-7 { animation: eat-7 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-7 { animation: eat-7 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-7 {
         0%, 2.4009% { opacity: 1; transform: scale(1); }
         2.5048%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-8 { animation: eat-8 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-8 { animation: eat-8 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-8 {
         0%, 2.7155% { opacity: 1; transform: scale(1); }
         2.8193%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-9 { animation: eat-9 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-9 { animation: eat-9 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-9 {
         0%, 3.0300% { opacity: 1; transform: scale(1); }
         3.1338%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-10 { animation: eat-10 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-10 { animation: eat-10 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-10 {
         0%, 3.3446% { opacity: 1; transform: scale(1); }
         3.4484%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-15 { animation: eat-15 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-15 { animation: eat-15 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-15 {
         0%, 5.0284% { opacity: 1; transform: scale(1); }
         5.1322%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-14 { animation: eat-14 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-14 { animation: eat-14 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-14 {
         0%, 4.7139% { opacity: 1; transform: scale(1); }
         4.8177%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-13 { animation: eat-13 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-13 { animation: eat-13 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-13 {
         0%, 4.3993% { opacity: 1; transform: scale(1); }
         4.5031%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-24 { animation: eat-24 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-24 { animation: eat-24 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-24 {
         0%, 7.9151% { opacity: 1; transform: scale(1); }
         8.0189%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-23 { animation: eat-23 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-23 { animation: eat-23 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-23 {
         0%, 7.6005% { opacity: 1; transform: scale(1); }
         7.7043%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-22 { animation: eat-22 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-22 { animation: eat-22 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-22 {
         0%, 7.2860% { opacity: 1; transform: scale(1); }
         7.3898%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-58 { animation: eat-58 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-58 { animation: eat-58 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-58 {
         0%, 19.3515% { opacity: 1; transform: scale(1); }
         19.4553%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-16 { animation: eat-16 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-16 { animation: eat-16 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-16 {
         0%, 5.3708% { opacity: 1; transform: scale(1); }
         5.4747%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-17 { animation: eat-17 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-17 { animation: eat-17 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-17 {
         0%, 5.6854% { opacity: 1; transform: scale(1); }
         5.7892%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-18 { animation: eat-18 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-18 { animation: eat-18 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-18 {
         0%, 5.9999% { opacity: 1; transform: scale(1); }
         6.1037%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-19 { animation: eat-19 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-19 { animation: eat-19 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-19 {
         0%, 6.3145% { opacity: 1; transform: scale(1); }
         6.4183%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-20 { animation: eat-20 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-20 { animation: eat-20 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-20 {
         0%, 6.6290% { opacity: 1; transform: scale(1); }
         6.7328%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-21 { animation: eat-21 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-21 { animation: eat-21 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-21 {
         0%, 6.9435% { opacity: 1; transform: scale(1); }
         7.0474%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-26 { animation: eat-26 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-26 { animation: eat-26 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-26 {
         0%, 8.6274% { opacity: 1; transform: scale(1); }
         8.7312%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-25 { animation: eat-25 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-25 { animation: eat-25 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-25 {
         0%, 8.3128% { opacity: 1; transform: scale(1); }
         8.4167%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-62 { animation: eat-62 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-62 { animation: eat-62 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-62 {
         0%, 21.2528% { opacity: 1; transform: scale(1); }
         21.3566%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-28 { animation: eat-28 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-28 { animation: eat-28 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-28 {
         0%, 9.2844% { opacity: 1; transform: scale(1); }
         9.3882%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-27 { animation: eat-27 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-27 { animation: eat-27 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-27 {
         0%, 8.9698% { opacity: 1; transform: scale(1); }
         9.0736%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-56 { animation: eat-56 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-56 { animation: eat-56 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-56 {
         0%, 18.5095% { opacity: 1; transform: scale(1); }
         18.6133%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-55 { animation: eat-55 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-55 { animation: eat-55 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-55 {
         0%, 18.1949% { opacity: 1; transform: scale(1); }
         18.2988%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-57 { animation: eat-57 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-57 { animation: eat-57 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-57 {
         0%, 18.8914% { opacity: 1; transform: scale(1); }
         18.9952%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-30 { animation: eat-30 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-30 { animation: eat-30 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-30 {
         0%, 9.9413% { opacity: 1; transform: scale(1); }
         10.0452%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-29 { animation: eat-29 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-29 { animation: eat-29 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-29 {
         0%, 9.6268% { opacity: 1; transform: scale(1); }
         9.7306%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-54 { animation: eat-54 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-54 { animation: eat-54 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-54 {
         0%, 17.8525% { opacity: 1; transform: scale(1); }
         17.9563%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-53 { animation: eat-53 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-53 { animation: eat-53 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-53 {
         0%, 17.5380% { opacity: 1; transform: scale(1); }
         17.6418%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-61 { animation: eat-61 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-61 { animation: eat-61 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-61 {
         0%, 20.8151% { opacity: 1; transform: scale(1); }
         20.9190%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-63 { animation: eat-63 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-63 { animation: eat-63 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-63 {
         0%, 21.7428% { opacity: 1; transform: scale(1); }
         21.8466%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-52 { animation: eat-52 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-52 { animation: eat-52 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-52 {
         0%, 17.1955% { opacity: 1; transform: scale(1); }
         17.2994%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-51 { animation: eat-51 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-51 { animation: eat-51 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-51 {
         0%, 16.8810% { opacity: 1; transform: scale(1); }
         16.9848%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-262 { animation: eat-262 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-262 { animation: eat-262 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-262 {
         0%, 99.2938% { opacity: 1; transform: scale(1); }
         99.3976%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-32 { animation: eat-32 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-32 { animation: eat-32 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-32 {
         0%, 10.6537% { opacity: 1; transform: scale(1); }
         10.7575%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-31 { animation: eat-31 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-31 { animation: eat-31 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-31 {
         0%, 10.3391% { opacity: 1; transform: scale(1); }
         10.4429%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-50 { animation: eat-50 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-50 { animation: eat-50 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-50 {
         0%, 16.5386% { opacity: 1; transform: scale(1); }
         16.6424%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-49 { animation: eat-49 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-49 { animation: eat-49 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-49 {
         0%, 16.2240% { opacity: 1; transform: scale(1); }
         16.3278%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-34 { animation: eat-34 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-34 { animation: eat-34 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-34 {
         0%, 11.3106% { opacity: 1; transform: scale(1); }
         11.4145%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-33 { animation: eat-33 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-33 { animation: eat-33 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-33 {
         0%, 10.9961% { opacity: 1; transform: scale(1); }
         11.0999%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-47 { animation: eat-47 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-47 { animation: eat-47 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-47 {
         0%, 15.5670% { opacity: 1; transform: scale(1); }
         15.6709%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-48 { animation: eat-48 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-48 { animation: eat-48 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-48 {
         0%, 15.8816% { opacity: 1; transform: scale(1); }
         15.9854%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-36 { animation: eat-36 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-36 { animation: eat-36 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-36 {
         0%, 11.9676% { opacity: 1; transform: scale(1); }
         12.0714%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-35 { animation: eat-35 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-35 { animation: eat-35 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-35 {
         0%, 11.6531% { opacity: 1; transform: scale(1); }
         11.7569%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-46 { animation: eat-46 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-46 { animation: eat-46 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-46 {
         0%, 15.2246% { opacity: 1; transform: scale(1); }
         15.3284%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-45 { animation: eat-45 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-45 { animation: eat-45 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-45 {
         0%, 14.9101% { opacity: 1; transform: scale(1); }
         15.0139%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-261 { animation: eat-261 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-261 { animation: eat-261 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-261 {
         0%, 98.8446% { opacity: 1; transform: scale(1); }
         98.9484%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-38 { animation: eat-38 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-38 { animation: eat-38 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-38 {
         0%, 12.6246% { opacity: 1; transform: scale(1); }
         12.7284%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-37 { animation: eat-37 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-37 { animation: eat-37 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-37 {
         0%, 12.3101% { opacity: 1; transform: scale(1); }
         12.4139%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-44 { animation: eat-44 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-44 { animation: eat-44 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-44 {
         0%, 14.5676% { opacity: 1; transform: scale(1); }
         14.6714%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-43 { animation: eat-43 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-43 { animation: eat-43 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-43 {
         0%, 14.2531% { opacity: 1; transform: scale(1); }
         14.3569%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-82 { animation: eat-82 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-82 { animation: eat-82 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-82 {
         0%, 28.3794% { opacity: 1; transform: scale(1); }
         28.4832%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-81 { animation: eat-81 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-81 { animation: eat-81 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-81 {
         0%, 28.0648% { opacity: 1; transform: scale(1); }
         28.1686%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-39 { animation: eat-39 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-39 { animation: eat-39 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-39 {
         0%, 12.9670% { opacity: 1; transform: scale(1); }
         13.0708%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-40 { animation: eat-40 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-40 { animation: eat-40 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-40 {
         0%, 13.2816% { opacity: 1; transform: scale(1); }
         13.3854%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-41 { animation: eat-41 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-41 { animation: eat-41 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-41 {
         0%, 13.5961% { opacity: 1; transform: scale(1); }
         13.6999%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-42 { animation: eat-42 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-42 { animation: eat-42 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-42 {
         0%, 13.9106% { opacity: 1; transform: scale(1); }
         14.0145%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-65 { animation: eat-65 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-65 { animation: eat-65 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-65 {
         0%, 22.7142% { opacity: 1; transform: scale(1); }
         22.8180%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-64 { animation: eat-64 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-64 { animation: eat-64 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-64 {
         0%, 22.3997% { opacity: 1; transform: scale(1); }
         22.5035%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-79 { animation: eat-79 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-79 { animation: eat-79 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-79 {
         0%, 27.2851% { opacity: 1; transform: scale(1); }
         27.3890%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-78 { animation: eat-78 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-78 { animation: eat-78 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-78 {
         0%, 26.9706% { opacity: 1; transform: scale(1); }
         27.0744%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-80 { animation: eat-80 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-80 { animation: eat-80 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-80 {
         0%, 27.6670% { opacity: 1; transform: scale(1); }
         27.7709%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-67 { animation: eat-67 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-67 { animation: eat-67 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-67 {
         0%, 23.3712% { opacity: 1; transform: scale(1); }
         23.4750%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-66 { animation: eat-66 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-66 { animation: eat-66 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-66 {
         0%, 23.0566% { opacity: 1; transform: scale(1); }
         23.1605%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-77 { animation: eat-77 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-77 { animation: eat-77 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-77 {
         0%, 26.6282% { opacity: 1; transform: scale(1); }
         26.7320%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-76 { animation: eat-76 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-76 { animation: eat-76 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-76 {
         0%, 26.3136% { opacity: 1; transform: scale(1); }
         26.4174%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-259 { animation: eat-259 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-259 { animation: eat-259 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-259 {
         0%, 95.9220% { opacity: 1; transform: scale(1); }
         96.0258%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-69 { animation: eat-69 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-69 { animation: eat-69 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-69 {
         0%, 24.0282% { opacity: 1; transform: scale(1); }
         24.1320%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-68 { animation: eat-68 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-68 { animation: eat-68 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-68 {
         0%, 23.7136% { opacity: 1; transform: scale(1); }
         23.8174%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-75 { animation: eat-75 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-75 { animation: eat-75 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-75 {
         0%, 25.9712% { opacity: 1; transform: scale(1); }
         26.0750%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-74 { animation: eat-74 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-74 { animation: eat-74 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-74 {
         0%, 25.6567% { opacity: 1; transform: scale(1); }
         25.7605%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-257 { animation: eat-257 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-257 { animation: eat-257 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-257 {
         0%, 93.4700% { opacity: 1; transform: scale(1); }
         93.5738%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-70 { animation: eat-70 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-70 { animation: eat-70 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-70 {
         0%, 24.3706% { opacity: 1; transform: scale(1); }
         24.4744%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-71 { animation: eat-71 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-71 { animation: eat-71 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-71 {
         0%, 24.6851% { opacity: 1; transform: scale(1); }
         24.7890%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-72 { animation: eat-72 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-72 { animation: eat-72 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-72 {
         0%, 24.9997% { opacity: 1; transform: scale(1); }
         25.1035%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-73 { animation: eat-73 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-73 { animation: eat-73 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-73 {
         0%, 25.3142% { opacity: 1; transform: scale(1); }
         25.4180%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-86 { animation: eat-86 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-86 { animation: eat-86 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-86 {
         0%, 29.9798% { opacity: 1; transform: scale(1); }
         30.0836%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-85 { animation: eat-85 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-85 { animation: eat-85 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-85 {
         0%, 29.6653% { opacity: 1; transform: scale(1); }
         29.7691%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-84 { animation: eat-84 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-84 { animation: eat-84 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-84 {
         0%, 29.3507% { opacity: 1; transform: scale(1); }
         29.4546%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-83 { animation: eat-83 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-83 { animation: eat-83 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-83 {
         0%, 29.0362% { opacity: 1; transform: scale(1); }
         29.1400%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-255 { animation: eat-255 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-255 { animation: eat-255 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-255 {
         0%, 91.4878% { opacity: 1; transform: scale(1); }
         91.5916%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-87 { animation: eat-87 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-87 { animation: eat-87 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-87 {
         0%, 30.3222% { opacity: 1; transform: scale(1); }
         30.4261%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-88 { animation: eat-88 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-88 { animation: eat-88 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-88 {
         0%, 30.6368% { opacity: 1; transform: scale(1); }
         30.7406%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-249 { animation: eat-249 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-249 { animation: eat-249 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-249 {
         0%, 88.4399% { opacity: 1; transform: scale(1); }
         88.5437%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-248 { animation: eat-248 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-248 { animation: eat-248 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-248 {
         0%, 88.1254% { opacity: 1; transform: scale(1); }
         88.2292%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-250 { animation: eat-250 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-250 { animation: eat-250 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-250 {
         0%, 88.8218% { opacity: 1; transform: scale(1); }
         88.9256%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-252 { animation: eat-252 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-252 { animation: eat-252 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-252 {
         0%, 89.6573% { opacity: 1; transform: scale(1); }
         89.7611%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-247 { animation: eat-247 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-247 { animation: eat-247 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-247 {
         0%, 87.7829% { opacity: 1; transform: scale(1); }
         87.8868%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-246 { animation: eat-246 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-246 { animation: eat-246 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-246 {
         0%, 87.4684% { opacity: 1; transform: scale(1); }
         87.5722%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-253 { animation: eat-253 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-253 { animation: eat-253 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-253 {
         0%, 90.1738% { opacity: 1; transform: scale(1); }
         90.2777%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-90 { animation: eat-90 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-90 { animation: eat-90 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-90 {
         0%, 31.3491% { opacity: 1; transform: scale(1); }
         31.4529%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-89 { animation: eat-89 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-89 { animation: eat-89 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-89 {
         0%, 31.0346% { opacity: 1; transform: scale(1); }
         31.1384%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-251 { animation: eat-251 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-251 { animation: eat-251 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-251 {
         0%, 89.2595% { opacity: 1; transform: scale(1); }
         89.3633%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-92 { animation: eat-92 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-92 { animation: eat-92 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-92 {
         0%, 32.0061% { opacity: 1; transform: scale(1); }
         32.1099%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-91 { animation: eat-91 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-91 { animation: eat-91 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-91 {
         0%, 31.6915% { opacity: 1; transform: scale(1); }
         31.7954%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-245 { animation: eat-245 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-245 { animation: eat-245 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-245 {
         0%, 87.0706% { opacity: 1; transform: scale(1); }
         87.1744%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-244 { animation: eat-244 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-244 { animation: eat-244 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-244 {
         0%, 86.7561% { opacity: 1; transform: scale(1); }
         86.8599%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-243 { animation: eat-243 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-243 { animation: eat-243 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-243 {
         0%, 86.4136% { opacity: 1; transform: scale(1); }
         86.5175%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-93 { animation: eat-93 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-93 { animation: eat-93 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-93 {
         0%, 32.4039% { opacity: 1; transform: scale(1); }
         32.5077%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-94 { animation: eat-94 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-94 { animation: eat-94 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-94 {
         0%, 32.7184% { opacity: 1; transform: scale(1); }
         32.8222%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-241 { animation: eat-241 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-241 { animation: eat-241 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-241 {
         0%, 85.7567% { opacity: 1; transform: scale(1); }
         85.8605%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-242 { animation: eat-242 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-242 { animation: eat-242 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-242 {
         0%, 86.0712% { opacity: 1; transform: scale(1); }
         86.1750%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-97 { animation: eat-97 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-97 { animation: eat-97 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-97 {
         0%, 33.6899% { opacity: 1; transform: scale(1); }
         33.7938%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-96 { animation: eat-96 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-96 { animation: eat-96 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-96 {
         0%, 33.3754% { opacity: 1; transform: scale(1); }
         33.4792%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-95 { animation: eat-95 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-95 { animation: eat-95 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-95 {
         0%, 33.0608% { opacity: 1; transform: scale(1); }
         33.1647%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-239 { animation: eat-239 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-239 { animation: eat-239 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-239 {
         0%, 85.0997% { opacity: 1; transform: scale(1); }
         85.2035%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-240 { animation: eat-240 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-240 { animation: eat-240 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-240 {
         0%, 85.4142% { opacity: 1; transform: scale(1); }
         85.5181%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-254 { animation: eat-254 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-254 { animation: eat-254 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-254 {
         0%, 90.7644% { opacity: 1; transform: scale(1); }
         90.8683%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-238 { animation: eat-238 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-238 { animation: eat-238 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-238 {
         0%, 84.7573% { opacity: 1; transform: scale(1); }
         84.8611%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-98 { animation: eat-98 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-98 { animation: eat-98 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-98 {
         0%, 34.0877% { opacity: 1; transform: scale(1); }
         34.1915%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-99 { animation: eat-99 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-99 { animation: eat-99 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-99 {
         0%, 34.4023% { opacity: 1; transform: scale(1); }
         34.5061%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-100 { animation: eat-100 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-100 { animation: eat-100 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-100 {
         0%, 34.7168% { opacity: 1; transform: scale(1); }
         34.8206%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-101 { animation: eat-101 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-101 { animation: eat-101 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-101 {
         0%, 35.0313% { opacity: 1; transform: scale(1); }
         35.1352%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-102 { animation: eat-102 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-102 { animation: eat-102 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-102 {
         0%, 35.3459% { opacity: 1; transform: scale(1); }
         35.4497%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-103 { animation: eat-103 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-103 { animation: eat-103 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-103 {
         0%, 35.6604% { opacity: 1; transform: scale(1); }
         35.7642%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-109 { animation: eat-109 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-109 { animation: eat-109 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-109 {
         0%, 37.5756% { opacity: 1; transform: scale(1); }
         37.6794%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-108 { animation: eat-108 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-108 { animation: eat-108 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-108 {
         0%, 37.2610% { opacity: 1; transform: scale(1); }
         37.3648%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-107 { animation: eat-107 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-107 { animation: eat-107 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-107 {
         0%, 36.9465% { opacity: 1; transform: scale(1); }
         37.0503%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-106 { animation: eat-106 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-106 { animation: eat-106 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-106 {
         0%, 36.6319% { opacity: 1; transform: scale(1); }
         36.7358%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-105 { animation: eat-105 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-105 { animation: eat-105 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-105 {
         0%, 36.3174% { opacity: 1; transform: scale(1); }
         36.4212%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-104 { animation: eat-104 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-104 { animation: eat-104 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-104 {
         0%, 36.0028% { opacity: 1; transform: scale(1); }
         36.1067%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-256 { animation: eat-256 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-256 { animation: eat-256 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-256 {
         0%, 92.4118% { opacity: 1; transform: scale(1); }
         92.5157%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-111 { animation: eat-111 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-111 { animation: eat-111 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-111 {
         0%, 38.2325% { opacity: 1; transform: scale(1); }
         38.3363%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-110 { animation: eat-110 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-110 { animation: eat-110 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-110 {
         0%, 37.9180% { opacity: 1; transform: scale(1); }
         38.0218%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-131 { animation: eat-131 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-131 { animation: eat-131 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-131 {
         0%, 44.7465% { opacity: 1; transform: scale(1); }
         44.8503%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-130 { animation: eat-130 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-130 { animation: eat-130 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-130 {
         0%, 44.4320% { opacity: 1; transform: scale(1); }
         44.5358%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-132 { animation: eat-132 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-132 { animation: eat-132 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-132 {
         0%, 45.1284% { opacity: 1; transform: scale(1); }
         45.2322%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-133 { animation: eat-133 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-133 { animation: eat-133 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-133 {
         0%, 45.4429% { opacity: 1; transform: scale(1); }
         45.5467%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-134 { animation: eat-134 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-134 { animation: eat-134 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-134 {
         0%, 45.7575% { opacity: 1; transform: scale(1); }
         45.8613%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-113 { animation: eat-113 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-113 { animation: eat-113 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-113 {
         0%, 38.8895% { opacity: 1; transform: scale(1); }
         38.9933%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-112 { animation: eat-112 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-112 { animation: eat-112 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-112 {
         0%, 38.5750% { opacity: 1; transform: scale(1); }
         38.6788%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-129 { animation: eat-129 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-129 { animation: eat-129 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-129 {
         0%, 44.0895% { opacity: 1; transform: scale(1); }
         44.1933%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-128 { animation: eat-128 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-128 { animation: eat-128 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-128 {
         0%, 43.7750% { opacity: 1; transform: scale(1); }
         43.8788%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-136 { animation: eat-136 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-136 { animation: eat-136 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-136 {
         0%, 46.4144% { opacity: 1; transform: scale(1); }
         46.5183%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-135 { animation: eat-135 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-135 { animation: eat-135 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-135 {
         0%, 46.0999% { opacity: 1; transform: scale(1); }
         46.2037%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-258 { animation: eat-258 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-258 { animation: eat-258 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-258 {
         0%, 94.6624% { opacity: 1; transform: scale(1); }
         94.7662%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-115 { animation: eat-115 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-115 { animation: eat-115 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-115 {
         0%, 39.5465% { opacity: 1; transform: scale(1); }
         39.6503%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-114 { animation: eat-114 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-114 { animation: eat-114 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-114 {
         0%, 39.2319% { opacity: 1; transform: scale(1); }
         39.3358%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-127 { animation: eat-127 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-127 { animation: eat-127 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-127 {
         0%, 43.4325% { opacity: 1; transform: scale(1); }
         43.5364%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-126 { animation: eat-126 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-126 { animation: eat-126 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-126 {
         0%, 43.1180% { opacity: 1; transform: scale(1); }
         43.2218%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-138 { animation: eat-138 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-138 { animation: eat-138 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-138 {
         0%, 47.0714% { opacity: 1; transform: scale(1); }
         47.1752%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-137 { animation: eat-137 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-137 { animation: eat-137 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-137 {
         0%, 46.7569% { opacity: 1; transform: scale(1); }
         46.8607%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-260 { animation: eat-260 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-260 { animation: eat-260 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-260 {
         0%, 97.2488% { opacity: 1; transform: scale(1); }
         97.3526%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-117 { animation: eat-117 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-117 { animation: eat-117 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-117 {
         0%, 40.2035% { opacity: 1; transform: scale(1); }
         40.3073%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-116 { animation: eat-116 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-116 { animation: eat-116 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-116 {
         0%, 39.8889% { opacity: 1; transform: scale(1); }
         39.9927%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-125 { animation: eat-125 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-125 { animation: eat-125 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-125 {
         0%, 42.7756% { opacity: 1; transform: scale(1); }
         42.8794%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-124 { animation: eat-124 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-124 { animation: eat-124 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-124 {
         0%, 42.4610% { opacity: 1; transform: scale(1); }
         42.5649%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-123 { animation: eat-123 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-123 { animation: eat-123 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-123 {
         0%, 42.1465% { opacity: 1; transform: scale(1); }
         42.2503%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-139 { animation: eat-139 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-139 { animation: eat-139 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-139 {
         0%, 47.4139% { opacity: 1; transform: scale(1); }
         47.5177%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-140 { animation: eat-140 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-140 { animation: eat-140 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-140 {
         0%, 47.7284% { opacity: 1; transform: scale(1); }
         47.8322%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-118 { animation: eat-118 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-118 { animation: eat-118 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-118 {
         0%, 40.5459% { opacity: 1; transform: scale(1); }
         40.6497%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-119 { animation: eat-119 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-119 { animation: eat-119 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-119 {
         0%, 40.8604% { opacity: 1; transform: scale(1); }
         40.9643%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-120 { animation: eat-120 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-120 { animation: eat-120 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-120 {
         0%, 41.1750% { opacity: 1; transform: scale(1); }
         41.2788%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-121 { animation: eat-121 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-121 { animation: eat-121 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-121 {
         0%, 41.4895% { opacity: 1; transform: scale(1); }
         41.5933%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-122 { animation: eat-122 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-122 { animation: eat-122 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-122 {
         0%, 41.8041% { opacity: 1; transform: scale(1); }
         41.9079%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-154 { animation: eat-154 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-154 { animation: eat-154 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-154 {
         0%, 52.5191% { opacity: 1; transform: scale(1); }
         52.6230%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-153 { animation: eat-153 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-153 { animation: eat-153 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-153 {
         0%, 52.2046% { opacity: 1; transform: scale(1); }
         52.3084%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-152 { animation: eat-152 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-152 { animation: eat-152 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-152 {
         0%, 51.8901% { opacity: 1; transform: scale(1); }
         51.9939%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-151 { animation: eat-151 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-151 { animation: eat-151 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-151 {
         0%, 51.5755% { opacity: 1; transform: scale(1); }
         51.6793%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-147 { animation: eat-147 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-147 { animation: eat-147 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-147 {
         0%, 50.2341% { opacity: 1; transform: scale(1); }
         50.3379%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-148 { animation: eat-148 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-148 { animation: eat-148 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-148 {
         0%, 50.5487% { opacity: 1; transform: scale(1); }
         50.6525%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-149 { animation: eat-149 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-149 { animation: eat-149 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-149 {
         0%, 50.8632% { opacity: 1; transform: scale(1); }
         50.9670%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-150 { animation: eat-150 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-150 { animation: eat-150 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-150 {
         0%, 51.1777% { opacity: 1; transform: scale(1); }
         51.2816%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-182 { animation: eat-182 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-182 { animation: eat-182 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-182 {
         0%, 62.0369% { opacity: 1; transform: scale(1); }
         62.1408%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-146 { animation: eat-146 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-146 { animation: eat-146 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-146 {
         0%, 49.8917% { opacity: 1; transform: scale(1); }
         49.9955%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-145 { animation: eat-145 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-145 { animation: eat-145 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-145 {
         0%, 49.5771% { opacity: 1; transform: scale(1); }
         49.6810%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-144 { animation: eat-144 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-144 { animation: eat-144 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-144 {
         0%, 49.2626% { opacity: 1; transform: scale(1); }
         49.3664%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-143 { animation: eat-143 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-143 { animation: eat-143 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-143 {
         0%, 48.9481% { opacity: 1; transform: scale(1); }
         49.0519%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-142 { animation: eat-142 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-142 { animation: eat-142 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-142 {
         0%, 48.6335% { opacity: 1; transform: scale(1); }
         48.7373%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-141 { animation: eat-141 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-141 { animation: eat-141 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-141 {
         0%, 48.3190% { opacity: 1; transform: scale(1); }
         48.4228%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-156 { animation: eat-156 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-156 { animation: eat-156 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-156 {
         0%, 53.3586% { opacity: 1; transform: scale(1); }
         53.4624%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-155 { animation: eat-155 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-155 { animation: eat-155 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-155 {
         0%, 53.0440% { opacity: 1; transform: scale(1); }
         53.1478%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-183 { animation: eat-183 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-183 { animation: eat-183 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-183 {
         0%, 62.5853% { opacity: 1; transform: scale(1); }
         62.6891%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-180 { animation: eat-180 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-180 { animation: eat-180 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-180 {
         0%, 61.3246% { opacity: 1; transform: scale(1); }
         61.4284%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-181 { animation: eat-181 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-181 { animation: eat-181 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-181 {
         0%, 61.6392% { opacity: 1; transform: scale(1); }
         61.7430%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-233 { animation: eat-233 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-233 { animation: eat-233 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-233 {
         0%, 80.1331% { opacity: 1; transform: scale(1); }
         80.2369%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-179 { animation: eat-179 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-179 { animation: eat-179 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-179 {
         0%, 60.9822% { opacity: 1; transform: scale(1); }
         61.0860%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-158 { animation: eat-158 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-158 { animation: eat-158 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-158 {
         0%, 54.0709% { opacity: 1; transform: scale(1); }
         54.1747%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-157 { animation: eat-157 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-157 { animation: eat-157 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-157 {
         0%, 53.7563% { opacity: 1; transform: scale(1); }
         53.8602%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-166 { animation: eat-166 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-166 { animation: eat-166 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-166 {
         0%, 56.6430% { opacity: 1; transform: scale(1); }
         56.7468%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-165 { animation: eat-165 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-165 { animation: eat-165 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-165 {
         0%, 56.3284% { opacity: 1; transform: scale(1); }
         56.4323%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-164 { animation: eat-164 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-164 { animation: eat-164 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-164 {
         0%, 56.0139% { opacity: 1; transform: scale(1); }
         56.1177%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-177 { animation: eat-177 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-177 { animation: eat-177 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-177 {
         0%, 60.3252% { opacity: 1; transform: scale(1); }
         60.4290%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-178 { animation: eat-178 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-178 { animation: eat-178 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-178 {
         0%, 60.6397% { opacity: 1; transform: scale(1); }
         60.7436%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-159 { animation: eat-159 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-159 { animation: eat-159 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-159 {
         0%, 54.4133% { opacity: 1; transform: scale(1); }
         54.5171%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-160 { animation: eat-160 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-160 { animation: eat-160 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-160 {
         0%, 54.7279% { opacity: 1; transform: scale(1); }
         54.8317%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-161 { animation: eat-161 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-161 { animation: eat-161 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-161 {
         0%, 55.0424% { opacity: 1; transform: scale(1); }
         55.1462%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-162 { animation: eat-162 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-162 { animation: eat-162 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-162 {
         0%, 55.3569% { opacity: 1; transform: scale(1); }
         55.4608%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-163 { animation: eat-163 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-163 { animation: eat-163 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-163 {
         0%, 55.6715% { opacity: 1; transform: scale(1); }
         55.7753%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-168 { animation: eat-168 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-168 { animation: eat-168 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-168 {
         0%, 57.3553% { opacity: 1; transform: scale(1); }
         57.4591%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-167 { animation: eat-167 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-167 { animation: eat-167 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-167 {
         0%, 57.0408% { opacity: 1; transform: scale(1); }
         57.1446%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-176 { animation: eat-176 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-176 { animation: eat-176 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-176 {
         0%, 59.9274% { opacity: 1; transform: scale(1); }
         60.0312%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-175 { animation: eat-175 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-175 { animation: eat-175 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-175 {
         0%, 59.6129% { opacity: 1; transform: scale(1); }
         59.7167%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-235 { animation: eat-235 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-235 { animation: eat-235 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-235 {
         0%, 81.4160% { opacity: 1; transform: scale(1); }
         81.5199%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-169 { animation: eat-169 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-169 { animation: eat-169 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-169 {
         0%, 57.6977% { opacity: 1; transform: scale(1); }
         57.8016%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-170 { animation: eat-170 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-170 { animation: eat-170 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-170 {
         0%, 58.0123% { opacity: 1; transform: scale(1); }
         58.1161%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-171 { animation: eat-171 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-171 { animation: eat-171 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-171 {
         0%, 58.3268% { opacity: 1; transform: scale(1); }
         58.4307%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-172 { animation: eat-172 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-172 { animation: eat-172 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-172 {
         0%, 58.6414% { opacity: 1; transform: scale(1); }
         58.7452%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-173 { animation: eat-173 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-173 { animation: eat-173 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-173 {
         0%, 58.9559% { opacity: 1; transform: scale(1); }
         59.0597%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-174 { animation: eat-174 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-174 { animation: eat-174 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-174 {
         0%, 59.2705% { opacity: 1; transform: scale(1); }
         59.3743%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-234 { animation: eat-234 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-234 { animation: eat-234 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-234 {
         0%, 80.7429% { opacity: 1; transform: scale(1); }
         80.8467%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-185 { animation: eat-185 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-185 { animation: eat-185 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-185 {
         0%, 63.5567% { opacity: 1; transform: scale(1); }
         63.6605%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-184 { animation: eat-184 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-184 { animation: eat-184 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-184 {
         0%, 63.2422% { opacity: 1; transform: scale(1); }
         63.3460%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-231 { animation: eat-231 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-231 { animation: eat-231 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-231 {
         0%, 79.0728% { opacity: 1; transform: scale(1); }
         79.1766%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-230 { animation: eat-230 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-230 { animation: eat-230 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-230 {
         0%, 78.7582% { opacity: 1; transform: scale(1); }
         78.8620%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-232 { animation: eat-232 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-232 { animation: eat-232 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-232 {
         0%, 79.4547% { opacity: 1; transform: scale(1); }
         79.5585%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-236 { animation: eat-236 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-236 { animation: eat-236 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-236 {
         0%, 82.1150% { opacity: 1; transform: scale(1); }
         82.2188%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-187 { animation: eat-187 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-187 { animation: eat-187 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-187 {
         0%, 64.2137% { opacity: 1; transform: scale(1); }
         64.3175%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-186 { animation: eat-186 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-186 { animation: eat-186 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-186 {
         0%, 63.8991% { opacity: 1; transform: scale(1); }
         64.0030%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-189 { animation: eat-189 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-189 { animation: eat-189 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-189 {
         0%, 64.8706% { opacity: 1; transform: scale(1); }
         64.9745%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-188 { animation: eat-188 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-188 { animation: eat-188 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-188 {
         0%, 64.5561% { opacity: 1; transform: scale(1); }
         64.6599%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-199 { animation: eat-199 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-199 { animation: eat-199 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-199 {
         0%, 68.0718% { opacity: 1; transform: scale(1); }
         68.1757%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-198 { animation: eat-198 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-198 { animation: eat-198 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-198 {
         0%, 67.7573% { opacity: 1; transform: scale(1); }
         67.8611%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-197 { animation: eat-197 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-197 { animation: eat-197 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-197 {
         0%, 67.4428% { opacity: 1; transform: scale(1); }
         67.5466%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-196 { animation: eat-196 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-196 { animation: eat-196 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-196 {
         0%, 67.1282% { opacity: 1; transform: scale(1); }
         67.2320%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-190 { animation: eat-190 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-190 { animation: eat-190 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-190 {
         0%, 65.2131% { opacity: 1; transform: scale(1); }
         65.3169%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-191 { animation: eat-191 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-191 { animation: eat-191 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-191 {
         0%, 65.5276% { opacity: 1; transform: scale(1); }
         65.6314%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-192 { animation: eat-192 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-192 { animation: eat-192 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-192 {
         0%, 65.8422% { opacity: 1; transform: scale(1); }
         65.9460%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-193 { animation: eat-193 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-193 { animation: eat-193 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-193 {
         0%, 66.1567% { opacity: 1; transform: scale(1); }
         66.2605%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-194 { animation: eat-194 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-194 { animation: eat-194 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-194 {
         0%, 66.4712% { opacity: 1; transform: scale(1); }
         66.5751%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-195 { animation: eat-195 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-195 { animation: eat-195 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-195 {
         0%, 66.7858% { opacity: 1; transform: scale(1); }
         66.8896%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-201 { animation: eat-201 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-201 { animation: eat-201 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-201 {
         0%, 68.7842% { opacity: 1; transform: scale(1); }
         68.8880%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-200 { animation: eat-200 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-200 { animation: eat-200 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-200 {
         0%, 68.4696% { opacity: 1; transform: scale(1); }
         68.5734%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-221 { animation: eat-221 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-221 { animation: eat-221 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-221 {
         0%, 75.3256% { opacity: 1; transform: scale(1); }
         75.4294%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-220 { animation: eat-220 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-220 { animation: eat-220 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-220 {
         0%, 75.0110% { opacity: 1; transform: scale(1); }
         75.1149%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-228 { animation: eat-228 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-228 { animation: eat-228 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-228 {
         0%, 77.8515% { opacity: 1; transform: scale(1); }
         77.9553%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-227 { animation: eat-227 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-227 { animation: eat-227 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-227 {
         0%, 77.5369% { opacity: 1; transform: scale(1); }
         77.6408%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-229 { animation: eat-229 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-229 { animation: eat-229 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-229 {
         0%, 78.2334% { opacity: 1; transform: scale(1); }
         78.3372%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-203 { animation: eat-203 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-203 { animation: eat-203 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-203 {
         0%, 69.4411% { opacity: 1; transform: scale(1); }
         69.5450%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-202 { animation: eat-202 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-202 { animation: eat-202 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-202 {
         0%, 69.1266% { opacity: 1; transform: scale(1); }
         69.2304%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-219 { animation: eat-219 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-219 { animation: eat-219 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-219 {
         0%, 74.6686% { opacity: 1; transform: scale(1); }
         74.7724%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-218 { animation: eat-218 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-218 { animation: eat-218 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-218 {
         0%, 74.3541% { opacity: 1; transform: scale(1); }
         74.4579%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-226 { animation: eat-226 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-226 { animation: eat-226 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-226 {
         0%, 77.1945% { opacity: 1; transform: scale(1); }
         77.2983%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-225 { animation: eat-225 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-225 { animation: eat-225 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-225 {
         0%, 76.8800% { opacity: 1; transform: scale(1); }
         76.9838%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-205 { animation: eat-205 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-205 { animation: eat-205 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-205 {
         0%, 70.0981% { opacity: 1; transform: scale(1); }
         70.2019%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-204 { animation: eat-204 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-204 { animation: eat-204 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-204 {
         0%, 69.7836% { opacity: 1; transform: scale(1); }
         69.8874%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-217 { animation: eat-217 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-217 { animation: eat-217 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-217 {
         0%, 74.0116% { opacity: 1; transform: scale(1); }
         74.1155%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-216 { animation: eat-216 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-216 { animation: eat-216 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-216 {
         0%, 73.6971% { opacity: 1; transform: scale(1); }
         73.8009%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-215 { animation: eat-215 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-215 { animation: eat-215 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-215 {
         0%, 73.3826% { opacity: 1; transform: scale(1); }
         73.4864%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-214 { animation: eat-214 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-214 { animation: eat-214 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-214 {
         0%, 73.0680% { opacity: 1; transform: scale(1); }
         73.1718%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-237 { animation: eat-237 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-237 { animation: eat-237 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-237 {
         0%, 82.8882% { opacity: 1; transform: scale(1); }
         82.9920%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-207 { animation: eat-207 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-207 { animation: eat-207 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-207 {
         0%, 70.7551% { opacity: 1; transform: scale(1); }
         70.8589%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-206 { animation: eat-206 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-206 { animation: eat-206 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-206 {
         0%, 70.4406% { opacity: 1; transform: scale(1); }
         70.5444%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-223 { animation: eat-223 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-223 { animation: eat-223 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-223 {
         0%, 76.1003% { opacity: 1; transform: scale(1); }
         76.2041%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-222 { animation: eat-222 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-222 { animation: eat-222 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-222 {
         0%, 75.7857% { opacity: 1; transform: scale(1); }
         75.8896%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-224 { animation: eat-224 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-224 { animation: eat-224 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-224 {
         0%, 76.4822% { opacity: 1; transform: scale(1); }
         76.5860%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-208 { animation: eat-208 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-208 { animation: eat-208 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-208 {
         0%, 71.0975% { opacity: 1; transform: scale(1); }
         71.2014%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-209 { animation: eat-209 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-209 { animation: eat-209 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-209 {
         0%, 71.4121% { opacity: 1; transform: scale(1); }
         71.5159%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-210 { animation: eat-210 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-210 { animation: eat-210 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-210 {
         0%, 71.7266% { opacity: 1; transform: scale(1); }
         71.8304%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-211 { animation: eat-211 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-211 { animation: eat-211 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-211 {
         0%, 72.0412% { opacity: 1; transform: scale(1); }
         72.1450%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-212 { animation: eat-212 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-212 { animation: eat-212 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-212 {
         0%, 72.3557% { opacity: 1; transform: scale(1); }
         72.4595%, 100% { opacity: 0; transform: scale(0.35); }
       }
-      .eat-213 { animation: eat-213 97.089s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .eat-213 { animation: eat-213 105.180s linear infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes eat-213 {
         0%, 72.6702% { opacity: 1; transform: scale(1); }
         72.7741%, 100% { opacity: 0; transform: scale(0.35); }
@@ -10382,7 +10382,7 @@
   </g>
   <g transform="translate(908.00 138.00)">
     <g class="cocoon-cell">
-      <title>2026-05-09: 12 contributions</title>
+      <title>2026-05-09: 13 contributions</title>
       <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#161b22" stroke="#30363d" stroke-width="0.65" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#6e7681" stroke-width="0.70" stroke-linecap="round" opacity="0.30" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.22" transform="rotate(-16 4.94 3.90)" />
@@ -12488,7 +12488,7 @@
   </g>
   <g transform="translate(908.00 138.00)">
     <g class="cocoon-cell eat-213">
-      <title>2026-05-09: 12 contributions</title>
+      <title>2026-05-09: 13 contributions</title>
       <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#0e4429" stroke="#8ff0a4" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#f0fff4" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
