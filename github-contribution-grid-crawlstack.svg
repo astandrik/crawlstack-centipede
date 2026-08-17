@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="945" height="193" viewBox="0 0 945 193" role="img" aria-labelledby="title desc">
   <title id="title">Crawlstack eating astandrik's GitHub contributions</title>
-  <desc id="desc">Crawlstack crawls across a GitHub contribution grid with 2867 contributions and consumes active cells.</desc>
+  <desc id="desc">Crawlstack crawls across a GitHub contribution grid with 2844 contributions and consumes active cells.</desc>
   <style>
     svg { background: transparent; }
       .stage { fill: #ffffff; }
@@ -10782,7 +10782,15 @@
   </g>
   <g transform="translate(908.00 36.00)">
     <g class="cocoon-cell">
-      <title>2026-08-16: 4 contributions</title>
+      <title>2026-08-16: 8 contributions</title>
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#ebedf0" stroke="#d0d7de" stroke-width="0.65" transform="rotate(-16 6.50 6.50)" />
+      <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#8c959f" stroke-width="0.70" stroke-linecap="round" opacity="0.30" />
+      <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.22" transform="rotate(-16 4.94 3.90)" />
+    </g>
+  </g>
+  <g transform="translate(908.00 53.00)">
+    <g class="cocoon-cell">
+      <title>2026-08-17: 0 contributions</title>
       <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#ebedf0" stroke="#d0d7de" stroke-width="0.65" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#8c959f" stroke-width="0.70" stroke-linecap="round" opacity="0.30" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.22" transform="rotate(-16 4.94 3.90)" />
@@ -11897,7 +11905,7 @@
   <g transform="translate(517.00 36.00)">
     <g class="cocoon-cell eat-250">
       <title>2026-03-08: 12 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#9be9a8" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#40c463" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
@@ -12041,7 +12049,7 @@
   <g transform="translate(568.00 104.00)">
     <g class="cocoon-cell eat-123">
       <title>2026-04-02: 12 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#9be9a8" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#40c463" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
@@ -12233,7 +12241,7 @@
   <g transform="translate(636.00 53.00)">
     <g class="cocoon-cell eat-136">
       <title>2026-04-27: 24 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#40c463" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#30a14e" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
@@ -12297,7 +12305,7 @@
   <g transform="translate(653.00 121.00)">
     <g class="cocoon-cell eat-142">
       <title>2026-05-08: 12 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#9be9a8" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#40c463" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
@@ -12361,7 +12369,7 @@
   <g transform="translate(670.00 138.00)">
     <g class="cocoon-cell eat-253">
       <title>2026-05-16: 12 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#9be9a8" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#40c463" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
@@ -12433,7 +12441,7 @@
   <g transform="translate(704.00 53.00)">
     <g class="cocoon-cell eat-152">
       <title>2026-05-25: 35 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#30a14e" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#216e39" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
@@ -12761,7 +12769,7 @@
   <g transform="translate(823.00 53.00)">
     <g class="cocoon-cell eat-211">
       <title>2026-07-13: 35 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#30a14e" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#216e39" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
@@ -12857,7 +12865,7 @@
   <g transform="translate(857.00 53.00)">
     <g class="cocoon-cell eat-213">
       <title>2026-07-27: 24 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#40c463" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#30a14e" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
@@ -12985,7 +12993,7 @@
   <g transform="translate(891.00 87.00)">
     <g class="cocoon-cell eat-220">
       <title>2026-08-12: 36 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#30a14e" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#216e39" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
@@ -13009,14 +13017,14 @@
   <g transform="translate(891.00 138.00)">
     <g class="cocoon-cell eat-223">
       <title>2026-08-15: 24 contributions</title>
-      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#40c463" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#30a14e" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
     </g>
   </g>
   <g transform="translate(908.00 36.00)">
     <g class="cocoon-cell eat-242">
-      <title>2026-08-16: 4 contributions</title>
+      <title>2026-08-16: 8 contributions</title>
       <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#9be9a8" stroke="#1a7f37" stroke-width="0.85" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#096b2f" stroke-width="0.70" stroke-linecap="round" opacity="0.42" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.45" transform="rotate(-16 4.94 3.90)" />
