@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="945" height="193" viewBox="0 0 945 193" role="img" aria-labelledby="title desc">
   <title id="title">Crawlstack eating astandrik's GitHub contributions</title>
-  <desc id="desc">Crawlstack crawls across a GitHub contribution grid with 2947 contributions and consumes active cells.</desc>
+  <desc id="desc">Crawlstack crawls across a GitHub contribution grid with 2912 contributions and consumes active cells.</desc>
   <style>
     svg { background: transparent; }
       .stage { fill: #0d1117; }
@@ -10811,6 +10811,14 @@
   <g transform="translate(908.00 36.00)">
     <g class="cocoon-cell">
       <title>2026-08-23: 0 contributions</title>
+      <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#161b22" stroke="#30363d" stroke-width="0.65" transform="rotate(-16 6.50 6.50)" />
+      <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#6e7681" stroke-width="0.70" stroke-linecap="round" opacity="0.30" />
+      <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.22" transform="rotate(-16 4.94 3.90)" />
+    </g>
+  </g>
+  <g transform="translate(908.00 53.00)">
+    <g class="cocoon-cell">
+      <title>2026-08-24: 0 contributions</title>
       <ellipse cx="6.50" cy="6.50" rx="5.07" ry="6.11" fill="#161b22" stroke="#30363d" stroke-width="0.65" transform="rotate(-16 6.50 6.50)" />
       <path d="M 7.15 2.86 C 5.80 4.94, 8.50 7.54, 7.15 10.14" fill="none" stroke="#6e7681" stroke-width="0.70" stroke-linecap="round" opacity="0.30" />
       <ellipse cx="4.94" cy="3.90" rx="1.56" ry="1.04" fill="#ffffff" opacity="0.22" transform="rotate(-16 4.94 3.90)" />
